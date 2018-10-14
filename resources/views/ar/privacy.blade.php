@@ -3,7 +3,7 @@
 @section('meta')
 
     <!--  Essential META Tags -->
-    <title></title>
+    <title>سياسة الخصوصية | اكسا كول</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta property="og:title" content="">

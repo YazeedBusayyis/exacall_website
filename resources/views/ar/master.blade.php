@@ -70,19 +70,19 @@
 
                         <!-- Navbar - Link 1 -->
                         <li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="http://localhost:8000/#what">تعرف علينا</a>
+                            <a class="nav-link u-header__nav-link" href="http://198.199.85.167/#what">تعرف علينا</a>
                         </li>
                         <!-- Navbar - Link 1 -->
 
                         <!-- Navbar - Link 2 -->
                         <li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="http://localhost:8000/services">الحلول والخدمات </a>
+                            <a class="nav-link u-header__nav-link" href="http://198.199.85.167/services">الحلول والخدمات </a>
                         </li>
                         <!-- Navbar - Link 2 -->
 
                         <!-- Navbar - Link 3 -->
                         <li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="http://localhost:8000/pricing">الأسعار والباقات</a>
+                            <a class="nav-link u-header__nav-link" href="http://198.199.85.167/pricing">الأسعار والباقات</a>
                         </li>
                         <!-- Navbar - Link 3 -->
 
@@ -94,7 +94,7 @@
 
                         <!-- Navbar - Link 5 -->
                         <li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="http://localhost:8000/contact-us">اتصل بنا</a>
+                            <a class="nav-link u-header__nav-link" href="http://198.199.85.167/contact-us">اتصل بنا</a>
                         </li>
                         <!-- Navbar - Link 5 -->
 
@@ -127,7 +127,7 @@
             <!-- Logo and About -->
             <div class="col-6 col-md-3 col-lg-3 mb-7 mb-lg-0">
                 <!-- Logo -->
-                <a class="d-inline-block mb-5" href="http://localhost:8000" aria-label="Space">
+                <a class="d-inline-block mb-5" href="http://198.199.85.167" aria-label="Space">
                     <img src="assets/svg/logos/exacall_logo_white_2.png" alt="Logo" style="width: 80px; max-width: 100%;">
                 </a>
                 <!-- End Logo -->
@@ -141,23 +141,23 @@
                 <ul>
                     <li>
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
-                        <a class="text-white" href="http://localhost:8000">الرئيسية</a>
+                        <a class="text-white" href="http://198.199.85.167">الرئيسية</a>
                     </li>
                     <li>
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
-                        <a class="text-white" href="http://localhost:8000/pricing">الأسعار والباقات</a>
+                        <a class="text-white" href="http://198.199.85.167/pricing">الأسعار والباقات</a>
                     </li>
                     <li>
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
-                        <a class="text-white" href="http://localhost:8000/team">فريق العمل</a>
+                        <a class="text-white" href="http://198.199.85.167/team">فريق العمل</a>
                     </li>
                     <li>
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
-                        <a class="text-white" href="http://localhost:8000/privacy-policy">سياسة الخصوصية</a>
+                        <a class="text-white" href="http://198.199.85.167/privacy-policy">سياسة الخصوصية</a>
                     </li>
                     <li>
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
-                        <a class="text-white" href="http://localhost:8000/terms-conditions">الشروط والأحكام</a>
+                        <a class="text-white" href="http://198.199.85.167/terms-conditions">الشروط والأحكام</a>
                     </li>
                     <li>
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
@@ -165,7 +165,7 @@
                     </li>
                     <li>
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
-                        <a class="text-white" href="http://localhost:8000/contact-us">اتصل بنا</a>
+                        <a class="text-white" href="http://198.199.85.167/contact-us">اتصل بنا</a>
                     </li>
                 </ul>
             </div>

@@ -3,8 +3,8 @@
 @section('meta')
 
     <!--  Essential META Tags -->
-    <title></title>
-    <meta name="description" content="">
+    <title>الأسعار والباقات | اكسا كول</title>
+    <meta name="description" content="نظام مرن مصمم بطريقة احترافية لإدارة اتصالاتك الهاتفية">
     <meta name="keywords" content="">
     <meta property="og:title" content="">
     <meta property="og:description" content="">

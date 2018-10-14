@@ -3,7 +3,7 @@
 @section('meta')
 
     <!--  Essential META Tags -->
-    <title></title>
+    <title>فريق العمل | اكسا كول</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta property="og:title" content="">

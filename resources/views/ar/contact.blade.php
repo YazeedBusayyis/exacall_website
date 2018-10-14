@@ -3,8 +3,8 @@
 @section('meta')
 
     <!--  Essential META Tags -->
-    <title></title>
-    <meta name="description" content="">
+    <title>اتصل بنا | اكسا كول</title>
+    <meta name="description" content="نسعى دائمًا لبذل المزيد والتعلم المستمر">
     <meta name="keywords" content="">
     <meta property="og:title" content="">
     <meta property="og:description" content="">

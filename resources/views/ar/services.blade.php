@@ -3,8 +3,8 @@
 @section('meta')
 
     <!--  Essential META Tags -->
-    <title></title>
-    <meta name="description" content="">
+    <title> الحلول والخدمات | اكسا كول</title>
+    <meta name="description" content="أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال">
     <meta name="keywords" content="">
     <meta property="og:title" content="">
     <meta property="og:description" content="">

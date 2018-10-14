@@ -3,7 +3,7 @@
 @section('meta')
 
     <!--  Essential META Tags -->
-    <title>الرئيسية</title>
+    <title>حلول الاتصال للشركات ومراكز الأعمال | اكسا كول</title>
     <meta name="description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال">
     <meta name="keywords" content="">
     <!--  OG -->
