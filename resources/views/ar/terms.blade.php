@@ -4,20 +4,19 @@
 
     <!--  Essential META Tags -->
     <title>شروط الاستخدام | اكسا كول</title>
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta property="og:title" content="">
-    <meta property="og:description" content="">
-    <meta property="og:image" content="">
-    <meta property="og:url" content="">
-    <meta name="twitter:card" content="">
-
-    <!--  Non-Essential, But Recommended -->
-    <meta property="og:site_name" content="">
-    <meta name="twitter:image:alt" content="">
-
-    <!--  Non-Essential, But Required for Analytics -->
-    <meta name="twitter:site" content="">
+    <meta name="description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال">
+    <meta name="keywords" content="اتصالات,اكساكول,تحويل مكالمات,تسجيل مكالمات,سنترال سحابي,هاتف موحد,مجموعات اتصال,اجتماعات هاتفية,خط أرضي,مراقبة مكالمات,كول سنتر,voip,9200,011,call center,exa,exacall,Business,Startup,call,calls">
+    <!--  OG -->
+    <meta property="og:title" content="شروط الاستخدام | اكسا كول">
+    <meta property="og:description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال">
+    <meta property="og:image" content="/assets/svg/logos/og_img_link.jpg">
+    <meta property="og:url" content="https://www.exacall.com">
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@exacall"/>
+    <meta name="twitter:title" content="شروط الاستخدام | اكسا كول" />
+    <meta name="twitter:description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال"/>
+    <meta name="twitter:image" content="/assets/svg/logos/og_img_link.jpg" />
 
 @endsection
 
