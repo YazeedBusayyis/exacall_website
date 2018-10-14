@@ -182,7 +182,7 @@
                         <!-- Title -->
                         <span class="d-block text-white mb-2">حلول الاتصال للشركات ومراكز الاتصال</span>
                         <h1 class="display-4 font-size-48--md-down text-justify text-white mb-0">قم بتقديم طلبك الآن وارفع من إنتاجية فريق علمك</h1>
-                        <a class="btn btn-outline-light mt-4" href="http://localhost:8000/pricing" style="border-radius: 50px;">الأسعار والباقات</a>
+                        <a class="btn btn-outline-light mt-4" href="http://198.199.85.167/pricing" style="border-radius: 50px;">الأسعار والباقات</a>
                         <!-- End Title -->
                     </div>
 
