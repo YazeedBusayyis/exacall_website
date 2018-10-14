@@ -42,7 +42,7 @@
             <nav class="js-mega-menu navbar navbar-expand-lg u-header__navbar">
                 <!-- Logo -->
                 <div class="u-header__navbar-brand-wrapper">
-                    <a class="navbar-brand u-header__navbar-brand" href="http://localhost:8000" aria-label="Space">
+                    <a class="navbar-brand u-header__navbar-brand" href="http://198.199.85.167" aria-label="Space">
                         <img class="u-header__navbar-brand-default logo" src="assets/svg/logos/exacall_logo_white_2.png" alt="Logo">
                         <img class="u-header__navbar-brand-on-scroll logo" src="assets/svg/logos/exacall_logo_2.png" alt="Logo">
                         <img class="u-header__navbar-brand-mobile" src="assets/svg/logos/exacall_logo_2.png" alt="Logo">
