@@ -2791,7 +2791,7 @@ button:focus {
 }
 
 .u-hamburger:hover .u-hamburger__inner, .u-hamburger:hover .u-hamburger__inner::before, .u-hamburger:hover .u-hamburger__inner::after {
-  background-color: #21c87a;
+  background-color: #410954;
 }
 
 .u-hamburger__box {
@@ -6690,4 +6690,24 @@ img.logo {
 
 .img-bg{
   background-image: url("/assets/img/bg/bg.png");
+}
+
+.card-deck .card{
+  margin-left: 0px;
+  margin-right: 0px;
+  border: 1px solid #f1f2f7;
+}
+
+@media (max-width: 575px) {
+  img.u-header__navbar-brand-mobile{
+    padding: 10px;
+  }
+
+  .u-header--modern .navbar-expand-lg .u-header__navbar-brand{
+    float: left;
+  }
+
+  #hero div{
+    text-align: center;
+  }
 }

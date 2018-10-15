@@ -25,7 +25,7 @@
     <!-- ========== MAIN CONTENT ========== -->
     <main id="content" role="main">
         <!-- Hero Section -->
-        <div class="bg-img-hero img-bg">
+        <div id="hero" class="bg-img-hero img-bg">
             <!-- Main Content -->
             <div class="d-lg-flex align-items-lg-center height-100vh--lg">
                 <div class="container space-2 space-0--lg mt-lg-8">

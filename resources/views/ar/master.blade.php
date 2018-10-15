@@ -34,6 +34,7 @@
 </head>
 
 <body>
+
 <!-- ========== HEADER ========== -->
 <header id="header" class="u-header u-header--modern u-header--bordered u-header--bg-transparent u-header--white-nav-links u-header--sticky-top-lg">
     <div class="u-header__section">
@@ -99,9 +100,9 @@
                         <!-- Navbar - Link 5 -->
 
                         <!-- Navbar - Link 6 -->
-                        <li class="nav-item u-header__nav-item">
+                        {{--<li class="nav-item u-header__nav-item">
                             <a class="nav-link u-header__nav-link" href="starter/index.html">English</a>
-                        </li>
+                        </li>--}}
                         <!-- Navbar - Link 6 -->
 
                     </ul>
@@ -181,7 +182,7 @@
                         <a class="text-white" href="https://www.linkedin.com/in/exacall-5925a6169/"><i class="fab fa-linkedin ml-2"></i><b>لينكد ان</b></a>
                     </li>
                 </ul>
-                <hr>
+                <br>
                 <h3 class="h3 text-white mb-3">قم بزيارتنا</h3>
                 <p class="small text-white text-justify">شركة اكساء لتقنية المعلومات طريق عثمان بن عفان ، حي التعاون ، الرياض ، المملكة العربية السعودية</p>
                 <a href="#" class="text-white"><b>رابط الموقع على قوقل ماب</b></a>
@@ -219,15 +220,6 @@
 <script src="assets/js/components/hs.slick-carousel.js"></script>
 <script src="assets/js/components/hs.fancybox.js"></script>
 <script src="assets/js/components/hs.go-to.js"></script>
-
-
-<!-- Zoho SalesIQ -->
-<script type="text/javascript">
-    var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq ||
-        {widgetcode:"40c318ec8f5548febcd8b0341463720e1bbde8a72871d2ba498f1435ed7426c9", values:{},ready:function(){}};
-    var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;
-    s.src="https://salesiq.zoho.com/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");
-</script>
 
 <!-- JS Plugins Init. -->
 <script>
@@ -284,6 +276,14 @@
 
     });
 
+</script>
+
+<!-- Zoho SalesIQ -->
+<script type="text/javascript">
+    var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq ||
+        {widgetcode:"40c318ec8f5548febcd8b0341463720e1bbde8a72871d2ba498f1435ed7426c9", values:{},ready:function(){}};
+    var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;
+    s.src="https://salesiq.zoho.com/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");
 </script>
 
 </body>

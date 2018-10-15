@@ -180,7 +180,7 @@
                     <div class="col-lg-5 mb-7 mb-lg-0">
                         <!-- Title -->
                         <span class="d-block text-white mb-2">حلول الاتصال للشركات ومراكز الاتصال</span>
-                        <h1 class="display-4 font-size-48--md-down text-justify text-white mb-0">قم بتقديم طلبك الآن وارفع من إنتاجية فريق عملك</h1>
+                        <h1 class="display-4 font-size-48--md-down text-white mb-0">قم بتقديم طلبك الآن وارفع من إنتاجية فريق عملك</h1>
                         <a class="btn btn-outline-light mt-4" href="http://198.199.85.167/pricing" style="border-radius: 50px;">الأسعار والباقات</a>
                         <!-- End Title -->
                     </div>
@@ -192,7 +192,7 @@
                             <form method="post" action="/submit_new_order" class="js-validate">
                                 <input type="hidden" name="_token" value="{{ csrf_token() }}">
                                 <div class="mb-4">
-                                    <h2 class="h4">لا تفوت مكالمة بعد اليوم .. !</h2>
+                                    <h2 class="h4">لا تفوت مكالمة بعد اليوم !</h2>
                                 </div>
 
                                 <!-- Name - Input -->

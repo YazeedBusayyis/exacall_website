@@ -59,152 +59,120 @@
             <div class="bg-gray-100 shadow-lg rounded mt-offset-9">
                 <!-- Monthly -->
                 <div id="pricingMonthly" data-target-group="idPricing">
-                    <div class="js-slick-carousel u-slick u-slick--gutters"
-                         data-slides-show="3"
-                         data-slides-scroll="1"
-                         data-pagi-classes="d-lg-none text-center u-slick__pagination mt-7 mb-0"
-                         data-responsive='[{
-                             "breakpoint": 1200,
-                             "settings": {
-                               "slidesToShow": 3
-                             }
-                           }, {
-                             "breakpoint": 992,
-                             "settings": {
-                               "slidesToShow": 2
-                             }
-                           }, {
-                             "breakpoint": 768,
-                             "settings": {
-                               "slidesToShow": 1
-                             }
-                           }, {
-                             "breakpoint": 554,
-                             "settings": {
-                               "slidesToShow": 1
-                             }
-                           }]'>
-                        <div class="js-slide">
-                            <!-- Pricing -->
-                            <div class="card border-0">
-                                <!-- Header -->
-                                <header class="card-header text-center p-5">
-                                    <h4 class="h4">المخصصة</h4>
-                                    <p>قم بتصميم الباقة الخاصة بك</p>
-                                    <span class="d-block">
-                                        <span class="display-4 text-dark">اتصل بنا</span>
-                                    </span>
-                                    <br/>
-                                </header>
-                                <!-- End Header -->
-                                <!-- Content -->
-                                <div class="card-body p-5">
-                                    <ul class="list-unstyled mb-4">
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>أكثر من 10 تحويلات</span>
-                                        </li>
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>أكثر من 5 مكالمات متزامنة</span>
-                                        </li>
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>توفير رقم 9200</span>
-                                        </li>
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>توفير رقم 011</span>
-                                        </li>
-                                    </ul>
-                                    <a href="#order" class="btn btn-block btn-primary">اطلب الآن</a>
-                                </div>
-                                <!-- End Content -->
-                            </div>
-                            <!-- End Pricing -->
-                        </div>
-
-                        <div class="js-slide">
-                            <!-- Pricing -->
-                            <div class="card border-0">
-                                <!-- Header -->
-                                <header class="card-header text-center p-5">
-                                    <h4 class="h4">الأساسية</h4>
-                                    <p>مناسبة لرواد الأعمال</p>
-                                    <span class="d-block">
-                                        <span class="display-4 text-dark">750 ريال</span>
-                                        <span class="d-block text-secondary font-size-14">لكل شهر</span>
-                                    </span>
-                                </header>
-                                <!-- End Header -->
-                                <!-- Content -->
-                                <div class="card-body p-5">
-                                    <ul class="list-unstyled mb-4">
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>تصل إلى 10 تحويلات</span>
-                                        </li>
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>تصل إلى 5 مكالمات متزامنة</span>
-                                        </li>
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>توفير رقم 9200</span>
-                                        </li>
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>توفير رقم 011</span>
-                                        </li>
-                                    </ul>
-                                    <a href="#order" class="btn btn-block btn-primary">اطلب الآن</a>
-                                </div>
-                                <!-- End Content -->
-                            </div>
-                            <!-- End Pricing -->
-                        </div>
-
-                        <div class="js-slide">
-                            <!-- Pricing -->
-                            <div class="card border-0">
-                                <!-- Header -->
-                                <header class="card-header text-center p-5">
-                                    <h4 class="h4">المصغرة</h4>
-                                    <p>مناسبة لفرق العمل الصغيرة</p>
-                                    <span class="d-block">
+                    <div class="card-deck" dir="rtl">
+                        <!-- Pricing -->
+                        <div class="card">
+                            <!-- Header -->
+                            <header class="card-header text-center p-5">
+                                <h4 class="h4">المصغرة</h4>
+                                <p>مناسبة لفرق العمل الصغيرة</p>
+                                <span class="d-block">
                                         <span class="display-4 text-dark">400 ريال</span>
                                         <span class="d-block text-secondary font-size-14">لكل شهر</span>
                                     </span>
-                                </header>
-                                <!-- End Header -->
-                                <!-- Content -->
-                                <div class="card-body p-5">
-                                    <ul class="list-unstyled mb-4">
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>تصل إلى 5 تحويلات</span>
-                                        </li>
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>تصل إلى 3 مكالمات متزامنة</span>
-                                        </li>
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>توفير رقم 9200</span>
-                                        </li>
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>توفير رقم 011</span>
-                                        </li>
-                                    </ul>
-                                    <a href="#order" class="btn btn-block btn-primary">اطلب الآن</a>
-                                </div>
-                                <!-- End Content -->
+                            </header>
+                            <!-- End Header -->
+                            <!-- Content -->
+                            <div class="card-body p-5">
+                                <ul class="list-unstyled mb-4">
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>تصل إلى 5 تحويلات</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>تصل إلى 3 مكالمات متزامنة</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>توفير رقم 9200</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>توفير رقم 011</span>
+                                    </li>
+                                </ul>
+                                <a href="#order" class="btn btn-block btn-primary">اطلب الآن</a>
                             </div>
-                            <!-- End Pricing -->
+                            <!-- End Content -->
                         </div>
-
+                        <!-- End Pricing -->
+                        <!-- Pricing -->
+                        <div class="card">
+                            <!-- Header -->
+                            <header class="card-header text-center p-5">
+                                <h4 class="h4">الأساسية</h4>
+                                <p>مناسبة لرواد الأعمال</p>
+                                <span class="d-block">
+                                        <span class="display-4 text-dark">750 ريال</span>
+                                        <span class="d-block text-secondary font-size-14">لكل شهر</span>
+                                    </span>
+                            </header>
+                            <!-- End Header -->
+                            <!-- Content -->
+                            <div class="card-body p-5">
+                                <ul class="list-unstyled mb-4">
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>تصل إلى 10 تحويلات</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>تصل إلى 5 مكالمات متزامنة</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>توفير رقم 9200</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>توفير رقم 011</span>
+                                    </li>
+                                </ul>
+                                <a href="#order" class="btn btn-block btn-primary">اطلب الآن</a>
+                            </div>
+                            <!-- End Content -->
+                        </div>
+                        <!-- End Pricing -->
+                        <!-- Pricing -->
+                        <div class="card">
+                            <!-- Header -->
+                            <header class="card-header text-center p-5">
+                                <h4 class="h4">المخصصة</h4>
+                                <p>قم بتصميم الباقة الخاصة بك</p>
+                                <span class="d-block">
+                                        <span class="display-4 text-dark">اتصل بنا</span>
+                                    </span>
+                                <br/>
+                            </header>
+                            <!-- End Header -->
+                            <!-- Content -->
+                            <div class="card-body p-5">
+                                <ul class="list-unstyled mb-4">
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>أكثر من 10 تحويلات</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>أكثر من 5 مكالمات متزامنة</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>توفير رقم 9200</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>توفير رقم 011</span>
+                                    </li>
+                                </ul>
+                                <a href="#order" class="btn btn-block btn-primary">اطلب الآن</a>
+                            </div>
+                            <!-- End Content -->
+                        </div>
+                        <!-- End Pricing -->
                     </div>
+                    <!-- End Pricing -->
                 </div>
                 <!-- End Monthly -->
             </div>
@@ -405,7 +373,7 @@
         <!-- Hero Section -->
         <div id="order" class="bg-img-hero img-bg" dir="rtl">
             <!-- Main Content -->
-            <div class="d-lg-flex align-items-lg-center height-100vh--lg">
+            <div id="hero" class="d-lg-flex align-items-lg-center height-100vh--lg">
                 <div class="container space-2 space-0--lg mt-lg-8">
                     <div class="row justify-content-lg-between align-items-lg-center">
 
@@ -424,7 +392,7 @@
                                 <form method="post" action="/submit_new_order" class="js-validate">
                                     <input type="hidden" name="_token" value="{{ csrf_token() }}">
                                     <div class="mb-4">
-                                        <h2 class="h4">لا تفوت مكالمة بعد اليوم .. !</h2>
+                                        <h2 class="h4">لا تفوت مكالمة بعد اليوم !</h2>
                                     </div>
 
                                     <!-- Name - Input -->
@@ -494,7 +462,7 @@
                 </div>
             </div>
             <!-- End Main Content -->
-        </div dir>
+        </div>
         <!-- End Hero Section -->
 
         <!-- CTA -->
