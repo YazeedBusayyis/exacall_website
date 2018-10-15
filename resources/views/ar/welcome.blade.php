@@ -35,7 +35,7 @@
                         <div class="col-lg-5 mb-7 mb-lg-0">
                             <!-- Title -->
                             <span class="d-block text-white mb-2">حلول الاتصال للشركات ومراكز الاتصال</span>
-                            <h1 class="display-4 font-size-48--md-down text-justify text-white mb-0">النظام الأكثر مرونة لإدارة اتصالاتك ومراقبة أعمالك</h1>
+                            <h1 class="display-4 font-size-48--md-down text-white mb-0">النظام الأكثر مرونة لإدارة اتصالاتك ومراقبة أعمالك</h1>
                             <a class="btn btn-outline-light mt-4" href="#what" style="border-radius: 50px;">تعرف أكثر علينا</a>
                             <!-- End Title -->
                         </div>
