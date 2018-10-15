@@ -341,10 +341,12 @@
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>تصل إلى 10 تحويلات</span>
+                                        <span class="fa fa-info-circle text-white mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>تصل إلى 5 مكالمات متزامنة</span>
+                                        <span class="fa fa-info-circle text-white mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
@@ -375,10 +377,14 @@
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>تصل إلى 5 تحويلات</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>تصل إلى 3 مكالمات متزامنة</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
+
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
@@ -408,10 +414,13 @@
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>أكثر من 10 تحويلات</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>أكثر من 5 مكالمات متزامنة</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
+
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>

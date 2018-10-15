@@ -78,10 +78,14 @@
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>تصل إلى 5 تحويلات</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>تصل إلى 3 مكالمات متزامنة</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
+
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
@@ -115,10 +119,13 @@
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>تصل إلى 10 تحويلات</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>تصل إلى 5 مكالمات متزامنة</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
@@ -152,10 +159,14 @@
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>أكثر من 10 تحويلات</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>أكثر من 5 مكالمات متزامنة</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
+
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
@@ -181,7 +192,6 @@
 
         <!-- Pricing Table Section -->
         <div class="container space-2 space-3-bottom--lg">
-
             <!-- Entertainment Pricing Table Features -->
             <table class="table table-striped table-borderless table-responsive-sm">
                 <thead>
@@ -240,9 +250,7 @@
                 </tbody>
             </table>
             <!-- End Entertainment Pricing Table Features -->
-
             <br/>
-
             <!-- Individual Pricing Table Features -->
             <table class="table table-striped table-borderless table-responsive-sm mb-9">
                 <thead>
@@ -369,14 +377,12 @@
             <!-- End Individual Pricing Table Features -->
         </div>
         <!-- End Pricing Table Section -->
-
         <!-- Hero Section -->
         <div id="order" class="bg-img-hero img-bg" dir="rtl">
             <!-- Main Content -->
             <div id="hero" class="d-lg-flex align-items-lg-center height-100vh--lg">
                 <div class="container space-2 space-0--lg mt-lg-8">
                     <div class="row justify-content-lg-between align-items-lg-center">
-
                         <!-- Big titles -->
                         <div class="col-lg-5 mb-7 mb-lg-0">
                             <!-- Title -->
@@ -384,7 +390,6 @@
                             <h1 class="display-4 font-size-48--md-down text-white mb-0">قم بتقديم طلبك الآن وارفع من إنتاجية فريق عملك</h1>
                             <!-- End Title -->
                         </div>
-
                         <!-- Order Form -->
                         <div class="col-lg-5">
                             <!-- Signup Form -->
@@ -457,14 +462,12 @@
                             </div>
                             <!-- End Signup Form -->
                         </div>
-
                     </div>
                 </div>
             </div>
             <!-- End Main Content -->
         </div>
         <!-- End Hero Section -->
-
         <!-- CTA -->
         <div class="gradient-overlay-half-primary-v1" dir="rtl">
             <div class="bg-img-hero" style="background-color: #410954;">
