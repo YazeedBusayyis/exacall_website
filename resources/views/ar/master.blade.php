@@ -284,7 +284,6 @@
         // initialization of go to
         $.HSCore.components.HSGoTo.init('.js-go-to');
 
-
     });
 
 </script>

@@ -135,7 +135,7 @@
                     </div>
 
                     <!-- Fancybox -->
-                    <a class="js-fancybox u-media-player" href="javascript:;"
+                    {{--<a class="js-fancybox u-media-player" href="javascript:;"
                        data-src="https://www.youtube.com/watch?v=zQVagCHFGys"
                        data-speed="700"
                        data-animate-in="zoomIn"
@@ -144,7 +144,7 @@
                 <span class="u-media-player__icon u-media-player__icon--xl u-media-player__icon--box-shadow">
                   <span class="fa fa-play u-media-player__icon-inner"></span>
                 </span>
-                    </a>
+                    </a>--}}
                     <!-- End Fancybox -->
                 </div>
                 <!-- End Title -->
