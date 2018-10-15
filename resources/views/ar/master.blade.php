@@ -54,7 +54,7 @@
             <nav class="js-mega-menu navbar navbar-expand-lg u-header__navbar">
                 <!-- Logo -->
                 <div class="u-header__navbar-brand-wrapper">
-                    <a class="navbar-brand u-header__navbar-brand" href="http://198.199.85.167" aria-label="Space">
+                    <a class="navbar-brand u-header__navbar-brand" href="https://www.exacall.com" aria-label="Space">
                         <img class="u-header__navbar-brand-default logo" src="assets/svg/logos/exacall_logo_white_2.png" alt="Logo">
                         <img class="u-header__navbar-brand-on-scroll logo" src="assets/svg/logos/exacall_logo_2.png" alt="Logo">
                         <img class="u-header__navbar-brand-mobile" src="assets/svg/logos/exacall_logo_2.png" alt="Logo">
@@ -82,19 +82,19 @@
 
                         <!-- Navbar - Link 1 -->
                         <li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="http://198.199.85.167/#what">تعرف علينا</a>
+                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/#what">تعرف علينا</a>
                         </li>
                         <!-- Navbar - Link 1 -->
 
                         <!-- Navbar - Link 2 -->
                         <li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="http://198.199.85.167/services">الحلول والخدمات </a>
+                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/services">الحلول والخدمات </a>
                         </li>
                         <!-- Navbar - Link 2 -->
 
                         <!-- Navbar - Link 3 -->
                         <li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="http://198.199.85.167/pricing">الأسعار والباقات</a>
+                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/pricing">الأسعار والباقات</a>
                         </li>
                         <!-- Navbar - Link 3 -->
 
@@ -106,7 +106,7 @@
 
                         <!-- Navbar - Link 5 -->
                         <li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="http://198.199.85.167/contact-us">اتصل بنا</a>
+                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/contact-us">اتصل بنا</a>
                         </li>
                         <!-- Navbar - Link 5 -->
 
@@ -139,7 +139,7 @@
             <!-- Logo and About -->
             <div class="col-12 col-md-3 col-lg-3 mb-7 mb-lg-0">
                 <!-- Logo -->
-                <a class="d-inline-block mb-5" href="http://198.199.85.167" aria-label="Space">
+                <a class="d-inline-block mb-5" href="https://www.exacall.com" aria-label="Space">
                     <img src="assets/svg/logos/exacall_logo_white_2.png" alt="Logo" style="width: 80px; max-width: 100%;">
                 </a>
                 <!-- End Logo -->
@@ -153,23 +153,23 @@
                 <ul>
                     <li>
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
-                        <a class="text-white" href="http://198.199.85.167">الرئيسية</a>
+                        <a class="text-white" href="https://www.exacall.com">الرئيسية</a>
                     </li>
                     <li>
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
-                        <a class="text-white" href="http://198.199.85.167/pricing">الأسعار والباقات</a>
+                        <a class="text-white" href="https://www.exacall.com/pricing">الأسعار والباقات</a>
                     </li>
                     {{--<li>
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
-                        <a class="text-white" href="http://198.199.85.167/team">فريق العمل</a>
+                        <a class="text-white" href="https://www.exacall.com/team">فريق العمل</a>
                     </li>--}}
                     <li>
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
-                        <a class="text-white" href="http://198.199.85.167/privacy-policy">سياسة الخصوصية</a>
+                        <a class="text-white" href="https://www.exacall.com/privacy-policy">سياسة الخصوصية</a>
                     </li>
                     <li>
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
-                        <a class="text-white" href="http://198.199.85.167/terms-conditions">الشروط والأحكام</a>
+                        <a class="text-white" href="https://www.exacall.com/terms-conditions">الشروط والأحكام</a>
                     </li>
                     <li>
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
@@ -177,7 +177,7 @@
                     </li>
                     <li>
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
-                        <a class="text-white" href="http://198.199.85.167/contact-us">اتصل بنا</a>
+                        <a class="text-white" href="https://www.exacall.com/contact-us">اتصل بنا</a>
                     </li>
                 </ul>
             </div>
