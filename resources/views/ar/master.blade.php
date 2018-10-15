@@ -148,10 +148,10 @@
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
                         <a class="text-white" href="http://198.199.85.167/pricing">الأسعار والباقات</a>
                     </li>
-                    <li>
+                    {{--<li>
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
                         <a class="text-white" href="http://198.199.85.167/team">فريق العمل</a>
-                    </li>
+                    </li>--}}
                     <li>
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
                         <a class="text-white" href="http://198.199.85.167/privacy-policy">سياسة الخصوصية</a>
