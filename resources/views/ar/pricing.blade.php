@@ -32,7 +32,7 @@
                         <!-- Title -->
                         <div class="mb-9">
                             <h1 class="display-4 text-white">الأسعار والباقات</h1>
-                            <p class="lead text-white">أعددنا لك باقات متعددة بأسعار منافسة</p>
+                            <p class="lead text-white">لاتفوت الفرصة .. احصل على <b>( شهرين مجانا )</b> عندك اشتراكك لمدة سنة</p>
                         </div>
                         <!-- End Title -->
 
@@ -133,7 +133,7 @@
                                     <p>مناسبة لرواد الأعمال</p>
                                     <span class="d-block">
                                         <span class="display-4 text-dark">750 ريال</span>
-                                        <span class="d-block text-secondary font-size-14">تدفع شهريا</span>
+                                        <span class="d-block text-secondary font-size-14">لكل شهر</span>
                                     </span>
                                 </header>
                                 <!-- End Header -->
@@ -173,7 +173,7 @@
                                     <p>مناسبة لفرق العمل الصغيرة</p>
                                     <span class="d-block">
                                         <span class="display-4 text-dark">400 ريال</span>
-                                        <span class="d-block text-secondary font-size-14">تدفع شهريا</span>
+                                        <span class="d-block text-secondary font-size-14">لكل شهر</span>
                                     </span>
                                 </header>
                                 <!-- End Header -->
@@ -261,6 +261,13 @@
                             <span>في حال تم طلب أكثر من 20 تحويلة فسعر التحويلة هو :</span>
                         </th>
                         <td><b>50 ريال</b></td>
+                    </tr>
+                    <tr>
+                        <th scope="row" class="font-weight-normal">
+                            <span class="fa fa-angle-double-left font-size-13 ml-2"></span>
+                            <span><b>في حال تم الاشتراك لمدة سنة كاملة تحصل على : </b></span>
+                        </th>
+                        <td><b>شهرين مجانا</b></td>
                     </tr>
                 </tbody>
             </table>
@@ -406,7 +413,7 @@
                         <div class="col-lg-5 mb-7 mb-lg-0">
                             <!-- Title -->
                             <span class="d-block text-white mb-2">حلول الاتصال للشركات ومراكز الاتصال</span>
-                            <h1 class="display-4 font-size-48--md-down text-justify text-white mb-0">قم بتقديم طلبك الآن وارفع من إنتاجية فريق علمك</h1>
+                            <h1 class="display-4 font-size-48--md-down text-white mb-0">قم بتقديم طلبك الآن وارفع من إنتاجية فريق عملك</h1>
                             <!-- End Title -->
                         </div>
 

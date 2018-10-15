@@ -125,7 +125,7 @@
         <div class="row justify-content-md-between">
 
             <!-- Logo and About -->
-            <div class="col-6 col-md-3 col-lg-3 mb-7 mb-lg-0">
+            <div class="col-12 col-md-3 col-lg-3 mb-7 mb-lg-0">
                 <!-- Logo -->
                 <a class="d-inline-block mb-5" href="http://198.199.85.167" aria-label="Space">
                     <img src="assets/svg/logos/exacall_logo_white_2.png" alt="Logo" style="width: 80px; max-width: 100%;">
@@ -136,7 +136,7 @@
             </div>
 
             <!-- About the company -->
-            <div class="col-6 col-md-3 col-lg-3 mb-7 mb-lg-0">
+            <div class="col-12 col-md-3 col-lg-3 mb-7 mb-lg-0">
                 <h3 class="h3 text-white mb-3">عن الشركة</h3>
                 <ul>
                     <li>
@@ -171,7 +171,7 @@
             </div>
 
 
-            <div class="col-6 col-md-3 col-lg-3 mb-7 mb-lg-0">
+            <div class="col-12 col-md-3 col-lg-3 mb-7 mb-lg-0">
                 <h3 class="h3 text-white mb-3">تابعنا على</h3>
                 <ul class="list-inline" style="padding-right: 0px;">
                     <li class="list-inline-item ml-3">
@@ -183,7 +183,7 @@
                 </ul>
                 <hr>
                 <h3 class="h3 text-white mb-3">قم بزيارتنا</h3>
-                <p class="small text-white text-justify">شركة اكساء لقنية المعلومات طريق عثمان بن عفان ، حي التعاون ، الرياض ، المملكة العربية السعودية</p>
+                <p class="small text-white text-justify">شركة اكساء لتقنية المعلومات طريق عثمان بن عفان ، حي التعاون ، الرياض ، المملكة العربية السعودية</p>
                 <a href="#" class="text-white"><b>رابط الموقع على قوقل ماب</b></a>
             </div>
 
