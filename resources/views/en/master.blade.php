@@ -31,32 +31,41 @@
     <!-- Google Fonts -->
     <link href="//fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
     <!-- CSS Global Compulsory -->
-    <link rel="stylesheet" href="assets/vendor/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="/assets/vendor/bootstrap/css/bootstrap.css">
     <!-- CSS Implementing Plugins -->
-    <link rel="stylesheet" href="assets/vendor/font-awesome/css/all.min.css">
-    <link rel="stylesheet" href="assets/vendor/hs-megamenu/src/hs.megamenu.css">
-    <link rel="stylesheet" href="assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
-    <link rel="stylesheet" href="assets/vendor/custombox/dist/custombox.min.css">
-    <link rel="stylesheet" href="assets/vendor/animate.css/animate.min.css">
-    <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
-    <link rel="stylesheet" href="assets/vendor/fancybox/jquery.fancybox.css">
+    <link rel="stylesheet" href="/assets/vendor/font-awesome/css/all.min.css">
+    <link rel="stylesheet" href="/assets/vendor/hs-megamenu/src/hs.megamenu.css">
+    <link rel="stylesheet" href="/assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
+    <link rel="stylesheet" href="/assets/vendor/custombox/dist/custombox.min.css">
+    <link rel="stylesheet" href="/assets/vendor/animate.css/animate.min.css">
+    <link rel="stylesheet" href="/assets/vendor/slick-carousel/slick/slick.css">
+    <link rel="stylesheet" href="/assets/vendor/fancybox/jquery.fancybox.css">
     <!-- CSS Space Template -->
-    <link rel="stylesheet" href="assets/css/theme.css">
+    <link rel="stylesheet" href="/assets/css/theme.css">
 
     <style>
         article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
-            direction: rtl !important;
+            direction: ltr !important;
         }
         input,
         button,
         select,
         optgroup,
         textarea {
-            direction : rtl !important;
+            direction : ltr !important;
         }
-        .u-header--bordered .navbar-expand-lg .u-header__navbar-brand {
-            border-left: 1px solid #e3e6f0;
-            margin-left: 1.375rem;
+        .u-header--bordered .navbar-expand-lg .u-header__navbar-brand{
+            border-right: 1px solid #e3e6f0;
+            margin-right: 1.375rem;
+        }
+        .navbar-expand-lg .u-header__navbar-nav{
+            margin-left : auto;
+            margin-right: initial;
+        }
+        .navbar-brand{
+            margin-left: 0px;
+            margin-right: 0px;
+            padding-right: 4.5rem;
         }
     </style>
 
@@ -73,9 +82,9 @@
                 <!-- Logo -->
                 <div class="u-header__navbar-brand-wrapper">
                     <a class="navbar-brand u-header__navbar-brand" href="https://www.exacall.com" aria-label="Space">
-                        <img class="u-header__navbar-brand-default logo" src="assets/svg/logos/exacall_logo_white_2.png" alt="Logo">
-                        <img class="u-header__navbar-brand-on-scroll logo" src="assets/svg/logos/exacall_logo_2.png" alt="Logo">
-                        <img class="u-header__navbar-brand-mobile" src="assets/svg/logos/exacall_logo_2.png" alt="Logo">
+                        <img class="u-header__navbar-brand-default logo" src="/assets/svg/logos/exacall_logo_white_2.png" alt="Logo">
+                        <img class="u-header__navbar-brand-on-scroll logo" src="/assets/svg/logos/exacall_logo_2.png" alt="Logo">
+                        <img class="u-header__navbar-brand-mobile" src="/assets/svg/logos/exacall_logo_2.png" alt="Logo">
                     </a>
                 </div>
                 <!-- End Logo -->
@@ -155,10 +164,10 @@
         <div class="row justify-content-md-between">
 
             <!-- Logo and About -->
-            <div class="col-12 col-md-3 col-lg-3 mb-7 mb-lg-0">
+            <div class="col-12 col-md-3 col-lg-3 mb-7 mb-lg-0 text-left">
                 <!-- Logo -->
                 <a class="d-inline-block mb-5" href="https://www.exacall.com" aria-label="Space">
-                    <img src="assets/svg/logos/exacall_logo_white_2.png" alt="Logo" style="width: 80px; max-width: 100%;">
+                    <img src="/assets/svg/logos/exacall_logo_white_2.png" alt="Logo" style="width: 80px; max-width: 100%;">
                 </a>
                 <!-- End Logo -->
                 <p class="small text-white text-justify">اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال</p>
@@ -166,49 +175,49 @@
             </div>
 
             <!-- About the company -->
-            <div class="col-12 col-md-3 col-lg-3 mb-7 mb-lg-0">
+            <div class="col-12 col-md-3 col-lg-3 mb-7 mb-lg-0 text-left">
                 <h3 class="h3 text-white mb-3">عن الشركة</h3>
                 <ul>
                     <li>
-                        <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
+                        <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
                         <a class="text-white" href="https://www.exacall.com">الرئيسية</a>
                     </li>
                     <li>
-                        <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
+                        <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
                         <a class="text-white" href="https://www.exacall.com/pricing">الأسعار والباقات</a>
                     </li>
                     {{--<li>
-                        <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
+                        <span class="fa fa-angle-right font-size-13 ml-3 text-white"></span>
                         <a class="text-white" href="https://www.exacall.com/team">فريق العمل</a>
                     </li>--}}
                     <li>
-                        <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
+                        <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
                         <a class="text-white" href="https://www.exacall.com/privacy-policy">سياسة الخصوصية</a>
                     </li>
                     <li>
-                        <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
+                        <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
                         <a class="text-white" href="https://www.exacall.com/terms-conditions">الشروط والأحكام</a>
                     </li>
                     <li>
-                        <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
+                        <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
                         <a class="text-white" href="https://blog.exacall.com">المدونة</a>
                     </li>
                     <li>
-                        <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
+                        <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
                         <a class="text-white" href="https://www.exacall.com/contact-us">اتصل بنا</a>
                     </li>
                 </ul>
             </div>
 
 
-            <div class="col-12 col-md-3 col-lg-3 mb-7 mb-lg-0">
+            <div class="col-12 col-md-3 col-lg-3 mb-7 mb-lg-0 text-left">
                 <h3 class="h3 text-white mb-3">تابعنا على</h3>
                 <ul class="list-inline" style="padding-right: 0px;">
-                    <li class="list-inline-item ml-3">
-                        <a class="text-white" href="https://twitter.com/ExaCall"><i class="fab fa-twitter ml-2"></i><b>تويتر</b></a>
+                    <li class="list-inline-item mr-3">
+                        <a class="text-white" href="https://twitter.com/ExaCall"><i class="fab fa-twitter mr-2"></i><b>Twitter</b></a>
                     </li>
-                    <li class="list-inline-item ml-3">
-                        <a class="text-white" href="https://www.linkedin.com/in/exacall-5925a6169/"><i class="fab fa-linkedin ml-2"></i><b>لينكد ان</b></a>
+                    <li class="list-inline-item mr-3">
+                        <a class="text-white" href="https://www.linkedin.com/in/exacall-5925a6169/"><i class="fab fa-linkedin mr-2"></i><b>Linkedin</b></a>
                     </li>
                 </ul>
                 <br>
@@ -223,32 +232,32 @@
 <!-- ========== END FOOTER ========== -->
 
 <!-- JS Global Compulsory -->
-<script src="assets/vendor/jquery/dist/jquery.min.js"></script>
-<script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
-<script src="assets/vendor/popper.js/dist/umd/popper.min.js"></script>
-<script src="assets/vendor/bootstrap/bootstrap.min.js"></script>
+<script src="/assets/vendor/jquery/dist/jquery.min.js"></script>
+<script src="/assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
+<script src="/assets/vendor/popper.js/dist/umd/popper.min.js"></script>
+<script src="/assets/vendor/bootstrap/bootstrap.min.js"></script>
 
 <!-- JS Implementing Plugins -->
-<script src="assets/vendor/hs-megamenu/src/hs.megamenu.js"></script>
-<script src="assets/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
-<script src="assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
-<script src="assets/vendor/custombox/dist/custombox.min.js"></script>
-<script src="assets/vendor/custombox/dist/custombox.legacy.min.js"></script>
-<script src="assets/vendor/slick-carousel/slick/slick.js"></script>
-<script src="assets/vendor/fancybox/jquery.fancybox.min.js"></script>
+<script src="/assets/vendor/hs-megamenu/src/hs.megamenu.js"></script>
+<script src="/assets/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="/assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="/assets/vendor/custombox/dist/custombox.min.js"></script>
+<script src="/assets/vendor/custombox/dist/custombox.legacy.min.js"></script>
+<script src="/assets/vendor/slick-carousel/slick/slick.js"></script>
+<script src="/assets/vendor/fancybox/jquery.fancybox.min.js"></script>
 
 <!-- JS Space -->
-<script src="assets/js/hs.core.js"></script>
-<script src="assets/js/components/hs.header.js"></script>
-<script src="assets/js/components/hs.unfold.js"></script>
-<script src="assets/js/components/hs.validation.js"></script>
-<script src="assets/js/helpers/hs.focus-state.js"></script>
-<script src="assets/js/components/hs.malihu-scrollbar.js"></script>
-<script src="assets/js/components/hs.modal-window.js"></script>
-<script src="assets/js/components/hs.show-animation.js"></script>
-<script src="assets/js/components/hs.slick-carousel.js"></script>
-<script src="assets/js/components/hs.fancybox.js"></script>
-<script src="assets/js/components/hs.go-to.js"></script>
+<script src="/assets/js/hs.core.js"></script>
+<script src="/assets/js/components/hs.header.js"></script>
+<script src="/assets/js/components/hs.unfold.js"></script>
+<script src="/assets/js/components/hs.validation.js"></script>
+<script src="/assets/js/helpers/hs.focus-state.js"></script>
+<script src="/assets/js/components/hs.malihu-scrollbar.js"></script>
+<script src="/assets/js/components/hs.modal-window.js"></script>
+<script src="/assets/js/components/hs.show-animation.js"></script>
+<script src="/assets/js/components/hs.slick-carousel.js"></script>
+<script src="/assets/js/components/hs.fancybox.js"></script>
+<script src="/assets/js/components/hs.go-to.js"></script>
 
 <!-- JS Plugins Init. -->
 <script>

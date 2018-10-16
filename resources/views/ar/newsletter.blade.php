@@ -1,0 +1,22 @@
+@extends('ar.master')
+
+@section('content')
+
+    <div class="img-bg" style="background-color: #920bc0;">
+        <div class="d-flex align-items-center height-100vh">
+            <div class="container text-center">
+                <div class="w-lg-50 mx-lg-auto mt-5">
+                    <!-- SVG Mockup -->
+                    <img style="width:40%;" src="/assets/svg/components/friend.png">
+                    <!-- End SVG Mockup -->
+                    <!-- Title -->
+                    <h1 class="mb-3 mt-3 text-white">أهلا بك صديقًا لنا</h1>
+                    <p class="lead mb-0 text-white">نعدك بأن تكون نشرتنا البريدية غنية بالمعلومات والنصائح المفيدة</p>
+                    <p class="lead mb-0 text-white">شاكرين لكم اهتمامكم بخدماتنا .. <a class="text-white" href="http://localhost:8000" style="font-weight: bold;"><b>العودة للصفحة الرئيسية</b></a></p>
+                    <!-- End Title -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+@endsection

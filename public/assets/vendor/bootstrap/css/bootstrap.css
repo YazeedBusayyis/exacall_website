@@ -62,7 +62,6 @@ html {
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
-  direction: rtl;
 }
 
 body {
@@ -261,7 +260,6 @@ textarea {
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
-  direction : rtl;
 }
 
 button,

@@ -894,10 +894,6 @@ button:focus {
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
   }
-  .u-header--bordered .navbar-expand-lg .u-header__navbar-brand {
-    border-left: 1px solid #e3e6f0;
-    margin-left: 1.375rem;
-  }
   .u-header--bordered .navbar-expand-lg .u-header__navbar-v-divider {
     border-left: 0.0625rem solid #e3e6f0;
     margin-left: 1.375rem;
@@ -6690,6 +6686,7 @@ img.logo {
 
 .img-bg{
   background-image: url("/assets/img/bg/bg.png");
+  background-size: cover;
 }
 
 .card-deck .card{
