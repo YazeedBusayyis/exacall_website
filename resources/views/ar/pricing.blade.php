@@ -212,7 +212,7 @@
                         <th scope="row" class="font-weight-normal">
                             <span>سعر الدقيقة للمكالمات الدولية</span>
                         </th>
-                        <td><a href="">جدول الأسعار حسب الدول</a></td>
+                        <td><a href="https://exacall.com/documents/call_rates.pdf">جدول الأسعار حسب الدول</a></td>
                     </tr>
                     <tr>
                         <th scope="row" class="font-weight-normal">
