@@ -1,5 +1,12 @@
 @extends('ar.master')
 
+@section('meta')
+
+    <!--  Essential META Tags -->
+    <title>Thank You | تم استقبال طلبك</title>
+
+@endsection
+
 @section('content')
 
     <div class="img-bg" style="background-color: #920bc0;">

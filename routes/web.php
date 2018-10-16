@@ -167,7 +167,7 @@ Route::post('/en/submit_new_order', function (Request $request) {
 
         // returns bool
         if($record->isInserted()){
-            return redirect('/successful_order');
+            return redirect('/en/successful_order');
         }
     }
 

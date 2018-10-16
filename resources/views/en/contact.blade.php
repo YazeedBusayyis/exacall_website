@@ -73,7 +73,7 @@
                         <div class="col-lg-5">
                             <!-- Signup Form -->
                             <div class="bg-white shadow-sm rounded p-6">
-                                <form method="post" action="/submit_new_order" class="js-validate">
+                                <form method="post" action="/en/submit_new_order" class="js-validate">
                                     <input type="hidden" name="_token" value="{{ csrf_token() }}">
                                     <div class="mb-4">
                                         <h2 class="h4 text-left">لا تفوت مكالمة بعد اليوم !</h2>

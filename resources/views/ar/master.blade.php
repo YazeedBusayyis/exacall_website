@@ -42,7 +42,7 @@
     <link rel="stylesheet" href="assets/vendor/fancybox/jquery.fancybox.css">
     <!-- CSS Space Template -->
     <link rel="stylesheet" href="assets/css/theme.css">
-
+    <!--  -->
     <style>
         article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
             direction: rtl !important;
@@ -79,7 +79,6 @@
                     </a>
                 </div>
                 <!-- End Logo -->
-
                 <!-- Responsive Toggle Button -->
                 <button type="button" class="navbar-toggler btn u-hamburger u-header__hamburger"
                         aria-label="Toggle navigation"
@@ -93,7 +92,6 @@
                 </span>
                 </button>
                 <!-- End Responsive Toggle Button -->
-
                 <!-- Navigation -->
                 <div id="navBar" class="collapse navbar-collapse u-header__navbar-collapse py-0">
                     <ul class="navbar-nav u-header__navbar-nav">
@@ -137,7 +135,6 @@
                     </ul>
                 </div>
                 <!-- End Navigation -->
-
             </nav>
             <!-- End Nav -->
         </div>
