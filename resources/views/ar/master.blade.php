@@ -128,7 +128,7 @@
 
                         <!-- Navbar - Link 6 -->
                         {{--<li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="starter/index.html">English</a>
+                            <a class="nav-link u-header__nav-link" href="https://wwww.exacall.com/en">English</a>
                         </li>--}}
                         <!-- Navbar - Link 6 -->
 

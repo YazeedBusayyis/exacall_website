@@ -67,6 +67,9 @@
             margin-right: 0px;
             padding-right: 4.5rem;
         }
+        .display-4{
+            font-size: 3.2rem !important;
+        }
     </style>
 
 </head>
@@ -109,37 +112,37 @@
 
                         <!-- Navbar - Link 1 -->
                         <li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/#what">تعرف علينا</a>
+                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/en/#what">About Us</a>
                         </li>
                         <!-- Navbar - Link 1 -->
 
                         <!-- Navbar - Link 2 -->
                         <li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/services">الحلول والخدمات </a>
+                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/en/services">Solutions & Services</a>
                         </li>
                         <!-- Navbar - Link 2 -->
 
                         <!-- Navbar - Link 3 -->
                         <li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/pricing">الأسعار والباقات</a>
+                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/en/pricing">Pricing</a>
                         </li>
                         <!-- Navbar - Link 3 -->
 
                         <!-- Navbar - Link 4 -->
                         <li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="https://blog.exacall.com">المدونة</a>
+                            <a class="nav-link u-header__nav-link" href="https://blog.exacall.com">Blog</a>
                         </li>
                         <!-- Navbar - Link 4 -->
 
                         <!-- Navbar - Link 5 -->
                         <li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/contact-us">اتصل بنا</a>
+                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/contact-us">Contact Us</a>
                         </li>
                         <!-- Navbar - Link 5 -->
 
                         <!-- Navbar - Link 6 -->
                         {{--<li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="starter/index.html">English</a>
+                            <a class="nav-link u-header__nav-link" href="https://wwww.exacall.com">عربي</a>
                         </li>--}}
                         <!-- Navbar - Link 6 -->
 
