@@ -3,18 +3,18 @@
 @section('meta')
 
     <!--  Essential META Tags -->
-    <title>شروط الاستخدام | اكسا كول</title>
+    <title>Terms and conditions | ExaCall</title>
     <meta name="description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال">
     <meta name="keywords" content="اتصالات,اكساكول,تحويل مكالمات,تسجيل مكالمات,سنترال سحابي,هاتف موحد,مجموعات اتصال,اجتماعات هاتفية,خط أرضي,مراقبة مكالمات,كول سنتر,voip,9200,011,call center,exa,exacall,Business,Startup,call,calls">
     <!--  OG -->
-    <meta property="og:title" content="شروط الاستخدام | اكسا كول">
+    <meta property="og:title" content="Terms and conditions | ExaCall">
     <meta property="og:description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال">
     <meta property="og:image" content="/assets/svg/logos/og_img_link.jpg">
     <meta property="og:url" content="https://www.exacall.com">
     <!-- Twitter -->
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@exacall"/>
-    <meta name="twitter:title" content="شروط الاستخدام | اكسا كول" />
+    <meta name="twitter:title" content="Terms and conditions | ExaCall" />
     <meta name="twitter:description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال"/>
     <meta name="twitter:image" content="/assets/svg/logos/og_img_link.jpg" />
 
@@ -30,36 +30,37 @@
                 <div class="w-lg-80 bg-white border rounded mx-lg-auto p-5 p-sm-7">
                     <!-- Hero -->
                     <div class="mb-5">
-                        <h1>الشروط والأحكام</h1>
-                        <p>آخر تعديل : ٢٧ مارس ٢٠١٨</p>
+                        <h1>Terms and conditions</h1>
+                        <p>Last Modified : 27 Mars 2018</p>
                     </div>
                     <!-- End Hero -->
                     <!-- Info Content -->
                     <div class="mb-7">
                         <ul class="text-justify">
-                            <li>عند تنفيذ أي إجراء خطي وفقا لما تقتضيه هذه الشروط فإنه يمكن تنفيذ هذا الإجراء إلكترونيا أو آليا بواسطة أنظمة آلية أو عن طريق البريد الإلكتروني.</li>
-                            <li>إذا قامت الشركة بتخفيض أو تعديل أي من تعرفة أجور خدماتها. فلا يحق للعميل المطالبة بتطبيق التعرفة الجديدة لخدمة قدمت له قبل قرار التخفيض أو التعديلات اللاحقة.</li>
-                            <li>يبدأ سريان عقد الخدمة من تاريخ بدء الخدمة لدى العميل.</li>
-                            <li>العميل مسؤول عن دفع الأجور عن المكالمات الصادرة على كافة أرقامه بغض النظر عن الطريقة التي تمت بها المكالمة من أرقامه وهوية من قام بالمكالمات، ويجوز للعميل التظلم من أجور المكالمات التي يعتقد أنها لم تصدر من أرقامه.</li>
-                            <li>العميل مسؤول عن جميع الرسوم الخاصة بعمليات الدفع والتحويل الخاصة بخدمة باي بال أو أي بوابة دفع أخرى في حال قام العميل بسداد أي من الفواتير التي عليه عبر خدمة باي بال أو عبر البطاقات الائتمانية الآمنة.</li>
-                            <li>يحق للشركة تعليق الخدمة أو إنهائها عن العميل لأي سبب من الأسباب التالية:</li>
-                            <li>مخالفة العميل لأي من الأحكام أو الشروط الواردة في وثيقة شروط تقديم الخدمة.</li>
-                            <li>عدم سداد العميل لمستحقات الشركة، طبقا لأي من المواد الواردة في وثيقة شروط تقديم الخدمة.</li>
-                            <li>عدم تجاوب العميل بتحديث بياناته عند مطالبته بذلك، أو ثبوت تقديمه بيانات، أو معلومات مغلوطة أو مزورة للشركة.</li>
-                            <li>حالة التصفية أو الإفلاس.</li>
-                            <li>إذا طلبت هيئة الاتصالات وتقنية المعلومات، أو أية سلطة مختصة تعليق الخدمة أو إنهائها.</li>
-                            <li>يلتزم العميل بدفع كامل الفاتورة الصادرة واسترداد المبالغ التي ورد خلاف حولها في حال ثبت حقه فيها.</li>
-                            <li>لا تعد الشركة مسؤولة عن أخطاء مقدمي الخدمة الآخرين الذين يستخدمون مرافق الشركة أو يكونون مرتبطين بها للاتصال مع نقاط لا تخدمها الشركة مباشرة أو الأعطال التي تحدث بسبب ذلك ما لم تكن هي المسؤولة عنها.</li>
-                            <li>التأسيس الجديد هو لاستخدام العميل ولا يجوز للعميل إعطاءه للغير أو التنازل عنه دون موافقة الشركة أو التصرف فيه بطريقة غير نظامية ويلتزم بإلغائه من الخدمة عند عدم الحاجة إليه. ويتحمل المسؤولية عن أية مخالفة تحدث نتيجة لذلك.</li>
-                            <li>يجب على العميل التدقيق والتأكد من صحة كل فاتورة تتعلق بالخدمة أو الخدمات المقدمة له، وحالة وجود خطأ فإنه يحق له الاعتراض على ذلك الخطأ. وذلك بإبلاغ الشركة عن طريق تقديم شكوى رسمية باعتراضه خلال مدة لا تتجاوز تاريخ صدور الفاتورة التالية.</li>
-                            <li>يلتزم العميل بإشعار الشركة عن أية تغييرات في عنوانه أو أرقام اتصاله.</li>
-                            <li>للشركة الحق في إدراج اسم العميل في قائمة المديونية حالة عدم سداد المستحقات المالية للشركة.</li>
-                            <li>تقوم الشركة بتزويد العميل بصفة منتظمة بفواتير واضحة وصحيحة ومفصلة.</li>
-                            <li>جميع معلومات العميل سرية، وتحافظ الشركة على سريتها، ولا يتم إفشاؤها لأي طرف بأي حال من الأحوال، إلا بطلب من هيئة الاتصالات وتقنية المعلومات، أو أية سلطة مختصة أو بناء على موافقة خطية من العميل أو من يمثله رسميا.</li>
-                            <li>يلتزم العميل بأن لا يقوم بأي أنشطة مخالفة للأنظمة واللوائح السائدة في المملكة العربية السعودية، وأن الشركة غير مسؤولة عن أي من تلك الأنشطة المخالفة ويحق للشركة المطالبة بتعويضات نتيجة الأضرار المعنوية الناتجة عن سوء استعمال العميل للخدمة.</li>
-                            <li>تخضع هذه الشروط للأنظمة واللوائح السائدة في المملكة العربية السعودية.</li>
-                            <li>يلتزم العميل بالتواصل مباشرة مع مدير الحساب الخاص به في حال وجود أي طلب أو تعديلات بخصوص الحساب</li>
-                            <li>الشركة لا تتحمل أي مسؤولية عن أي مكالمات أو بيانات واردة كانت أم صادرة من مستخدمي خدمات اكسا كول إلى عملائهم، وتقع كامل المسؤولية على مستخدمي خدمات اكسا كول الحفاظ على أمان وسرية الشبكة الخاصة بهم ضد أي مؤثرات خارجية قد تطرأ وتحدث ضررا الخدمات.</li>
+                            <li>When executing any written process as required by these conditions, this process may be executed electronically, manually or via E-mail.</li>
+                            <li>If  ExaServe reduces or amends any of its services fees, the client is not entitled to claim it for a service provided to him before the reduction decision or subsequent amendments.</li>
+                            <li>The Service Agreement shall come into force as of the date of service commencement with the Client.</li>
+                            <li>The client shall be responsible for paying for all outgoing calls on his\her numbers regardless of how the call was made by his\her numbers and who made the call. The client may grievance against call charges that are believed to have not been issued from his/her numbers.</li>
+                            <li>The client is responsible for all fees related to payments and transfers through PayPal or any other payment gateway if the client pays any of his invoices through the PayPal service or credit cards.</li>
+                            <li>ExaServe shall have the right to suspend or end the service provided to a client for any of the following reasons:</li>
+                            <li>The Client breaches any of the provisions or conditions set out in this document or the Service Agreement.</li>
+                            <li>The Client does not pay the payments due to ExaServe as per any of the articles of the Service Agreement document unless such payments are disputed.</li>
+                            <li>The Client does not respond to update his/her data when requested to do so, or when it is proved that he has submitted false or counterfeit information or data to ExaServe.</li>
+                            <li>In case of dissolution bankruptcy.</li>
+                            <li>In case the CITC or any other competent authority requests the suspension or termination of service.</li>
+                            <li>The client shall pay the full amount of the issued invoice and refund the amounts that have been disputed in the event that his right is proven.</li>
+                            <li>ExaServe shall not be considered liable for the mistakes committed by other service providers using ExaServe's facilities or engaged with it to connect to points not directly serviced by ExaServe, or the mistakes resulting from that unless ExaServe shall be the one liable for the same.</li>
+                            <li>The new Installation is intended for Client's use. The Client may not give or assign the same to third parties without ExaServe's approval and may not use the same in a non-disciplinary manner.</li>
+                            <li>He/she shall cancel it from the service in case of no need of it. He/she shall be liable for any breach arising out of this.</li>
+                            <li>The subscriber should audit and check the validity of each bill related to the service/services provided to him/her. In case a mistake is discovered, he/she shall have the right to object to such error by a formal complaint sent to the service provider not later than the date of issuing the next bill.</li>
+                            <li>The Client shall make ExaServe familiar with any changes to his/her address or contact numbers.</li>
+                            <li>ExaServe shall have the right to record the Client's name in the debt list in case the amounts due to ExaServe are not paid.</li>
+                            <li>ExaServe shall regularly furnish the Client with clear, correct and detailed bills.</li>
+                            <li>All information related to the Client shall be confidential and ExaServe shall keep the same as confidential and it may not be disclosed to any third party except by request from the CITC or any other competent authority or by a written consent from the Client or his/her representative.</li>
+                            <li>The client shall not undertake any activities contrary to the laws and regulations prevailing in the Kingdom of Saudi Arabia, and that ExaServe is not responsible for any of these infringing activities and ExaServe is entitled to compensation for moral damages resulting from the customer's misuse of the service.</li>
+                            <li>These Conditions shall be subject to the laws and regulations applicable in the Kingdom of Saudi Arabia.</li>
+                            <li>For any Changes or Cancellation in the service, kindly contact the ExaServe Salesperson.</li>
+                            <li>ExaServe is not responsible for any calls or data, received or sent, from the service provided to the customer. It is the responsibility of the customer to secure his network against any internal or external threats that could affect the service.</li>
                         </ul>
                     </div>
                     <!-- End Info Content -->
@@ -73,18 +74,18 @@
                 <div class="container">
                     <div class="row align-items-lg-center text-center text-lg-left space-2">
                         <div class="col-lg-12 text-center">
-                            <h2 class="text-white"><b>اشترك في نشرتنا البريدية</b></h2>
-                            <p class="lead text-white mb-5">تعلم الكثير من النصائح والأفكار لتحسين مستوى خدمة العملاء لديك وإدارة مركز الاتصال الخاص بك</p>
+                            <h2 class="text-white"><b>Subscribe to our Newsletter</b></h2>
+                            <p class="lead text-white mb-5">Learn a lot of tips and ideas to improve your customer service and manage your call center</p>
                         </div>
                         <div class="col-lg-12">
                             <form method="post" action="https://exacall.us18.list-manage.com/subscribe/post" class="form-inline d-flex justify-content-center">
                                 <input type="hidden" name="u" value="c631c0419954e2c52b478dede">
                                 <input type="hidden" name="id" value="3b3a65a8df">
                                 <div class="form-group mx-sm-3 mb-2">
-                                    <label for="inputPassword2" class="sr-only">بريدك الإلكتروني</label>
-                                    <input class="form-control" type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="" placeholder="بريدك الإلكتروني">
+                                    <label for="inputPassword2" class="sr-only">Your Email</label>
+                                    <input class="form-control" type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="" placeholder="Your Email">
                                 </div>
-                                <button type="submit" class="btn btn-light mb-2">اشترك الآن</button>
+                                <button type="submit" class="btn btn-light mb-2">Subscribe Now</button>
                             </form>
                         </div>
                     </div>

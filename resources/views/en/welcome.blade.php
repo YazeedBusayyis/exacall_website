@@ -205,7 +205,7 @@
                                 <div class="col-sm-6 mb-7 mb-sm-9">
                                     <!-- Icon Block -->
                                     <div class="pr-lg-4">
-                                        <img class="max-width-9 mb-2" src="assets/svg/components/hire-us-red-icon.svg" alt="Image Description">
+                                        <img class="max-width-9 mb-2" src="/assets/svg/components/hire-us-red-icon.svg" alt="Image Description">
                                         <p>
                                             <b>Companies & Businesses :</b>
                                             <br>
@@ -218,7 +218,7 @@
                                 <div class="col-sm-6 mb-7 mb-sm-9">
                                     <!-- Icon Block -->
                                     <div class="pr-lg-4">
-                                        <img class="max-width-9 mb-2" src="assets/svg/components/contacts-primary-icon.svg" alt="Image Description">
+                                        <img class="max-width-9 mb-2" src="/assets/svg/components/contacts-primary-icon.svg" alt="Image Description">
                                         <p>
                                             <b>Call Centers :</b>
                                             <br>
@@ -237,7 +237,7 @@
                                 <div class="col-sm-6 mb-7 mb-sm-9">
                                     <!-- Icon Block -->
                                     <div class="pr-lg-4">
-                                        <img class="max-width-9 mb-2" src="assets/svg/components/genious-purple-icon.svg" alt="Image Description">
+                                        <img class="max-width-9 mb-2" src="/assets/svg/components/genious-purple-icon.svg" alt="Image Description">
                                         <p>
                                             <b>Universal Access Number (9200)</b>
                                             <br>
@@ -250,7 +250,7 @@
                                 <div class="col-sm-6 mb-7 mb-sm-9">
                                     <!-- Icon Block -->
                                     <div class="pr-lg-4">
-                                        <img class="max-width-7 mb-3" src="assets/svg/components/rain.svg" alt="Image Description">
+                                        <img class="max-width-7 mb-3" src="/assets/svg/components/rain.svg" alt="Image Description">
                                         <p>
                                             <b>Cloud Central</b>
                                             <br>
@@ -269,7 +269,7 @@
                                 <div class="col-sm-6 mb-7 mb-sm-9">
                                     <!-- Icon Block -->
                                     <div class="pr-lg-4">
-                                        <img class="max-width-9 mb-2" src="assets/svg/components/collaborative-user-research-primary-icon.svg" alt="Image Description">
+                                        <img class="max-width-9 mb-2" src="/assets/svg/components/collaborative-user-research-primary-icon.svg" alt="Image Description">
                                         <p class="text-justify">Manage users and monitor calls reports, recording and monitoring instantly</p>
                                     </div>
                                     <!-- End Icon Block -->
@@ -278,7 +278,7 @@
                                 <div class="col-sm-6 mb-7 mb-sm-9">
                                     <!-- Icon Block -->
                                     <div class="pr-lg-4">
-                                        <img class="max-width-9 mb-2" src="assets/svg/components/comments-dark-icon.svg" alt="Image Description">
+                                        <img class="max-width-9 mb-2" src="/assets/svg/components/comments-dark-icon.svg" alt="Image Description">
                                         <p class="text-justify">Unlimited numbers of SIP channels to access to a particular employee, call forwarding and call conferencing to manage with participants</p>
                                     </div>
                                     <!-- End Icon Block -->
@@ -287,7 +287,7 @@
                                 <div class="col-sm-6 mb-7 mb-sm-9">
                                     <!-- Icon Block -->
                                     <div class="pr-lg-4">
-                                        <img class="max-width-9 mb-2" src="assets/svg/components/create-blue-icon.svg" alt="Image Description">
+                                        <img class="max-width-9 mb-2" src="/assets/svg/components/create-blue-icon.svg" alt="Image Description">
                                         <p class="text-justify">Record a message on hold and an IVR message that allow callers to select menu options using telephone keypad</p>
                                     </div>
                                     <!-- End Icon Block -->
@@ -296,7 +296,7 @@
                                 <div class="col-sm-6 mb-7 mb-sm-9">
                                     <!-- Icon Block -->
                                     <div class="pr-lg-4">
-                                        <img class="max-width-9 mb-2" src="assets/svg/components/responsive-purple-icon.svg" alt="Image Description">
+                                        <img class="max-width-9 mb-2" src="/assets/svg/components/responsive-purple-icon.svg" alt="Image Description">
                                         <p class="text-justify">The ability to receive and make calls via laptops or through smart devices and tablets</p>
                                     </div>
                                     <!-- End Icon Block -->
@@ -491,8 +491,8 @@
                                 <input type="hidden" name="u" value="c631c0419954e2c52b478dede">
                                 <input type="hidden" name="id" value="3b3a65a8df">
                                 <div class="form-group mx-sm-3 mb-2">
-                                    <label for="inputPassword2" class="sr-only">Email</label>
-                                    <input class="form-control" type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="" placeholder="Email">
+                                    <label for="inputPassword2" class="sr-only">Your Email</label>
+                                    <input class="form-control" type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="" placeholder="Your Email">
                                 </div>
                                 <button type="submit" class="btn btn-light mb-2">Subscribe Now</button>
                             </form>

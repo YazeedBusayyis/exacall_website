@@ -124,7 +124,7 @@
 
                         <!-- Navbar - Link 3 -->
                         <li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/en/pricing">Pricing</a>
+                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/en/pricing">Pricing and Plans</a>
                         </li>
                         <!-- Navbar - Link 3 -->
 
@@ -141,9 +141,9 @@
                         <!-- Navbar - Link 5 -->
 
                         <!-- Navbar - Link 6 -->
-                        {{--<li class="nav-item u-header__nav-item">
+                        <li class="nav-item u-header__nav-item">
                             <a class="nav-link u-header__nav-link" href="https://wwww.exacall.com">عربي</a>
-                        </li>--}}
+                        </li>
                         <!-- Navbar - Link 6 -->
 
                     </ul>
@@ -173,21 +173,25 @@
                     <img src="/assets/svg/logos/exacall_logo_white_2.png" alt="Logo" style="width: 80px; max-width: 100%;">
                 </a>
                 <!-- End Logo -->
-                <p class="small text-white text-justify">اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال</p>
-                <p class="small text-white">جميع الحقوق محفوظة © ExaCall 2018</p>
+                <p class="small text-white text-justify">ExaCall Company provides the best innovative and integrated solutions for calls with a flexible system to serve companies and call centers</p>
+                <p class="small text-white">All rights reserved © ExaCall 2018</p>
             </div>
 
             <!-- About the company -->
             <div class="col-12 col-md-3 col-lg-3 mb-7 mb-lg-0 text-left">
-                <h3 class="h3 text-white mb-3">عن الشركة</h3>
+                <h3 class="h3 text-white mb-3">About ExaCall</h3>
                 <ul>
                     <li>
                         <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
-                        <a class="text-white" href="https://www.exacall.com">الرئيسية</a>
+                        <a class="text-white" href="https://www.exacall.com">Main Page</a>
                     </li>
                     <li>
                         <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
-                        <a class="text-white" href="https://www.exacall.com/pricing">الأسعار والباقات</a>
+                        <a class="text-white" href="https://www.exacall.com/pricing">Services and Solutions</a>
+                    </li>
+                    <li>
+                        <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
+                        <a class="text-white" href="https://www.exacall.com/pricing">Pricing and Plans</a>
                     </li>
                     {{--<li>
                         <span class="fa fa-angle-right font-size-13 ml-3 text-white"></span>
@@ -195,26 +199,26 @@
                     </li>--}}
                     <li>
                         <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
-                        <a class="text-white" href="https://www.exacall.com/privacy-policy">سياسة الخصوصية</a>
+                        <a class="text-white" href="https://www.exacall.com/privacy-policy">Privacy and Policy</a>
                     </li>
                     <li>
                         <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
-                        <a class="text-white" href="https://www.exacall.com/terms-conditions">الشروط والأحكام</a>
+                        <a class="text-white" href="https://www.exacall.com/terms-conditions">Terms and Conditions</a>
                     </li>
                     <li>
                         <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
-                        <a class="text-white" href="https://blog.exacall.com">المدونة</a>
+                        <a class="text-white" href="https://blog.exacall.com">Blog</a>
                     </li>
                     <li>
                         <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
-                        <a class="text-white" href="https://www.exacall.com/contact-us">اتصل بنا</a>
+                        <a class="text-white" href="https://www.exacall.com/contact-us">Contact Us</a>
                     </li>
                 </ul>
             </div>
 
 
             <div class="col-12 col-md-3 col-lg-3 mb-7 mb-lg-0 text-left">
-                <h3 class="h3 text-white mb-3">تابعنا على</h3>
+                <h3 class="h3 text-white mb-3">Follow Us</h3>
                 <ul class="list-inline" style="padding-right: 0px;">
                     <li class="list-inline-item mr-3">
                         <a class="text-white" href="https://twitter.com/ExaCall"><i class="fab fa-twitter mr-2"></i><b>Twitter</b></a>
@@ -224,9 +228,9 @@
                     </li>
                 </ul>
                 <br>
-                <h3 class="h3 text-white mb-3">قم بزيارتنا</h3>
-                <p class="small text-white text-justify">شركة اكساء لتقنية المعلومات طريق عثمان بن عفان ، حي التعاون ، الرياض ، المملكة العربية السعودية</p>
-                <a href="#" class="text-white"><b>رابط الموقع على قوقل ماب</b></a>
+                <h3 class="h3 text-white mb-3">Visit Us</h3>
+                <p class="small text-white text-justify"> Exa Information Technology Co. Ltd. - Othman Bin Affan Branch Rd, Al-Taawon, Riyadh , Saudi Arabia</p>
+                <a href="https://goo.gl/maps/LpkL8LigqYN2" class="text-white"><b>Location on Google Map</b></a>
             </div>
 
         </div>

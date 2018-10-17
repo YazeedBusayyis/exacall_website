@@ -1,4 +1,4 @@
-@extends('ar.master')
+@extends('en.master')
 
 @section('content')
 
@@ -10,9 +10,9 @@
                     <img style="width:40%;" src="/assets/svg/components/success.png">
                     <!-- End SVG Mockup -->
                     <!-- Title -->
-                    <h1 class="mb-3 mt-3 text-white">تم استقبال طلبك بنجاح</h1>
-                    <p class="lead mb-0 text-white">سيقوم أحد أعضاء فريقنا بالتواصل معك خلال 24 ساعة القادمة</p>
-                    <p class="lead mb-0 text-white">شاكرين لكم اهتمامكم بخدماتنا .. <a class="text-white" href="http://localhost:8000" style="font-weight: bold;"><b>العودة للصفحة الرئيسية</b></a></p>
+                    <h3 class="mb-3 mt-3 text-white">Your request has been successfully received</h3>
+                    <p class="lead mb-0 text-white">We will be in touch with you within the next 24 hours</p>
+                    <p class="lead mb-0 text-white">We are thankful for your interest in our services <a class="text-white" href="http://localhost:8000" style="font-weight: bold;"><b>Go back to the home page</b></a></p>
                     <!-- End Title -->
                 </div>
             </div>

@@ -17,10 +17,10 @@
                     <img style="width:40%;" src="/assets/svg/components/friend.png">
                     <!-- End SVG Mockup -->
                     <!-- Title -->
-                    <h1 class="mb-3 mt-3 text-white">أهلا بك صديقًا لنا</h1>
+                    <h1 class="mb-3 mt-3 text-white">أهلا بك صديقنا | Welcome friend</h1>
+                    <h1 class="mb-3 mt-3 text-white"></h1>
                     <p class="lead mb-0 text-white">نعدك بأن تكون نشرتنا البريدية غنية بالمعلومات والنصائح المفيدة</p>
                     <p class="lead mb-0 text-white">شاكرين لكم اهتمامكم بخدماتنا .. <a class="text-white" href="http://localhost:8000" style="font-weight: bold;"><b>العودة للصفحة الرئيسية</b></a></p>
-                    <!-- End Title -->
                 </div>
             </div>
         </div>
