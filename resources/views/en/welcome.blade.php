@@ -455,7 +455,7 @@
                             <h4 class="h6">CEO of Nana</h4>
                             <hr>
                         </div>
-                        <blockquote class="text-secondary mb-0">"هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق."</blockquote>
+                        <blockquote class="text-secondary mb-0">It is a great opportunity to thank ExaCall team for providing a great flexible and efficient system for our calls management and call center, which it was suitable  for our own needs as well as their customer service team, they are always helpful and responsive</blockquote>
                     </div>
                     <!-- End Testimonials -->
                 </div>
@@ -469,7 +469,7 @@
                             <h4 class="h6">CEO of Smaat</h4>
                             <hr>
                         </div>
-                        <blockquote class="text-secondary mb-0">"It is a great opportunity to thank ExaCall team for providing a great flexibil and efficient system for our calls management and call center, which it was suitable  for our own needs as well as their customer service team, they are always helpful and responsive"</blockquote>
+                        <blockquote class="text-secondary mb-0">"We have been working with ExaCall a long time ago. It is one of the companies that is distinguished in its field. Where we found a high level and commitment"</blockquote>
                     </div>
                     <!-- End Testimonials -->
                 </div>
