@@ -114,6 +114,12 @@
                         </li>
                         <!-- Navbar - Link 3 -->
 
+                        <!-- Navbar - Link 7 -->
+                        <li class="nav-item u-header__nav-item">
+                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/faqs">الأسئلة المتكررة</a>
+                        </li>
+                        <!-- Navbar - Link 7 -->
+
                         <!-- Navbar - Link 4 -->
                         <li class="nav-item u-header__nav-item">
                             <a class="nav-link u-header__nav-link" href="https://blog.exacall.com">المدونة</a>
@@ -172,7 +178,15 @@
                     </li>
                     <li>
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
+                        <a class="text-white" href="https://www.exacall.com/services">الحلول والخدمات</a>
+                    </li>
+                    <li>
+                        <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
                         <a class="text-white" href="https://www.exacall.com/pricing">الأسعار والباقات</a>
+                    </li>
+                    <li>
+                        <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>
+                        <a class="text-white" href="https://www.exacall.com/faqs">الأسئلة المتكررة</a>
                     </li>
                     {{--<li>
                         <span class="fa fa-angle-left font-size-13 ml-3 text-white"></span>

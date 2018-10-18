@@ -53,6 +53,11 @@ Route::get('/contact-us', function () {
     return view('ar/contact');
 });
 
+// FAQs :
+Route::get('/faqs', function () {
+    return view('ar/faqs');
+});
+
 // Thanks Newsletter :
 Route::get('/thank-you', function () {
     return view('ar/newsletter');
@@ -139,6 +144,11 @@ Route::get('/en/contact-us', function () {
 // Thanks Newsletter :
 Route::get('/en/thank-you', function () {
     return view('en/newsletter');
+});
+
+// FAQs :
+Route::get('/en/faqs', function () {
+    return view('en/faqs');
 });
 
 // Submit New Order to Zoho CRM :

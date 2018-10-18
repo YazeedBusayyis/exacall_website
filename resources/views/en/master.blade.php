@@ -128,6 +128,12 @@
                         </li>
                         <!-- Navbar - Link 3 -->
 
+                        <!-- Navbar - Link 7 -->
+                        <li class="nav-item u-header__nav-item">
+                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/en/faqs">FAQs</a>
+                        </li>
+                        <!-- Navbar - Link 7 -->
+
                         <!-- Navbar - Link 4 -->
                         <li class="nav-item u-header__nav-item">
                             <a class="nav-link u-header__nav-link" href="https://blog.exacall.com">Blog</a>
@@ -187,11 +193,15 @@
                     </li>
                     <li>
                         <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
-                        <a class="text-white" href="https://www.exacall.com/pricing">Services and Solutions</a>
+                        <a class="text-white" href="https://www.exacall.com/en/services">Services and Solutions</a>
                     </li>
                     <li>
                         <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
-                        <a class="text-white" href="https://www.exacall.com/pricing">Pricing and Plans</a>
+                        <a class="text-white" href="https://www.exacall.com/en/pricing">Pricing and Plans</a>
+                    </li>
+                    <li>
+                        <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
+                        <a class="text-white" href="https://www.exacall.com/en/faqs">FAQs</a>
                     </li>
                     {{--<li>
                         <span class="fa fa-angle-right font-size-13 ml-3 text-white"></span>
@@ -199,11 +209,11 @@
                     </li>--}}
                     <li>
                         <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
-                        <a class="text-white" href="https://www.exacall.com/privacy-policy">Privacy and Policy</a>
+                        <a class="text-white" href="https://www.exacall.com/en/privacy-policy">Privacy and Policy</a>
                     </li>
                     <li>
                         <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
-                        <a class="text-white" href="https://www.exacall.com/terms-conditions">Terms and Conditions</a>
+                        <a class="text-white" href="https://www.exacall.com/en/terms-conditions">Terms and Conditions</a>
                     </li>
                     <li>
                         <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
@@ -211,7 +221,7 @@
                     </li>
                     <li>
                         <span class="fa fa-angle-right font-size-13 mr-3 text-white"></span>
-                        <a class="text-white" href="https://www.exacall.com/contact-us">Contact Us</a>
+                        <a class="text-white" href="https://www.exacall.com/en/contact-us">Contact Us</a>
                     </li>
                 </ul>
             </div>

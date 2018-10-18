@@ -469,7 +469,7 @@
                             <h4 class="h6">CEO of Smaat</h4>
                             <hr>
                         </div>
-                        <blockquote class="text-secondary mb-0">"We have been working with ExaCall a long time ago. It is one of the companies that is distinguished in its field. Where we found a high level and commitment"</blockquote>
+                        <blockquote class="text-secondary mb-0">We have been working with ExaCall a long time ago. It is one of the companies that is distinguished in its field. Where we found a high level and commitment</blockquote>
                     </div>
                     <!-- End Testimonials -->
                 </div>
