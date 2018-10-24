@@ -231,14 +231,14 @@
                     <tr>
                         <th scope="row" class="font-weight-normal">
                             <span class="fa fa-angle-double-right font-size-13 mr-2"></span>
-                            <span>If you order more than 20 extensions :</span>
+                            <span>If you order (20 extensions and more) :</span>
                         </th>
                         <td><b>50 SAR / extension</b></td>
                     </tr>
                     <tr>
                         <th scope="row" class="font-weight-normal">
                             <span class="fa fa-angle-double-right font-size-13 mr-2"></span>
-                            <span><b>If you subscribe for a full year you get :</b></span>
+                            <span><b>If you subscribe for a full year you (will) get :</b></span>
                         </th>
                         <td><b>2 Months FREE</b></td>
                     </tr>

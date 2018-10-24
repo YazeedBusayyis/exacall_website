@@ -124,7 +124,7 @@
 
                         <!-- Navbar - Link 3 -->
                         <li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/en/pricing">Pricing and Plans</a>
+                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/en/pricing">Pricing & Plans</a>
                         </li>
                         <!-- Navbar - Link 3 -->
 
@@ -142,7 +142,7 @@
 
                         <!-- Navbar - Link 5 -->
                         <li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/contact-us">Contact Us</a>
+                            <a class="nav-link u-header__nav-link" href="https://www.exacall.com/en/contact-us">Contact Us</a>
                         </li>
                         <!-- Navbar - Link 5 -->
 
