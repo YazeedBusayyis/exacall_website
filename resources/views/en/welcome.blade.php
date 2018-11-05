@@ -428,7 +428,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <a href="/pricing" class="btn btn-block btn-sm btn-purple">For more details</a>
+                            <a href="/en/pricing" class="btn btn-block btn-sm btn-purple">For more details</a>
                         </div>
                         <!-- End Pricing -->
                     </div>
