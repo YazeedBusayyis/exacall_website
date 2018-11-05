@@ -357,7 +357,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <a href="/pricing" class="btn btn-block btn-sm btn-light">For more details</a>
+                            <a href="/en/pricing" class="btn btn-block btn-sm btn-light">For more details</a>
                         </div>
                         <!-- End Pricing -->
                     </div>
@@ -393,7 +393,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <a href="/pricing" class="btn btn-block btn-sm btn-purple">Fore more details</a>
+                            <a href="/en/pricing" class="btn btn-block btn-sm btn-purple">Fore more details</a>
                         </div>
                         <!-- End Pricing -->
                     </div>
