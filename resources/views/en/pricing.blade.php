@@ -374,7 +374,7 @@
         <!-- End Pricing Table Section -->
 
         <!-- Hero Section -->
-        <div id="hero" class="bg-img-hero img-bg">
+        <div id="order" class="bg-img-hero img-bg">
             <!-- Main Content -->
             <div class="d-lg-flex align-items-lg-center height-100vh--lg">
                 <div class="container space-2 space-0--lg mt-lg-8">
