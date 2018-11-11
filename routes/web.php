@@ -91,6 +91,8 @@ Route::post('/submit_new_order', function (Request $request) {
         if($record->isInserted()){
             return redirect('/successful-order');
         }
+
+        return redirect('/successful-order');
     }
 
 
@@ -179,6 +181,8 @@ Route::post('/en/submit_new_order', function (Request $request) {
         if($record->isInserted()){
             return redirect('/en/successful-order');
         }
+
+        return redirect('/en/successful-order');
     }
 
 
