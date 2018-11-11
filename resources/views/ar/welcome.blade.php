@@ -73,7 +73,7 @@
                                     <!-- Phone - Input -->
                                     <div class="js-form-message mb-3">
                                         <div class="js-focus-state input-group input-group form">
-                                            <input type="tel" class="form-control form__input" name="mobile" required
+                                            <input type="tel" min="" class="form-control form__input" name="mobile" required
                                                    placeholder="رقم الجوال"
                                                    aria-label="رقم الجوال">
                                         </div>

@@ -89,7 +89,7 @@ Route::post('/submit_new_order', function (Request $request) {
 
         // returns bool
         if($record->isInserted()){
-            return redirect('/successful_order');
+            return redirect('/successful-order');
         }
     }
 
@@ -177,7 +177,7 @@ Route::post('/en/submit_new_order', function (Request $request) {
 
         // returns bool
         if($record->isInserted()){
-            return redirect('/en/successful_order');
+            return redirect('/en/successful-order');
         }
     }
 
