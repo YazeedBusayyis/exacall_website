@@ -84,7 +84,7 @@
                                     <!-- Name - Input -->
                                     <div class="js-form-message mb-3">
                                         <div class="js-focus-state input-group form">
-                                            <input type="text" class="form-control form__input" name="name" required=""
+                                            <input type="text" class="form-control form__input" name="name" required
                                                    placeholder="Name"
                                                    aria-label="Name">
                                         </div>
@@ -94,7 +94,7 @@
                                     <!-- Email - Input -->
                                     <div class="js-form-message mb-3">
                                         <div class="js-focus-state input-group form">
-                                            <input id="Email" type="email" class="form-control form__input" name="email" required=""
+                                            <input id="Email" type="email" class="form-control form__input" name="email" required
                                                    placeholder="Email"
                                                    aria-label="Email">
                                         </div>
@@ -104,7 +104,7 @@
                                     <!-- Phone - Input -->
                                     <div class="js-form-message mb-3">
                                         <div class="js-focus-state input-group input-group form">
-                                            <input type="tel" class="form-control form__input" name="mobile" required=""
+                                            <input type="tel" class="form-control form__input" name="mobile" required
                                                    placeholder="Mobile"
                                                    aria-label="Mobile">
                                         </div>
@@ -114,7 +114,7 @@
                                     <!-- Website - Input -->
                                     <div class="js-form-message mb-3">
                                         <div class="js-focus-state input-group input-group form">
-                                            <input type="url" class="form-control form__input" name="website" required=""
+                                            <input type="url" class="form-control form__input" name="website" required
                                                    placeholder="Company Website"
                                                    aria-label="Company Website">
                                         </div>
@@ -124,7 +124,7 @@
                                     <!-- Company Size - Input -->
                                     <div class="js-form-message mb-3">
                                         <div class="js-focus-state input-group input-group form">
-                                            <select type="phone" class="form-control form__input" name="size" required=""
+                                            <select type="phone" class="form-control form__input" name="size" required
                                                     placeholder="Company Size"
                                                     aria-label="Company Size">
                                                 <option disabled selected>Company Size</option>

@@ -53,7 +53,7 @@
                                     <!-- Name - Input -->
                                     <div class="js-form-message mb-3">
                                         <div class="js-focus-state input-group form">
-                                            <input type="text" class="form-control form__input" name="name" required=""
+                                            <input type="text" class="form-control form__input" name="name" required
                                                    placeholder="اسم مقدم الطلب"
                                                    aria-label="اسم مقدم الطلب">
                                         </div>
@@ -63,7 +63,7 @@
                                     <!-- Email - Input -->
                                     <div class="js-form-message mb-3">
                                         <div class="js-focus-state input-group form">
-                                            <input id="Email" type="email" class="form-control form__input" name="email" required=""
+                                            <input id="Email" type="email" class="form-control form__input" name="email" required
                                                    placeholder="البريد الإلكتروني"
                                                    aria-label="البريد الإلكتروني">
                                         </div>
@@ -73,7 +73,7 @@
                                     <!-- Phone - Input -->
                                     <div class="js-form-message mb-3">
                                         <div class="js-focus-state input-group input-group form">
-                                            <input type="tel" class="form-control form__input" name="mobile" required=""
+                                            <input type="tel" class="form-control form__input" name="mobile" required
                                                    placeholder="رقم الجوال"
                                                    aria-label="رقم الجوال">
                                         </div>
@@ -83,7 +83,7 @@
                                     <!-- Website - Input -->
                                     <div class="js-form-message mb-3">
                                         <div class="js-focus-state input-group input-group form">
-                                            <input type="url" class="form-control form__input" name="website" required=""
+                                            <input type="url" class="form-control form__input" name="website" required
                                                    placeholder="الموقع الإلكتروني للشركة"
                                                    aria-label="الموقع الإلكتروني للشركة">
                                         </div>
@@ -93,7 +93,7 @@
                                     <!-- Company Size - Input -->
                                     <div class="js-form-message mb-3">
                                         <div class="js-focus-state input-group input-group form">
-                                            <select type="phone" class="form-control form__input" name="size" required=""
+                                            <select type="phone" class="form-control form__input" name="size" required
                                                     placeholder="حجم الشركة"
                                                     aria-label="حجم الشركة">
                                                 <option disabled selected>حجم الشركة</option>
