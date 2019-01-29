@@ -321,13 +321,13 @@
                     <tr>
                         <th scope="row" class="font-weight-normal">عدد التحويلات</th>
                         <td>5</td>
-                        <td>10</td>
+                        <td>8</td>
                         <td>حسب الطلب</td>
                     </tr>
                     <tr>
                         <th scope="row" class="font-weight-normal">عدد المكالمات المتزامنة</th>
-                        <td>3</td>
-                        <td>5</td>
+                        <td>4</td>
+                        <td>7</td>
                         <td>حسب الطلب</td>
                     </tr>
                     <tr>

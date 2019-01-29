@@ -298,12 +298,12 @@
                     </th>
                     <th scope="col" class="py-5">
                         <span class="d-block font-weight-medium">Mini</span>
-                        <span class="d-block text-secondary font-weight-normal">400 SAR / month</span>
+                        <span class="d-block text-secondary font-weight-normal">599 SAR / month</span>
                         <a class="btn btn-xs btn-primary py-1 px-2" href="#order">Order Now</a>
                     </th>
                     <th scope="col" class="py-5">
                         <span class="d-block font-weight-medium">Basic</span>
-                        <span class="d-block text-secondary font-weight-normal">750 SAR / month</span>
+                        <span class="d-block text-secondary font-weight-normal">999 SAR / month</span>
                         <a class="btn btn-xs btn-primary py-1 px-2" href="#order">Order Now</a>
                     </th>
                     <th scope="col" class="py-5">
@@ -317,13 +317,13 @@
                     <tr>
                         <th scope="row" class="font-weight-normal">Extensions</th>
                         <td>5</td>
-                        <td>10</td>
+                        <td>8</td>
                         <td>Upon request</td>
                     </tr>
                     <tr>
                         <th scope="row" class="font-weight-normal">Concurrent calls</th>
-                        <td>3</td>
-                        <td>5</td>
+                        <td>4</td>
+                        <td>7</td>
                         <td>Upon request</td>
                     </tr>
                     <tr>
