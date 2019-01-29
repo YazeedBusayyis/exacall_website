@@ -259,7 +259,7 @@
                         <th scope="row" class="font-weight-normal">
                             <span>سعر المكالمة المتزامنة</span>
                         </th>
-                        <td><b>50 ريال</b></td>
+                        <td><b>75 ريال</b></td>
                     </tr>
                     <tr>
                         <th scope="row" class="font-weight-normal">
@@ -280,7 +280,7 @@
                             <span class="fa fa-angle-double-left font-size-13 ml-2"></span>
                             <span><b>في حال تم الاشتراك لمدة سنة كاملة تحصل على : </b></span>
                         </th>
-                        <td><b>شهرين مجانا</b></td>
+                        <td><b>شهر مجانا</b></td>
                     </tr>
                 </tbody>
             </table>
@@ -295,12 +295,12 @@
                     </th>
                     <th scope="col" class="py-5">
                         <span class="d-block font-weight-medium">المصغرة</span>
-                        <span class="d-block text-secondary font-weight-normal">400 ريال/شهر</span>
+                        <span class="d-block text-secondary font-weight-normal">599 ريال/شهر</span>
                         <a class="btn btn-xs btn-primary py-1 px-2" href="#order">اطلب الان</a>
                     </th>
                     <th scope="col" class="py-5">
                         <span class="d-block font-weight-medium">الأساسية</span>
-                        <span class="d-block text-secondary font-weight-normal">750 ريال/شهر</span>
+                        <span class="d-block text-secondary font-weight-normal">999 ريال/شهر</span>
                         <a class="btn btn-xs btn-primary py-1 px-2" href="#order">اطلب الآن</a>
                     </th>
                     <th scope="col" class="py-5">
