@@ -60,6 +60,7 @@
                 <!-- Monthly -->
                 <div id="pricingMonthly" data-target-group="idPricing">
                     <div class="card-deck" dir="rtl">
+
                         <!-- Pricing -->
                         <div class="card">
                             <!-- Header -->
@@ -67,7 +68,7 @@
                                 <h4 class="h4">المصغرة</h4>
                                 <p>مناسبة لفرق العمل الصغيرة</p>
                                 <span class="d-block">
-                                        <span class="display-4 text-dark">400 ريال</span>
+                                        <span class="display-4 text-dark">599 ريال</span>
                                         <span class="d-block text-secondary font-size-14">لكل شهر</span>
                                     </span>
                             </header>
@@ -77,13 +78,28 @@
                                 <ul class="list-unstyled mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>تخزين المكالمات المسجلة لمدة شهر</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>عرض إلكتروني متكامل لسجل المكالمات</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>المكالمات بين التحويلات الداخلية مجانية</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>تصل إلى 5 تحويلات</span>
                                         <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
 
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
-                                        <span>تصل إلى 3 مكالمات متزامنة</span>
+                                        <span>تصل إلى 4 مكالمات متزامنة</span>
                                         <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
 
                                     </li>
@@ -108,7 +124,7 @@
                                 <h4 class="h4">الأساسية</h4>
                                 <p>مناسبة لرواد الأعمال</p>
                                 <span class="d-block">
-                                        <span class="display-4 text-dark">750 ريال</span>
+                                        <span class="display-4 text-dark">999 ريال</span>
                                         <span class="d-block text-secondary font-size-14">لكل شهر</span>
                                     </span>
                             </header>
@@ -118,13 +134,27 @@
                                 <ul class="list-unstyled mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
-                                        <span>تصل إلى 10 تحويلات</span>
+                                        <span>تخزين المكالمات المسجلة لمدة شهر</span>
                                         <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
-
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
-                                        <span>تصل إلى 5 مكالمات متزامنة</span>
+                                        <span>عرض إلكتروني متكامل لسجل المكالمات</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>المكالمات بين التحويلات الداخلية مجانية</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>تصل إلى 8 تحويلات</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>تصل إلى 7 مكالمات متزامنة</span>
                                         <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
@@ -158,13 +188,28 @@
                                 <ul class="list-unstyled mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
-                                        <span>أكثر من 10 تحويلات</span>
+                                        <span>تخزين المكالمات المسجلة لمدة شهر</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>عرض إلكتروني متكامل لسجل المكالمات</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>المكالمات بين التحويلات الداخلية مجانية</span>
+                                        <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>أكثر من 8 تحويلات</span>
                                         <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
 
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
-                                        <span>أكثر من 5 مكالمات متزامنة</span>
+                                        <span>أكثر من 7 مكالمات متزامنة</span>
                                         <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
 
                                     </li>
@@ -182,6 +227,7 @@
                             <!-- End Content -->
                         </div>
                         <!-- End Pricing -->
+
                     </div>
                     <!-- End Pricing -->
                 </div>

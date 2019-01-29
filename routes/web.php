@@ -103,6 +103,13 @@ Route::get('/successful-order', function () {
     return view('ar/successful');
 });
 
+
+Route::get('/zoho_redirect_url', function () {
+    // Client Secret : 82ed8d0720adad196104fb9a2abb2f59c567e0ed33
+
+});
+
+
 /*
 |--------------------------------------------------------------------------
 |  English Routing
