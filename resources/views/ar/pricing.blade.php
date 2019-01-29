@@ -282,6 +282,13 @@
                         </th>
                         <td><b>شهر مجانا</b></td>
                     </tr>
+                    <tr>
+                        <th scope="row" class="font-weight-normal">
+                            <span class="fa fa-angle-double-left font-size-13 ml-2"></span>
+                            <span><b>قيمة رسوم التأسيس</b></span>
+                        </th>
+                        <td><b>500 ريال</b></td>
+                    </tr>
                 </tbody>
             </table>
             <!-- End Entertainment Pricing Table Features -->

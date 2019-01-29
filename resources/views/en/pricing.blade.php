@@ -67,7 +67,7 @@
                                 <h4 class="h4">Mini</h4>
                                 <p>Suitable for Small Teams</p>
                                 <span class="d-block">
-                                        <span class="display-4 text-dark">400 SAR</span>
+                                        <span class="display-4 text-dark">599 SAR</span>
                                         <span class="d-block text-secondary font-size-14">per month</span>
                                     </span>
                             </header>
@@ -82,7 +82,7 @@
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
-                                        <span>Up to 3 Concurrent Calls</span>
+                                        <span>Up to 4 Concurrent Calls</span>
                                         <span class="fa fa-info-circle text-secondary ml-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="Concurrent Call is the number of received calls at the same time"></span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
@@ -106,7 +106,7 @@
                                 <h4 class="h4">Basic</h4>
                                 <p>Suitable for Entrepreneurs</p>
                                 <span class="d-block">
-                                        <span class="display-4 text-dark">750 SAR</span>
+                                        <span class="display-4 text-dark">999 SAR</span>
                                         <span class="d-block text-secondary font-size-14">per month</span>
                                     </span>
                             </header>
@@ -116,12 +116,12 @@
                                 <ul class="list-unstyled mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
-                                        <span>Up to 10 Extensions</span>
+                                        <span>Up to 8 Extensions</span>
                                         <span class="fa fa-info-circle text-secondary ml-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="Extension is an id or a number to represent one of your employees or one of your departments"></span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
-                                        <span>Up to 5 Concurrent Calls </span>
+                                        <span>Up to 7 Concurrent Calls </span>
                                         <span class="fa fa-info-circle text-secondary ml-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="Concurrent Call is the number of received calls at the same time"></span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
@@ -155,12 +155,12 @@
                                 <ul class="list-unstyled mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
-                                        <span>More than 10 Extensions</span>
+                                        <span>More than 8 Extensions</span>
                                         <span class="fa fa-info-circle text-secondary ml-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="Extension is an id or a number to represent one of your employees or one of your departments"></span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
-                                        <span>More than 5 Concurrent Calls</span>
+                                        <span>More than 7 Concurrent Calls</span>
                                         <span class="fa fa-info-circle text-secondary ml-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="Concurrent Call is the number of received calls at the same time"></span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
