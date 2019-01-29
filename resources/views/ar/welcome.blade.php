@@ -434,12 +434,12 @@
                                 <ul style="padding-right: 10px;" class="list-unstyled mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
-                                        <span>أكثر من 10 تحويلات</span>
+                                        <span>أكثر من 8 تحويلات</span>
                                         <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
-                                        <span>أكثر من 5 مكالمات متزامنة</span>
+                                        <span>أكثر من 7 مكالمات متزامنة</span>
                                         <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
 
                                     </li>
