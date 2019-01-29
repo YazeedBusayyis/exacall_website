@@ -196,15 +196,15 @@
                                         <span>Provide 011</span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
-                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
                                         <span>Saving recorded phone calls for a month</span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
-                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
                                         <span>Showing the whole phone-calls history</span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
-                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
                                         <span>Free calls between extensions</span>
                                     </li>
                                 </ul>
