@@ -336,7 +336,7 @@
                                     <span class="h1">999 SAR</span>
                                     <span>/ month</span>
                                 </div>
-                                <ul class="list-unstyled text-white mb-4">
+                                <ul style="padding-left: 10px;" class="list-unstyled text-white mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
                                         <span>Up to 8 Extensions</span>
@@ -355,6 +355,18 @@
                                         <span class="fa fa-check font-size-13 mr-3"></span>
                                         <span>Provide 011</span>
                                     </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Saving recorded phone calls for a month</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Showing the whole phone-calls history</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Free calls between extensions</span>
+                                    </li>
                                 </ul>
                             </div>
                             <a href="/en/pricing" class="btn btn-block btn-sm btn-light">For more details</a>
@@ -372,7 +384,7 @@
                                     <span class="h1">599 SAR</span>
                                     <span>/ month</span>
                                 </div>
-                                <ul class="list-unstyled mb-4">
+                                <ul style="padding-left: 10px;" class="list-unstyled mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
                                         <span>Up to 5 Extensions</span>
@@ -391,6 +403,18 @@
                                         <span class="fa fa-check font-size-13 mr-3"></span>
                                         <span>Provide 011</span>
                                     </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Saving recorded phone calls for a month</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Showing the whole phone-calls history</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Free calls between extensions</span>
+                                    </li>
                                 </ul>
                             </div>
                             <a href="/en/pricing" class="btn btn-block btn-sm btn-purple">Fore more details</a>
@@ -407,7 +431,7 @@
                                 <div class="mb-2">
                                     <span class="h1 text-dark">Contact Us</span>
                                 </div>
-                                <ul class="list-unstyled mb-4">
+                                <ul style="padding-left: 10px;" class="list-unstyled mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
                                         <span>More than 8 Extensions</span>
@@ -425,6 +449,18 @@
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
                                         <span>Provide 011</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Saving recorded phone calls for a month</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Showing the whole phone-calls history</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Free calls between extensions</span>
                                     </li>
                                 </ul>
                             </div>
