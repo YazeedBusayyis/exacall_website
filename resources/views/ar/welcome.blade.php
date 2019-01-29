@@ -334,18 +334,18 @@
                                 </div>
                                 <p class="text-white">مناسبة لرواد الأعمال</p>
                                 <div class="text-white mb-2">
-                                    <span class="h1">750 ريال</span>
+                                    <span class="h1">999 ريال</span>
                                     <span>/ شهريا</span>
                                 </div>
                                 <ul class="list-unstyled text-white mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
-                                        <span>تصل إلى 10 تحويلات</span>
+                                        <span>تصل إلى 8 تحويلات</span>
                                         <span class="fa fa-info-circle text-white mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
-                                        <span>تصل إلى 5 مكالمات متزامنة</span>
+                                        <span>تصل إلى 7 مكالمات متزامنة</span>
                                         <span class="fa fa-info-circle text-white mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
@@ -355,6 +355,18 @@
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>توفير رقم 011</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>تخزين المكالمات المسجلة لشهر</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>عرض سجل مكالمات متكامل</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>المكالمات مجانية بين التحويلات</span>
                                     </li>
                                 </ul>
                             </div>
@@ -370,7 +382,7 @@
                                 <h4 class="h6 text-secondary mb-3">المصغرة</h4>
                                 <p>مناسبة لفرق العمل الصغيرة</p>
                                 <div class="mb-2">
-                                    <span class="h1">400 ريال</span>
+                                    <span class="h1">599 ريال</span>
                                     <span>/ شهريا</span>
                                 </div>
                                 <ul class="list-unstyled mb-4">
@@ -382,7 +394,7 @@
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
-                                        <span>تصل إلى 3 مكالمات متزامنة</span>
+                                        <span>تصل إلى 4 مكالمات متزامنة</span>
                                         <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
 
                                     </li>
@@ -393,6 +405,18 @@
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>توفير رقم 011</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>تخزين المكالمات المسجلة لشهر</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>عرض سجل مكالمات متكامل</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>المكالمات مجانية بين التحويلات</span>
                                     </li>
                                 </ul>
                             </div>
@@ -429,6 +453,18 @@
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>توفير رقم 011</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>تخزين المكالمات المسجلة لشهر</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>عرض سجل مكالمات متكامل</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>المكالمات مجانية بين التحويلات</span>
                                     </li>
                                 </ul>
                             </div>

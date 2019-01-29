@@ -32,7 +32,7 @@
                         <!-- Title -->
                         <div class="mb-9">
                             <h1 class="display-4 text-white">الأسعار والباقات</h1>
-                            <p class="lead text-white">لاتفوت الفرصة .. احصل على <b>( شهرين مجانا )</b> عندك اشتراكك لمدة سنة</p>
+                            <p class="lead text-white">لاتفوت الفرصة .. احصل على <b>( شهر مجانا )</b> عندك اشتراكك لمدة سنة</p>
                         </div>
                         <!-- End Title -->
 

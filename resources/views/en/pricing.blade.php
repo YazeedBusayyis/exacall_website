@@ -32,7 +32,7 @@
                         <!-- Title -->
                         <div class="mb-9">
                             <h1 class="display-4 text-white">Pricing and Plans</h1>
-                            <p class="lead text-white">Get ( 2 Months ) FREE when subscribing for a year</p>
+                            <p class="lead text-white">Get ( 1 Month ) FREE when subscribing for a year</p>
                         </div>
                         <!-- End Title -->
 
@@ -276,7 +276,7 @@
                             <span class="fa fa-angle-double-right font-size-13 mr-2"></span>
                             <span><b>If you subscribe for a full year you (will) get :</b></span>
                         </th>
-                        <td><b>2 Months FREE</b></td>
+                        <td><b>1 Month FREE</b></td>
                     </tr>
                     <tr>
                         <th scope="row" class="font-weight-normal">
