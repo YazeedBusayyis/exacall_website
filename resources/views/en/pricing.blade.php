@@ -93,6 +93,18 @@
                                         <span class="fa fa-check font-size-13 mr-3"></span>
                                         <span>Provide 011</span>
                                     </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>Saving recorded phone calls for a month</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>Showing the whole phone-calls history</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>Free calls between extensions</span>
+                                    </li>
                                 </ul>
                                 <a href="#order" class="btn btn-block btn-primary">Order Now</a>
                             </div>
@@ -132,6 +144,18 @@
                                         <span class="fa fa-check font-size-13 mr-3"></span>
                                         <span>Provide 011</span>
                                     </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>Saving recorded phone calls for a month</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>Showing the whole phone-calls history</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>Free calls between extensions</span>
+                                    </li>
                                 </ul>
                                 <a href="#order" class="btn btn-block btn-primary">Order Now</a>
                             </div>
@@ -170,6 +194,18 @@
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
                                         <span>Provide 011</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>Saving recorded phone calls for a month</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>Showing the whole phone-calls history</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 ml-3"></span>
+                                        <span>Free calls between extensions</span>
                                     </li>
                                 </ul>
                                 <a href="#order" class="btn btn-block btn-primary">Order Now</a>
@@ -219,21 +255,21 @@
                         <th scope="row" class="font-weight-normal">
                             <span>Price per Concurrent calls</span>
                         </th>
-                        <td><b>50 SAR</b></td>
+                        <td><b>75 SAR</b></td>
                     </tr>
                     <tr>
                         <th scope="row" class="font-weight-normal">
                             <span class="fa fa-angle-double-right font-size-13 mr-2"></span>
                             <span>If you order from 11 - 19 extensions :</span>
                         </th>
-                        <td><b>55 SAR / extension</b></td>
+                        <td><b>55 SAR / Extension</b></td>
                     </tr>
                     <tr>
                         <th scope="row" class="font-weight-normal">
                             <span class="fa fa-angle-double-right font-size-13 mr-2"></span>
                             <span>If you order (20 extensions and more) :</span>
                         </th>
-                        <td><b>50 SAR / extension</b></td>
+                        <td><b>50 SAR / Extension</b></td>
                     </tr>
                     <tr>
                         <th scope="row" class="font-weight-normal">
@@ -241,6 +277,13 @@
                             <span><b>If you subscribe for a full year you (will) get :</b></span>
                         </th>
                         <td><b>2 Months FREE</b></td>
+                    </tr>
+                    <tr>
+                        <th scope="row" class="font-weight-normal">
+                            <span class="fa fa-angle-double-right font-size-13 mr-2"></span>
+                            <span><b>Installation fees</b></span>
+                        </th>
+                        <td><b>500 SAR</b></td>
                     </tr>
                 </tbody>
             </table>
