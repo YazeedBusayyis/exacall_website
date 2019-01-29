@@ -322,7 +322,6 @@
                     <p>امتلك نظام مرن مصمم بطريقة احترافية لإدارة اتصالاتك الهاتفية</p>
                 </div>
                 <!-- End Title -->
-
                 <div class="row align-items-lg-center">
                     <div class="col-md-6 col-lg-4 order-lg-2 offset-md-3 offset-lg-0 mb-5 mb-md-0">
                         <!-- Pricing -->
@@ -337,7 +336,7 @@
                                     <span class="h1">999 ريال</span>
                                     <span>/ شهريا</span>
                                 </div>
-                                <ul class="list-unstyled text-white mb-4">
+                                <ul style="padding-right: 10px;" class="list-unstyled text-white mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>تصل إلى 8 تحويلات</span>
@@ -374,7 +373,6 @@
                         </div>
                         <!-- End Pricing -->
                     </div>
-
                     <div class="col-md-6 col-lg-4 order-lg-1 mb-5 mb-md-0">
                         <!-- Pricing -->
                         <div class="bg-white border rounded py-7 p-5">
@@ -385,7 +383,7 @@
                                     <span class="h1">599 ريال</span>
                                     <span>/ شهريا</span>
                                 </div>
-                                <ul class="list-unstyled mb-4">
+                                <ul style="padding-right: 10px;" class="list-unstyled mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>تصل إلى 5 تحويلات</span>
@@ -424,7 +422,6 @@
                         </div>
                         <!-- End Pricing -->
                     </div>
-
                     <div class="col-md-6 col-lg-4 order-lg-3">
                         <!-- Pricing -->
                         <div class="bg-white border rounded py-7 p-5">
@@ -434,7 +431,7 @@
                                 <div class="mb-2">
                                     <span class="h1 text-dark">اتصل بنا</span>
                                 </div>
-                                <ul class="list-unstyled mb-4">
+                                <ul style="padding-right: 10px;" class="list-unstyled mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>أكثر من 10 تحويلات</span>
