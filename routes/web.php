@@ -81,9 +81,16 @@ Route::post('/submit_new_order', function (Request $request) {
         ->triggerWorkflow()
         ->request();
 
-    echo "<pre>";
-    print_r($records);
-    echo "</pre>";
+    foreach ($records as $record) {
+        // returns bool
+        var_dump($record->isInserted());
+
+        // returns bool
+        var_dump($record->isDuplicate());
+
+        // returns the Id of the new record
+        var_dump($record->id);
+    }
 
 //    foreach ($records as $record) {
 //        // returns bool
