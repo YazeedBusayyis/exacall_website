@@ -100,10 +100,8 @@ Route::get('/successful-order', function () {
     return view('ar/successful');
 });
 
-
-Route::get('/zoho_redirect_url', function () {
-    // Client Secret : 82ed8d0720adad196104fb9a2abb2f59c567e0ed33
-
+Route::get('/unsuccessful-order', function() {
+    return view('ar/unsuccessful');
 });
 
 
@@ -176,17 +174,14 @@ Route::post('/en/submit_new_order', function (Request $request) {
         ->request();
 
     foreach ($records as $record) {
-        // returns bool
-        if($record->isDuplicate()){
-            return back()->withErrors('duplicated');
+        foreach ($records as $record) {
+            // If the record inserted
+            if($record->isInserted()){
+                return redirect('/en/successful-order');
+            }
+            //If is not inserted
+            return redirect('/en/unsuccessful-order');
         }
-
-        // returns bool
-        if($record->isInserted()){
-            return redirect('/en/successful-order');
-        }
-
-        return redirect('/en/successful-order');
     }
 
 
@@ -197,6 +192,10 @@ Route::get('/en/successful-order', function () {
     return view('en/successful');
 });
 
+// Successful Order :
+Route::get('/en/unsuccessful-order', function () {
+    return view('en/unsuccessful');
+});
 
 
 
