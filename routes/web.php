@@ -95,6 +95,8 @@ Route::post('/submit_new_order', function (Request $request) {
         return redirect('/successful-order');
     }
 
+    print_r('Test Bro');
+
 
 });
 
