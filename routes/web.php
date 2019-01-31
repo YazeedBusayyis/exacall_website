@@ -82,31 +82,15 @@ Route::post('/submit_new_order', function (Request $request) {
         ->request();
 
     foreach ($records as $record) {
-        // returns bool
-        var_dump($record->isInserted());
-
-        // returns bool
-        var_dump($record->isDuplicate());
-
-        // returns the Id of the new record
-        var_dump($record->id);
+        foreach ($records as $record) {
+            // If the record inserted
+            if($record->isInserted()){
+                return redirect('/successful-order');
+            }
+            //If is not inserted
+            return redirect('/unsuccessful-order');
+        }
     }
-
-//    foreach ($records as $record) {
-//        // returns bool
-//        if($record->isDuplicate()){
-//            return back()->withErrors('duplicated');
-//        }
-//
-//        // returns bool
-//        if($record->isInserted()){
-//            return redirect('/successful-order');
-//        }
-//
-//        return redirect('/successful-order');
-//    }
-//
-//    print_r('Test Bro');
 
 
 });
