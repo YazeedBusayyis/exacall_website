@@ -81,21 +81,25 @@ Route::post('/submit_new_order', function (Request $request) {
         ->triggerWorkflow()
         ->request();
 
-    foreach ($records as $record) {
-        // returns bool
-        if($record->isDuplicate()){
-            return back()->withErrors('duplicated');
-        }
+    echo "<pre>";
+    print_r($records);
+    echo "</pre>";
 
-        // returns bool
-        if($record->isInserted()){
-            return redirect('/successful-order');
-        }
-
-        return redirect('/successful-order');
-    }
-
-    print_r('Test Bro');
+//    foreach ($records as $record) {
+//        // returns bool
+//        if($record->isDuplicate()){
+//            return back()->withErrors('duplicated');
+//        }
+//
+//        // returns bool
+//        if($record->isInserted()){
+//            return redirect('/successful-order');
+//        }
+//
+//        return redirect('/successful-order');
+//    }
+//
+//    print_r('Test Bro');
 
 
 });
