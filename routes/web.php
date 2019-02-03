@@ -65,7 +65,17 @@ Route::get('/thank-you', function () {
 
 // Submit New Order to Zoho CRM :
 Route::post('/submit_new_order', function (Request $request) {
+
+    $request->validate([
+        'Last Name' => 'required',
+        'Email' => 'required',
+        'Mobile' => 'required',
+        'Website' => 'required',
+        'Size' => 'required',
+    ]);
+
     $client = new ZohoCRMClient('Leads', 'c95eefc1ce28cf9fe9206733044e4f1f');
+
     $records = $client->insertRecords()
         ->setRecords([
             array(
@@ -90,6 +100,8 @@ Route::post('/submit_new_order', function (Request $request) {
             //If is not inserted
             return redirect('/unsuccessful-order');
         }
+
+        return redirect('/successful-order');
     }
 
     return redirect('/successful-order');
