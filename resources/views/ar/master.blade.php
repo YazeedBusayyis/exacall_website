@@ -68,14 +68,19 @@
 <header id="header" class="u-header u-header--modern u-header--bordered u-header--bg-transparent u-header--white-nav-links u-header--sticky-top-lg">
     <div class="u-header__section">
         <div id="logoAndNav" class="container-fluid">
+
+            <nav>
+                <ul>
+                    <!-- Navbar - Link 5 -->
+                    <li class="nav-item u-header__nav-item">
+                        <a class="nav-link u-header__nav-link" href="tel:920033120">920033120</a>
+                    </li>
+                    <!-- Navbar - Link 5 -->
+                </ul>
+            </nav>
+
             <!-- Nav -->
             <nav class="js-mega-menu navbar navbar-expand-lg u-header__navbar">
-
-                <!-- Navbar - Link 5 -->
-                <li class="nav-item u-header__nav-item">
-                    <a class="nav-link u-header__nav-link" href="tel:920033120">920033120</a>
-                </li>
-                <!-- Navbar - Link 5 -->
 
                 <!-- Logo -->
                 <div class="u-header__navbar-brand-wrapper">
