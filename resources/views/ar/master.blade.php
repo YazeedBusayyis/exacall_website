@@ -79,6 +79,13 @@
                     </a>
                 </div>
                 <!-- End Logo -->
+
+                <!-- Navbar - Link 5 -->
+                <li class="nav-item u-header__nav-item">
+                    <a class="nav-link u-header__nav-link" href="tel:920033120">920033120</a>
+                </li>
+                <!-- Navbar - Link 5 -->
+
                 <!-- Responsive Toggle Button -->
                 <button type="button" class="navbar-toggler btn u-hamburger u-header__hamburger"
                         aria-label="Toggle navigation"
@@ -129,12 +136,6 @@
                         <!-- Navbar - Link 5 -->
                         <li class="nav-item u-header__nav-item">
                             <a class="nav-link u-header__nav-link" href="https://www.exacall.com/contact-us">اتصل بنا</a>
-                        </li>
-                        <!-- Navbar - Link 5 -->
-
-                        <!-- Navbar - Link 5 -->
-                        <li class="nav-item u-header__nav-item">
-                            <a class="nav-link u-header__nav-link" href="tel:920033120">920033120</a>
                         </li>
                         <!-- Navbar - Link 5 -->
 
