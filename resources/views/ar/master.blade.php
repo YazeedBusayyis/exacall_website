@@ -70,6 +70,13 @@
         <div id="logoAndNav" class="container-fluid">
             <!-- Nav -->
             <nav class="js-mega-menu navbar navbar-expand-lg u-header__navbar">
+
+                <!-- Navbar - Link 5 -->
+                <li class="nav-item u-header__nav-item">
+                    <a class="nav-link u-header__nav-link" href="tel:920033120">920033120</a>
+                </li>
+                <!-- Navbar - Link 5 -->
+
                 <!-- Logo -->
                 <div class="u-header__navbar-brand-wrapper">
                     <a class="navbar-brand u-header__navbar-brand" href="https://www.exacall.com" aria-label="Space">
@@ -79,12 +86,6 @@
                     </a>
                 </div>
                 <!-- End Logo -->
-
-                <!-- Navbar - Link 5 -->
-                <li class="nav-item u-header__nav-item">
-                    <a class="nav-link u-header__nav-link" href="tel:920033120">920033120</a>
-                </li>
-                <!-- Navbar - Link 5 -->
 
                 <!-- Responsive Toggle Button -->
                 <button type="button" class="navbar-toggler btn u-hamburger u-header__hamburger"
