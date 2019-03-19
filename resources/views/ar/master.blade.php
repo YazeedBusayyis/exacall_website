@@ -132,6 +132,12 @@
                         </li>
                         <!-- Navbar - Link 5 -->
 
+                        <!-- Navbar - Link 5 -->
+                        <li class="nav-item u-header__nav-item">
+                            <a class="nav-link u-header__nav-link" href="tel:920033120">920033120</a>
+                        </li>
+                        <!-- Navbar - Link 5 -->
+
                         <!-- Navbar - Link 6 -->
                         <li class="nav-item u-header__nav-item">
                             <a class="nav-link u-header__nav-link" href="https://www.exacall.com/en">English</a>
