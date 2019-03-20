@@ -69,16 +69,6 @@
     <div class="u-header__section">
         <div id="logoAndNav" class="container-fluid">
 
-            <nav>
-                <ul>
-                    <!-- Navbar - Link 5 -->
-                    <li class="nav-item u-header__nav-item">
-                        <a class="nav-link u-header__nav-link" href="tel:920033120">920033120</a>
-                    </li>
-                    <!-- Navbar - Link 5 -->
-                </ul>
-            </nav>
-
             <!-- Nav -->
             <nav class="js-mega-menu navbar navbar-expand-lg u-header__navbar">
 
