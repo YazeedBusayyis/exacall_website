@@ -187,8 +187,7 @@
                                         <span class="display-4 text-dark">Contact Us</span>
                                         <span class="d-block text-secondary" style="font-size: 25px;">for Quotation</span>
                                         {{--<span class="display-4 text-dark">Contact Us</span>--}}
-                                    </span>
-                                <br/>
+                                </span>
                             </header>
                             <!-- End Header -->
                             <!-- Content -->
