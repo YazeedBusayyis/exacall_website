@@ -192,7 +192,7 @@
             <div class="col-12 col-md-3 col-lg-3 mb-7 mb-lg-0 text-left">
                 <!-- Logo -->
                 <a class="d-inline-block mb-5" href="https://www.exacall.com" aria-label="Space">
-                    <img src="/assets/svg/logos/exacall_logo_white_2.png" alt="Logo" style="width: 80px; max-width: 100%;">
+                    <img src="/assets/svg/logos/exacall_logo_white_ar_2.png" alt="Logo" style="width: 80px; max-width: 100%;">
                 </a>
                 <!-- End Logo -->
                 <p class="small text-white text-justify">ExaCall Company provides the best innovative and integrated solutions for calls with a flexible system to serve companies and call centers</p>
