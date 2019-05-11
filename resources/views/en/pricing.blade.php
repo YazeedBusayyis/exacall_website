@@ -240,69 +240,69 @@
         <!-- Pricing Table Section -->
         <div class="container space-2 space-3-bottom--lg">
             <!-- Entertainment Pricing Table Features -->
-            <table class="table table-striped table-borderless table-responsive-sm text-left">
-                <thead>
-                    <tr>
-                        <th scope="col" class="py-5">
-                            <span class="h4 font-weight-normal mb-0">Calls and Prices Details</span>
-                        </th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <th scope="row" class="font-weight-normal">
-                            <span>Price per minute for local calls</span>
-                        </th>
-                        <td><b>40 Halalas</b></td>
-                    </tr>
-                    <tr>
-                        <th scope="row" class="font-weight-normal">
-                            <span>Price per minute for international calls</span>
-                        </th>
-                        <td><a href="https://exacall.com/documents/call_rates.pdf">Table of Call Rates</a></td>
-                    </tr>
-                    <tr>
-                        <th scope="row" class="font-weight-normal">
-                            <span>Price per Extension</span>
-                        </th>
-                        <td><b>60 SAR</b></td>
-                    </tr>
-                    <tr>
-                        <th scope="row" class="font-weight-normal">
-                            <span>Price per Concurrent calls</span>
-                        </th>
-                        <td><b>75 SAR</b></td>
-                    </tr>
-                    <tr>
-                        <th scope="row" class="font-weight-normal">
-                            <span class="fa fa-angle-double-right font-size-13 mr-2"></span>
-                            <span>If you order from 11 - 19 extensions :</span>
-                        </th>
-                        <td><b>55 SAR / Extension</b></td>
-                    </tr>
-                    <tr>
-                        <th scope="row" class="font-weight-normal">
-                            <span class="fa fa-angle-double-right font-size-13 mr-2"></span>
-                            <span>If you order (20 extensions and more) :</span>
-                        </th>
-                        <td><b>50 SAR / Extension</b></td>
-                    </tr>
-                    <tr>
-                        <th scope="row" class="font-weight-normal">
-                            <span class="fa fa-angle-double-right font-size-13 mr-2"></span>
-                            <span><b>If you subscribe for a full year you (will) get :</b></span>
-                        </th>
-                        <td><b>1 Month FREE</b></td>
-                    </tr>
-                    <tr>
-                        <th scope="row" class="font-weight-normal">
-                            <span class="fa fa-angle-double-right font-size-13 mr-2"></span>
-                            <span><b>Installation fees</b></span>
-                        </th>
-                        <td><b>500 SAR</b></td>
-                    </tr>
-                </tbody>
-            </table>
+            {{--<table class="table table-striped table-borderless table-responsive-sm text-left">--}}
+                {{--<thead>--}}
+                    {{--<tr>--}}
+                        {{--<th scope="col" class="py-5">--}}
+                            {{--<span class="h4 font-weight-normal mb-0">Calls and Prices Details</span>--}}
+                        {{--</th>--}}
+                    {{--</tr>--}}
+                {{--</thead>--}}
+                {{--<tbody>--}}
+                    {{--<tr>--}}
+                        {{--<th scope="row" class="font-weight-normal">--}}
+                            {{--<span>Price per minute for local calls</span>--}}
+                        {{--</th>--}}
+                        {{--<td><b>40 Halalas</b></td>--}}
+                    {{--</tr>--}}
+                    {{--<tr>--}}
+                        {{--<th scope="row" class="font-weight-normal">--}}
+                            {{--<span>Price per minute for international calls</span>--}}
+                        {{--</th>--}}
+                        {{--<td><a href="https://exacall.com/documents/call_rates.pdf">Table of Call Rates</a></td>--}}
+                    {{--</tr>--}}
+                    {{--<tr>--}}
+                        {{--<th scope="row" class="font-weight-normal">--}}
+                            {{--<span>Price per Extension</span>--}}
+                        {{--</th>--}}
+                        {{--<td><b>60 SAR</b></td>--}}
+                    {{--</tr>--}}
+                    {{--<tr>--}}
+                        {{--<th scope="row" class="font-weight-normal">--}}
+                            {{--<span>Price per Concurrent calls</span>--}}
+                        {{--</th>--}}
+                        {{--<td><b>75 SAR</b></td>--}}
+                    {{--</tr>--}}
+                    {{--<tr>--}}
+                        {{--<th scope="row" class="font-weight-normal">--}}
+                            {{--<span class="fa fa-angle-double-right font-size-13 mr-2"></span>--}}
+                            {{--<span>If you order from 11 - 19 extensions :</span>--}}
+                        {{--</th>--}}
+                        {{--<td><b>55 SAR / Extension</b></td>--}}
+                    {{--</tr>--}}
+                    {{--<tr>--}}
+                        {{--<th scope="row" class="font-weight-normal">--}}
+                            {{--<span class="fa fa-angle-double-right font-size-13 mr-2"></span>--}}
+                            {{--<span>If you order (20 extensions and more) :</span>--}}
+                        {{--</th>--}}
+                        {{--<td><b>50 SAR / Extension</b></td>--}}
+                    {{--</tr>--}}
+                    {{--<tr>--}}
+                        {{--<th scope="row" class="font-weight-normal">--}}
+                            {{--<span class="fa fa-angle-double-right font-size-13 mr-2"></span>--}}
+                            {{--<span><b>If you subscribe for a full year you (will) get :</b></span>--}}
+                        {{--</th>--}}
+                        {{--<td><b>1 Month FREE</b></td>--}}
+                    {{--</tr>--}}
+                    {{--<tr>--}}
+                        {{--<th scope="row" class="font-weight-normal">--}}
+                            {{--<span class="fa fa-angle-double-right font-size-13 mr-2"></span>--}}
+                            {{--<span><b>Installation fees</b></span>--}}
+                        {{--</th>--}}
+                        {{--<td><b>500 SAR</b></td>--}}
+                    {{--</tr>--}}
+                {{--</tbody>--}}
+            {{--</table>--}}
             <!-- End Entertainment Pricing Table Features -->
             <br/>
             <!-- Individual Pricing Table Features -->
@@ -314,18 +314,18 @@
                     </th>
                     <th scope="col" class="py-5">
                         <span class="d-block font-weight-medium">Mini</span>
-                        <span class="d-block text-secondary font-weight-normal">599 SAR / month</span>
-                        <a class="btn btn-xs btn-primary py-1 px-2" href="#order">Order Now</a>
+                        {{--<span class="d-block text-secondary font-weight-normal">599 SAR / month</span>--}}
+                        <a class="btn btn-xs btn-primary py-1 px-2" href="#order">Contact Us</a>
                     </th>
                     <th scope="col" class="py-5">
                         <span class="d-block font-weight-medium">Basic</span>
-                        <span class="d-block text-secondary font-weight-normal">999 SAR / month</span>
-                        <a class="btn btn-xs btn-primary py-1 px-2" href="#order">Order Now</a>
+                        {{--<span class="d-block text-secondary font-weight-normal">999 SAR / month</span>--}}
+                        <a class="btn btn-xs btn-primary py-1 px-2" href="#order">Contact Us</a>
                     </th>
                     <th scope="col" class="py-5">
                         <span class="d-block font-weight-medium">Custom</span>
                         <span class="d-block text-secondary font-weight-normal">Depending on the plan</span>
-                        <a class="btn btn-xs btn-primary py-1 px-2" href="#order">Order Now</a>
+                        <a class="btn btn-xs btn-primary py-1 px-2" href="#order">Contact Us</a>
                     </th>
                 </tr>
                 </thead>
