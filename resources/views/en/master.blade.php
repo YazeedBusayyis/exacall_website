@@ -73,7 +73,7 @@
 
         .help_box {
             position: fixed;
-            left: 6.3%;
+            right: 6.3%;
             bottom: -5px;
             z-index: 10000;
             width: 175px;
@@ -180,7 +180,7 @@
 <!-- ========== END MAIN CONTENT ========== -->
 
 <div class="help_box">
-    <a href="tel:920033120" class="btn"><b>Call Us: 920033120</b></a>
+    <a href="tel:920033120" class="btn"><b>Contact Sales</b></a>
 </div>
 
 <!-- ========== FOOTER ========== -->
