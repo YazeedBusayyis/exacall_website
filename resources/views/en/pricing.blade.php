@@ -79,7 +79,7 @@
                                 <p>Suitable for Small Teams</p>
                                 <span class="d-block">
                                         <span class="display-4 text-dark">Contact Us</span>
-                                        <span class="d-block text-secondary font-size-20">for Quotation</span>
+                                        <span class="d-block text-secondary" style="font-size: 25px;">for Quotation</span>
                                         {{--<span class="display-4 text-dark">599 SAR</span>--}}
                                         {{--<span class="d-block text-secondary font-size-14">per month</span>--}}
                                     </span>
@@ -112,14 +112,14 @@
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
-                                        <span>Showing the whole phone-calls history</span>
+                                        <span>Display all phone-calls history</span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
                                         <span>Free calls between extensions</span>
                                     </li>
                                 </ul>
-                                <a href="#order" class="btn btn-block btn-primary">Order Now</a>
+                                <a href="#order" class="btn btn-block btn-primary">Contact Us</a>
                             </div>
                             <!-- End Content -->
                         </div>
