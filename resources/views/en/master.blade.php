@@ -70,6 +70,16 @@
         .display-4{
             font-size: 3.2rem !important;
         }
+
+        .help_box {
+            position: fixed;
+            left: 6.3%;
+            bottom: -5px;
+            z-index: 10000;
+            width: 165px;
+            text-align: center;
+        }
+
     </style>
 
 </head>
@@ -164,6 +174,10 @@
 @yield('content')
 
 <!-- ========== END MAIN CONTENT ========== -->
+
+<div class="help_box">
+    <a href="tel:920033120" class="btn">Call us : 920033120</a>
+</div>
 
 <!-- ========== FOOTER ========== -->
 <footer class="bg-dark">

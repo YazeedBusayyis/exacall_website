@@ -324,7 +324,7 @@
                     </th>
                     <th scope="col" class="py-5">
                         <span class="d-block font-weight-medium">Custom</span>
-                        <span class="d-block text-secondary font-weight-normal">Depending on the plan</span>
+                        {{--<span class="d-block text-secondary font-weight-normal">Depending on the plan</span>--}}
                         <a class="btn btn-xs btn-primary py-1 px-2" href="#order">Contact Us</a>
                     </th>
                 </tr>
