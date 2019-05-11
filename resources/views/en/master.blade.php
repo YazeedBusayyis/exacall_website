@@ -76,7 +76,7 @@
             left: 6.3%;
             bottom: -5px;
             z-index: 10000;
-            width: 165px;
+            width: 175px;
             text-align: center;
             background-color: white;
             border-top-left-radius: 10px;
