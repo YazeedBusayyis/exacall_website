@@ -78,6 +78,10 @@
             z-index: 10000;
             width: 165px;
             text-align: center;
+            background-color: white;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            box-shadow: 0px 0px 20px rgba(0,0,0,0.1);
         }
 
     </style>
@@ -176,7 +180,7 @@
 <!-- ========== END MAIN CONTENT ========== -->
 
 <div class="help_box">
-    <a href="tel:920033120" class="btn">Call us : 920033120</a>
+    <a href="tel:920033120" class="btn"><b>Call Us: 920033120</b></a>
 </div>
 
 <!-- ========== FOOTER ========== -->
