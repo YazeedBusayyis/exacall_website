@@ -65,6 +65,7 @@
 <body>
 
 <!-- ========== HEADER ========== -->
+
 <header id="header" class="u-header u-header--modern u-header--bordered u-header--bg-transparent u-header--white-nav-links u-header--sticky-top-lg">
     <div class="u-header__section">
         <div id="logoAndNav" class="container-fluid">
@@ -74,11 +75,9 @@
 
                 <!-- Logo -->
                 <div class="u-header__navbar-brand-wrapper">
-                    <a class="navbar-brand u-header__navbar-brand" href="https://www.exacall.com" aria-label="Space">
-                        <img class="u-header__navbar-brand-default logo" src="assets/svg/logos/exacall_logo_white_2.png" alt="Logo">
-                        <img class="u-header__navbar-brand-on-scroll logo" src="assets/svg/logos/exacall_logo_2.png" alt="Logo">
-                        <img class="u-header__navbar-brand-mobile" src="assets/svg/logos/exacall_logo_2.png" alt="Logo">
-                    </a>
+
+                    @yield('logo')
+
                 </div>
                 <!-- End Logo -->
 
