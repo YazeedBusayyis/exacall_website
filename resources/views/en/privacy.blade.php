@@ -3,18 +3,18 @@
 @section('meta')
 
     <!--  Essential META Tags -->
-    <title>سياسة الخصوصية | اكسا كول</title>
+    <title>Privacy and Policy | ExaCall</title>
     <meta name="description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال">
     <meta name="keywords" content="اتصالات,اكساكول,تحويل مكالمات,تسجيل مكالمات,سنترال سحابي,هاتف موحد,مجموعات اتصال,اجتماعات هاتفية,خط أرضي,مراقبة مكالمات,كول سنتر,voip,9200,011,call center,exa,exacall,Business,Startup,call,calls">
     <!--  OG -->
-    <meta property="og:title" content="سياسة الخصوصية | اكسا كول">
+    <meta property="og:title" content="Privacy and Policy | ExaCall">
     <meta property="og:description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال">
     <meta property="og:image" content="/assets/svg/logos/og_img_link.jpg">
     <meta property="og:url" content="https://www.exacall.com">
     <!-- Twitter -->
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@exacall"/>
-    <meta name="twitter:title" content="سياسة الخصوصية | اكسا كول" />
+    <meta name="twitter:title" content="Privacy and Policy | ExaCall" />
     <meta name="twitter:description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال"/>
     <meta name="twitter:image" content="/assets/svg/logos/og_img_link.jpg" />
 

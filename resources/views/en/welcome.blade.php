@@ -3,18 +3,18 @@
 @section('meta')
 
     <!--  Essential META Tags -->
-    <title>حلول الاتصال للشركات ومراكز الأعمال | اكسا كول</title>
+    <title>Call solutions for businesses and contact centers | ExaCall</title>
     <meta name="description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال">
     <meta name="keywords" content="اتصالات,اكساكول,تحويل مكالمات,تسجيل مكالمات,سنترال سحابي,هاتف موحد,مجموعات اتصال,اجتماعات هاتفية,خط أرضي,مراقبة مكالمات,كول سنتر,voip,9200,011,call center,exa,exacall,Business,Startup,call,calls">
     <!--  OG -->
-    <meta property="og:title" content="حلول الاتصال للشركات ومراكز الاتصال | اكسا كول">
+    <meta property="og:title" content="Call solutions for businesses and contact centers | ExaCall">
     <meta property="og:description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال">
     <meta property="og:image" content="/assets/svg/logos/og_img_link.jpg">
     <meta property="og:url" content="https://www.exacall.com">
     <!-- Twitter -->
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@exacall"/>
-    <meta name="twitter:title" content="حلول الاتصال للشركات ومراكز الاتصال | اكسا كول" />
+    <meta name="twitter:title" content="Call solutions for businesses and contact centers | ExaCall" />
     <meta name="twitter:description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال"/>
     <meta name="twitter:image" content="/assets/svg/logos/og_img_link.jpg" />
 
@@ -48,7 +48,7 @@
                             <h1 class="display-4 font-size-48--md-down text-white mb-0">
                                 <b>The most flexible system to manage your calls and monitor your business</b>
                             </h1>
-                            <a class="btn btn-outline-light mt-4" href="#what" style="border-radius: 50px;">Know more about us</a>
+                            <a class="btn btn-outline-light mt-4" href="#what" style="border-radius: 50px;">Learn more</a>
                             <!-- End Title -->
                         </div>
                         <!-- Order Form -->

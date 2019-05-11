@@ -3,18 +3,18 @@
 @section('meta')
 
     <!--  Essential META Tags -->
-    <title>الأسعار والباقات | اكسا كول</title>
+    <title>Pricing and Plan | ExaCall</title>
     <meta name="description" content="نظام مرن مصمم بطريقة احترافية لإدارة اتصالاتك الهاتفية">
     <meta name="keywords" content="اتصالات,اكساكول,تحويل مكالمات,تسجيل مكالمات,سنترال سحابي,هاتف موحد,مجموعات اتصال,اجتماعات هاتفية,خط أرضي,مراقبة مكالمات,كول سنتر,voip,9200,011,call center,exa,exacall,Business,Startup,call,calls">
     <!--  OG -->
-    <meta property="og:title" content="الأسعار والباقات | اكسا كول">
+    <meta property="og:title" content="Pricing and Plan | ExaCall">
     <meta property="og:description" content="نظام مرن مصمم بطريقة احترافية لإدارة اتصالاتك الهاتفية">
     <meta property="og:image" content="/assets/svg/logos/og_img_link.jpg">
     <meta property="og:url" content="https://www.exacall.com">
     <!-- Twitter -->
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@exacall"/>
-    <meta name="twitter:title" content="الأسعار والباقات | اكسا كول"/>
+    <meta name="twitter:title" content="Pricing and Plan | ExaCall"/>
     <meta name="twitter:description" content="نظام مرن مصمم بطريقة احترافية لإدارة اتصالاتك الهاتفية"/>
     <meta name="twitter:image" content="/assets/svg/logos/og_img_link.jpg" />
 
