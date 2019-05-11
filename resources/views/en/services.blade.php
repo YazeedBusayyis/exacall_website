@@ -23,9 +23,9 @@
 @section('logo')
 
     <a class="navbar-brand u-header__navbar-brand" href="https://www.exacall.com" aria-label="Space">
-        <img class="u-header__navbar-brand-default logo" src="assets/svg/logos/exacall_logo_white_ar_2.png" alt="Logo">
-        <img class="u-header__navbar-brand-on-scroll logo" src="assets/svg/logos/exacall_logo_en_2.png" alt="Logo">
-        <img class="u-header__navbar-brand-mobile" src="assets/svg/logos/exacall_logo_en_2.png" alt="Logo">
+        <img class="u-header__navbar-brand-default logo" src="/assets/svg/logos/exacall_logo_white_ar_2.png" alt="Logo">
+        <img class="u-header__navbar-brand-on-scroll logo" src="/assets/svg/logos/exacall_logo_en_2.png" alt="Logo">
+        <img class="u-header__navbar-brand-mobile" src="/assets/svg/logos/exacall_logo_en_2.png" alt="Logo">
     </a>
 
 @endsection
@@ -41,7 +41,7 @@
                     <!-- Title -->
                     <div class="mb-9">
                         <h1 class="display-4 text-white">Solutions and Services</h1>
-                        <p class="lead text-white">The best calls management systems solutions for companies and call centers</p>
+                        <p class="lead text-white">The best call management system solutions for companies and contact centers</p>
                     </div>
                     <!-- End Title -->
                 </div>
@@ -66,7 +66,7 @@
                     <p>
                         <b>Companies & Businesses :</b>
                         <br>
-                    <p class="text-justify">For easier communication between employees, we provide Entrepreneurs a contact management system for all business branches to facilitate employees to communicate with each other through internal direct extensions and the ability to connect and receive calls from anywhere</p>
+                    <p class="text-justify">For easier communication between employees, we provide entrepreneurs a contact management system for all business branches to facilitate employees to communicate with each other through internal direct extensions. We also provide the ability to connect and receive calls from anywhere</p>
                     </p>
                 </div>
                 <!-- End Icon Block -->
@@ -79,7 +79,7 @@
                     <p>
                         <b>Call Centers :</b>
                         <br>
-                    <p class="text-justify">To get the best experience for your customer service and increase the productivity of your call center. We provide to you an innovative solution to manage calls and monitor your employees</p>
+                    <p class="text-justify">To get the best experience for your customer service and increase the productivity of your call center, we provide an innovative solution to manage calls and monitor your employees</p>
                     </p>
                 </div>
                 <!-- End Icon Block -->
