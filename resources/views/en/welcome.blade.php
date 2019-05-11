@@ -142,7 +142,7 @@
                     <div class="mb-5">
                         <span class="u-label u-label--sm u-label--purple mb-3">About Us</span>
                         <h2 class="h1">What is ExaCall ?</h2>
-                        <p class="lead">From the heart of the <span class="text-success"><b>Kingdom of Saudi Arabia</b></span>, ExaCall presents the most innovative solutions for telephone calls with a flexible and integrated system to serve companies and call centers</p>
+                        <p class="lead">Based and created in the <span class="text-success">Kingdom of Saudi Arabia</span>, ExaCall presents the most innovative solutions for telephone calls with a flexible and integrated system to serve companies and call center and enhance their business communication.</p>
                     </div>
                     <!-- Fancybox -->
                     {{--<a class="js-fancybox u-media-player" href="javascript:;"
