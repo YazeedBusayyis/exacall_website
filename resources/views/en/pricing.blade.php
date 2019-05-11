@@ -23,9 +23,9 @@
 @section('logo')
 
     <a class="navbar-brand u-header__navbar-brand" href="https://www.exacall.com" aria-label="Space">
-        <img class="u-header__navbar-brand-default logo" src="assets/svg/logos/exacall_logo_white_ar_2.png" alt="Logo">
-        <img class="u-header__navbar-brand-on-scroll logo" src="assets/svg/logos/exacall_logo_en_2.png" alt="Logo">
-        <img class="u-header__navbar-brand-mobile" src="assets/svg/logos/exacall_logo_en_2.png" alt="Logo">
+        <img class="u-header__navbar-brand-default logo" src="/assets/svg/logos/exacall_logo_white_ar_2.png" alt="Logo">
+        <img class="u-header__navbar-brand-on-scroll logo" src="/assets/svg/logos/exacall_logo_en_2.png" alt="Logo">
+        <img class="u-header__navbar-brand-mobile" src="/assets/svg/logos/exacall_logo_en_2.png" alt="Logo">
     </a>
 
 @endsection
@@ -78,7 +78,8 @@
                                 <h4 class="h4">Mini</h4>
                                 <p>Suitable for Small Teams</p>
                                 <span class="d-block">
-                                        <span class="display-4 text-dark">Contact Us <br> for Quotation</span>
+                                        <span class="display-4 text-dark">Contact Us</span>
+                                        <span class="d-block text-secondary font-size-20">for Quotation</span>
                                         {{--<span class="display-4 text-dark">599 SAR</span>--}}
                                         {{--<span class="d-block text-secondary font-size-14">per month</span>--}}
                                     </span>
