@@ -78,8 +78,9 @@
                                 <h4 class="h4">Mini</h4>
                                 <p>Suitable for Small Teams</p>
                                 <span class="d-block">
-                                        <span class="display-4 text-dark">599 SAR</span>
-                                        <span class="d-block text-secondary font-size-14">per month</span>
+                                        <span class="display-4 text-dark">Contact Us <br> for Quotation</span>
+                                        {{--<span class="display-4 text-dark">599 SAR</span>--}}
+                                        {{--<span class="d-block text-secondary font-size-14">per month</span>--}}
                                     </span>
                             </header>
                             <!-- End Header -->
