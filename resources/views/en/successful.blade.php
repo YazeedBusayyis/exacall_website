@@ -1,5 +1,16 @@
 @extends('en.master')
 
+@section('logo')
+
+    <a class="navbar-brand u-header__navbar-brand" href="https://www.exacall.com" aria-label="Space">
+        <img class="u-header__navbar-brand-default logo" src="assets/svg/logos/exacall_logo_white_ar_2.png" alt="Logo">
+        <img class="u-header__navbar-brand-on-scroll logo" src="assets/svg/logos/exacall_logo_en_2.png" alt="Logo">
+        <img class="u-header__navbar-brand-mobile" src="assets/svg/logos/exacall_logo_en_2.png" alt="Logo">
+    </a>
+
+@endsection
+
+
 @section('content')
 
     <div class="img-bg" style="background-color: #920bc0;">
