@@ -58,6 +58,20 @@
             border-left: 1px solid #e3e6f0;
             margin-left: 1.375rem;
         }
+
+        .help_box {
+            position: fixed;
+            left: 6.3%;
+            bottom: -5px;
+            z-index: 10000;
+            width: 175px;
+            text-align: center;
+            background-color: white;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            box-shadow: 0px 0px 20px rgba(0,0,0,0.1);
+        }
+
     </style>
 
 </head>
@@ -153,6 +167,10 @@
 @yield('content')
 
 <!-- ========== END MAIN CONTENT ========== -->
+
+<div class="help_box">
+    <a href="tel:920033120" class="btn"><b>Contact Sales</b></a>
+</div>
 
 <!-- ========== FOOTER ========== -->
 <footer class="bg-dark">
