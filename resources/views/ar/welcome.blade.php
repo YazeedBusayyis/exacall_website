@@ -342,10 +342,10 @@
                                     <span class="u-label u-label--light u-label--sm">ننصح بها</span>
                                 </div>
                                 <p class="text-white">مناسبة لرواد الأعمال</p>
-                                <div class="text-white mb-2">
-                                    <span class="h1">999 ريال</span>
-                                    <span>/ شهريا</span>
-                                </div>
+                                {{--<div class="text-white mb-2">--}}
+                                    {{--<span class="h1">999 ريال</span>--}}
+                                    {{--<span>/ شهريا</span>--}}
+                                {{--</div>--}}
                                 <ul style="padding-right: 10px;" class="list-unstyled text-white mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
@@ -379,7 +379,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <a href="/pricing" class="btn btn-block btn-sm btn-light">للمزيد من التفاصيل</a>
+                            <a href="/pricing" class="btn btn-block btn-sm btn-light">اطلب الخدمة الآن</a>
                         </div>
                         <!-- End Pricing -->
                     </div>
@@ -389,10 +389,10 @@
                             <div class="mb-4">
                                 <h4 class="h6 text-secondary mb-3">المصغرة</h4>
                                 <p>مناسبة لفرق العمل الصغيرة</p>
-                                <div class="mb-2">
-                                    <span class="h1">599 ريال</span>
-                                    <span>/ شهريا</span>
-                                </div>
+                                {{--<div class="mb-2">--}}
+                                    {{--<span class="h1">599 ريال</span>--}}
+                                    {{--<span>/ شهريا</span>--}}
+                                {{--</div>--}}
                                 <ul style="padding-right: 10px;" class="list-unstyled mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
@@ -428,7 +428,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <a href="/pricing" class="btn btn-block btn-sm btn-purple">للمزيد من التفاصيل</a>
+                            <a href="/pricing" class="btn btn-block btn-sm btn-purple">اطلب الخدمة الآن</a>
                         </div>
                         <!-- End Pricing -->
                     </div>
@@ -438,9 +438,9 @@
                             <div class="mb-4">
                                 <h4 class="h6 text-secondary mb-3">المخصصة</h4>
                                 <p>قم بتصميم الباقة الخاصة بك</p>
-                                <div class="mb-2">
-                                    <span class="h1 text-dark">اتصل بنا</span>
-                                </div>
+                                {{--<div class="mb-2">--}}
+                                    {{--<span class="h1 text-dark">اتصل بنا</span>--}}
+                                {{--</div>--}}
                                 <ul style="padding-right: 10px;" class="list-unstyled mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
@@ -475,7 +475,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <a href="/pricing" class="btn btn-block btn-sm btn-purple">للمزيد من التفاصيل</a>
+                            <a href="/pricing" class="btn btn-block btn-sm btn-purple">اطلب الخدمة الآن</a>
                         </div>
                         <!-- End Pricing -->
                     </div>
