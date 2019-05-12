@@ -343,10 +343,10 @@
                                     <span class="u-label u-label--light u-label--sm">Recommended</span>
                                 </div>
                                 <p class="text-white">Suitable for Entrepreneurs</p>
-                                <div class="text-white mb-2">
-                                    <span class="h1">999 SAR</span>
-                                    <span>/ month</span>
-                                </div>
+                                {{--<div class="text-white mb-2">--}}
+                                    {{--<span class="h1">999 SAR</span>--}}
+                                    {{--<span>/ month</span>--}}
+                                {{--</div>--}}
                                 <ul style="padding-left: 10px;" class="list-unstyled text-white mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
@@ -372,7 +372,7 @@
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
-                                        <span>Showing the whole phone-calls history</span>
+                                        <span>Display all phone-calls history</span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
@@ -380,7 +380,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <a href="/en/pricing" class="btn btn-block btn-sm btn-light">For more details</a>
+                            <a href="/en/pricing" class="btn btn-block btn-sm btn-light">Contact us for quotation</a>
                         </div>
                         <!-- End Pricing -->
                     </div>
@@ -391,10 +391,10 @@
                             <div class="mb-4">
                                 <h4 class="h5 text-secondary mb-3"><b>Mini</b></h4>
                                 <p>Suitable for Small Teams</p>
-                                <div class="mb-2">
-                                    <span class="h1">599 SAR</span>
-                                    <span>/ month</span>
-                                </div>
+                                {{--<div class="mb-2">--}}
+                                    {{--<span class="h1">599 SAR</span>--}}
+                                    {{--<span>/ month</span>--}}
+                                {{--</div>--}}
                                 <ul style="padding-left: 10px;" class="list-unstyled mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
@@ -420,7 +420,7 @@
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
-                                        <span>Showing the whole phone-calls history</span>
+                                        <span>Display all phone-calls history</span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
@@ -428,7 +428,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <a href="/en/pricing" class="btn btn-block btn-sm btn-purple">Fore more details</a>
+                            <a href="/en/pricing" class="btn btn-block btn-sm btn-purple">Contact us for quotation</a>
                         </div>
                         <!-- End Pricing -->
                     </div>
@@ -439,9 +439,9 @@
                             <div class="mb-4">
                                 <h4 class="h5 text-secondary mb-3"><b>Custom</b></h4>
                                 <p>Customize Your Plan</p>
-                                <div class="mb-2">
-                                    <span class="h1 text-dark">Contact Us</span>
-                                </div>
+                                {{--<div class="mb-2">--}}
+                                    {{--<span class="h1 text-dark">Contact Us</span>--}}
+                                {{--</div>--}}
                                 <ul style="padding-left: 10px;" class="list-unstyled mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
@@ -467,7 +467,7 @@
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
-                                        <span>Showing the whole phone-calls history</span>
+                                        <span>Display all phone-calls history</span>
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
@@ -475,7 +475,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <a href="/en/pricing" class="btn btn-block btn-sm btn-purple">For more details</a>
+                            <a href="/en/pricing" class="btn btn-block btn-sm btn-purple">Contact us for quotation</a>
                         </div>
                         <!-- End Pricing -->
                     </div>
