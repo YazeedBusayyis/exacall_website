@@ -77,12 +77,12 @@
                             <header class="card-header text-center p-5">
                                 <h4 class="h4">Mini</h4>
                                 <p>Suitable for Small Teams</p>
-                                <span class="d-block">
-                                        <span class="display-4 text-dark">Contact Us</span>
-                                        <span class="d-block text-secondary" style="font-size: 25px;">for Quotation</span>
+                                {{--<span class="d-block">--}}
+                                        {{--<span class="display-4 text-dark">Contact Us</span>--}}
+                                        {{--<span class="d-block text-secondary" style="font-size: 25px;">for Quotation</span>--}}
                                         {{--<span class="display-4 text-dark">599 SAR</span>--}}
                                         {{--<span class="d-block text-secondary font-size-14">per month</span>--}}
-                                    </span>
+                                {{--</span>--}}
                             </header>
                             <!-- End Header -->
                             <!-- Content -->
@@ -119,7 +119,7 @@
                                         <span>Free calls between extensions</span>
                                     </li>
                                 </ul>
-                                <a href="#order" class="btn btn-block btn-primary">Contact Us</a>
+                                <a href="#order" class="btn btn-block btn-primary">Contact us for quotation</a>
                             </div>
                             <!-- End Content -->
                         </div>
@@ -130,12 +130,12 @@
                             <header class="card-header text-center p-5">
                                 <h4 class="h4">Basic</h4>
                                 <p>Suitable for Entrepreneurs</p>
-                                <span class="d-block">
-                                        <span class="display-4 text-dark">Contact Us</span>
-                                        <span class="d-block text-secondary" style="font-size: 25px;">for Quotation</span>
+                                {{--<span class="d-block">--}}
+                                        {{--<span class="display-4 text-dark">Contact Us</span>--}}
+                                        {{--<span class="d-block text-secondary" style="font-size: 25px;">for Quotation</span>--}}
                                         {{--<span class="display-4 text-dark">999 SAR</span>--}}
                                         {{--<span class="d-block text-secondary font-size-14">per month</span>--}}
-                                    </span>
+                                {{--</span>--}}
                             </header>
                             <!-- End Header -->
                             <!-- Content -->
@@ -172,7 +172,7 @@
                                         <span>Free calls between extensions</span>
                                     </li>
                                 </ul>
-                                <a href="#order" class="btn btn-block btn-primary">Contact Us</a>
+                                <a href="#order" class="btn btn-block btn-primary">Contact us for quotation</a>
                             </div>
                             <!-- End Content -->
                         </div>
@@ -183,11 +183,11 @@
                             <header class="card-header text-center p-5">
                                 <h4 class="h4">Custom</h4>
                                 <p>Customize Your Plan</p>
-                                <span class="d-block">
-                                        <span class="display-4 text-dark">Contact Us</span>
-                                        <span class="d-block text-secondary" style="font-size: 25px;">for Quotation</span>
+                                {{--<span class="d-block">--}}
                                         {{--<span class="display-4 text-dark">Contact Us</span>--}}
-                                </span>
+                                        {{--<span class="d-block text-secondary" style="font-size: 25px;">for Quotation</span>--}}
+                                        {{--<span class="display-4 text-dark">Contact Us</span>--}}
+                                {{--</span>--}}
                             </header>
                             <!-- End Header -->
                             <!-- Content -->
@@ -224,7 +224,7 @@
                                         <span>Free calls between extensions</span>
                                     </li>
                                 </ul>
-                                <a href="#order" class="btn btn-block btn-primary">Contact Us</a>
+                                <a href="#order" class="btn btn-block btn-primary">Contact us for quotation</a>
                             </div>
                             <!-- End Content -->
                         </div>

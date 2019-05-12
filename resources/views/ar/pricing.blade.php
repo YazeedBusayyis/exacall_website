@@ -77,10 +77,12 @@
                             <header class="card-header text-center p-5">
                                 <h4 class="h4">المصغرة</h4>
                                 <p>مناسبة لفرق العمل الصغيرة</p>
-                                <span class="d-block">
-                                        <span class="display-4 text-dark">599 ريال</span>
-                                        <span class="d-block text-secondary font-size-14">لكل شهر</span>
-                                    </span>
+                                {{--<span class="d-block">--}}
+                                        {{--<span class="display-4 text-dark">تواصل معنا</span>--}}
+                                        {{--<span class="d-block text-secondary" style="font-size: 25px;">واحصل على تسعيرة</span>--}}
+                                        {{--<span class="display-4 text-dark">599 ريال</span>--}}
+                                        {{--<span class="d-block text-secondary font-size-14">لكل شهر</span>--}}
+                                    {{--</span>--}}
                             </header>
                             <!-- End Header -->
                             <!-- Content -->
@@ -119,7 +121,7 @@
                                         <span>المكالمات مجانية بين التحويلات</span>
                                     </li>
                                 </ul>
-                                <a href="#order" class="btn btn-block btn-primary">اطلب الآن</a>
+                                <a href="#order" class="btn btn-block btn-primary">احصل على تسعيرة</a>
                             </div>
                             <!-- End Content -->
                         </div>
@@ -130,10 +132,12 @@
                             <header class="card-header text-center p-5">
                                 <h4 class="h4">الأساسية</h4>
                                 <p>مناسبة لرواد الأعمال</p>
-                                <span class="d-block">
-                                        <span class="display-4 text-dark">999 ريال</span>
-                                        <span class="d-block text-secondary font-size-14">لكل شهر</span>
-                                    </span>
+                                {{--<span class="d-block">--}}
+                                        {{--<span class="display-4 text-dark">تواصل معنا</span>--}}
+                                        {{--<span class="d-block text-secondary" style="font-size: 25px;">واحصل على تسعيرة</span>--}}
+                                        {{--<span class="display-4 text-dark">999 ريال</span>--}}
+                                        {{--<span class="d-block text-secondary font-size-14">لكل شهر</span>--}}
+                                    {{--</span>--}}
                             </header>
                             <!-- End Header -->
                             <!-- Content -->
@@ -170,7 +174,7 @@
                                         <span>المكالمات مجانية بين التحويلات</span>
                                     </li>
                                 </ul>
-                                <a href="#order" class="btn btn-block btn-primary">اطلب الآن</a>
+                                <a href="#order" class="btn btn-block btn-primary">احصل على تسعيرة</a>
                             </div>
                             <!-- End Content -->
                         </div>
@@ -181,9 +185,11 @@
                             <header class="card-header text-center p-5">
                                 <h4 class="h4">المخصصة</h4>
                                 <p>قم بتصميم الباقة الخاصة بك</p>
-                                <span class="d-block">
-                                        <span class="display-4 text-dark">اتصل بنا</span>
-                                    </span>
+                                {{--<span class="d-block">--}}
+                                        {{--<span class="display-4 text-dark">تواصل معنا</span>--}}
+                                        {{--<span class="d-block text-secondary" style="font-size: 25px;">واحصل على تسعيرة</span>--}}
+                                        {{--<span class="display-4 text-dark">اتصل بنا</span>--}}
+                                    {{--</span>--}}
                                 <br/>
                             </header>
                             <!-- End Header -->
@@ -221,7 +227,7 @@
                                         <span>المكالمات مجانية بين التحويلات</span>
                                     </li>
                                 </ul>
-                                <a href="#order" class="btn btn-block btn-primary">اطلب الآن</a>
+                                <a href="#order" class="btn btn-block btn-primary">احصل على تسعيرة</a>
                             </div>
                             <!-- End Content -->
                         </div>
