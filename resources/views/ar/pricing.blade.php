@@ -243,69 +243,69 @@
         <!-- Pricing Table Section -->
         <div class="container space-2 space-3-bottom--lg">
             <!-- Entertainment Pricing Table Features -->
-            <table class="table table-striped table-borderless table-responsive-sm">
-                <thead>
-                    <tr>
-                        <th scope="col" class="py-5">
-                            <span class="h4 font-weight-normal mb-0">تفاصيل الأسعار والمكالمات</span>
-                        </th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <th scope="row" class="font-weight-normal">
-                            <span>سعر الدقيقة للمكالمات المحلية</span>
-                        </th>
-                        <td><b>40 هللة</b></td>
-                    </tr>
-                    <tr>
-                        <th scope="row" class="font-weight-normal">
-                            <span>سعر الدقيقة للمكالمات الدولية</span>
-                        </th>
-                        <td><a href="https://exacall.com/documents/call_rates.pdf">جدول الأسعار حسب الدول</a></td>
-                    </tr>
-                    <tr>
-                        <th scope="row" class="font-weight-normal">
-                            <span>سعر التحويلة</span>
-                        </th>
-                        <td><b>60 ريال</b></td>
-                    </tr>
-                    <tr>
-                        <th scope="row" class="font-weight-normal">
-                            <span>سعر المكالمة المتزامنة</span>
-                        </th>
-                        <td><b>75 ريال</b></td>
-                    </tr>
-                    <tr>
-                        <th scope="row" class="font-weight-normal">
-                            <span class="fa fa-angle-double-left font-size-13 ml-2"></span>
-                            <span>في حال تم طلب 10 - 19 تحويلة فسعر التحويلة هو :</span>
-                        </th>
-                        <td><b>55 ريال</b></td>
-                    </tr>
-                    <tr>
-                        <th scope="row" class="font-weight-normal">
-                            <span class="fa fa-angle-double-left font-size-13 ml-2"></span>
-                            <span>في حال تم طلب أكثر من 20 تحويلة فسعر التحويلة هو :</span>
-                        </th>
-                        <td><b>50 ريال</b></td>
-                    </tr>
-                    <tr>
-                        <th scope="row" class="font-weight-normal">
-                            <span class="fa fa-angle-double-left font-size-13 ml-2"></span>
-                            <span><b>في حال تم الاشتراك لمدة سنة كاملة تحصل على : </b></span>
-                        </th>
-                        <td><b>شهر مجانا</b></td>
-                    </tr>
-                    <tr>
-                        <th scope="row" class="font-weight-normal">
-                            <span class="fa fa-angle-double-left font-size-13 ml-2"></span>
-                            <span><b>قيمة رسوم التأسيس</b></span>
-                        </th>
-                        <td><b>500 ريال</b></td>
-                    </tr>
-                </tbody>
-            </table>
+            {{--<table class="table table-striped table-borderless table-responsive-sm">--}}
+                {{--<thead>--}}
+                    {{--<tr>--}}
+                        {{--<th scope="col" class="py-5">--}}
+                            {{--<span class="h4 font-weight-normal mb-0">تفاصيل الأسعار والمكالمات</span>--}}
+                        {{--</th>--}}
+                    {{--</tr>--}}
+                {{--</thead>--}}
+                {{--<tbody>--}}
+                    {{--<tr>--}}
+                        {{--<th scope="row" class="font-weight-normal">--}}
+                            {{--<span>سعر الدقيقة للمكالمات المحلية</span>--}}
+                        {{--</th>--}}
+                        {{--<td><b>40 هللة</b></td>--}}
+                    {{--</tr>--}}
+                    {{--<tr>--}}
+                        {{--<th scope="row" class="font-weight-normal">--}}
+                            {{--<span>سعر الدقيقة للمكالمات الدولية</span>--}}
+                        {{--</th>--}}
+                        {{--<td><a href="https://exacall.com/documents/call_rates.pdf">جدول الأسعار حسب الدول</a></td>--}}
+                    {{--</tr>--}}
+                    {{--<tr>--}}
+                        {{--<th scope="row" class="font-weight-normal">--}}
+                            {{--<span>سعر التحويلة</span>--}}
+                        {{--</th>--}}
+                        {{--<td><b>60 ريال</b></td>--}}
+                    {{--</tr>--}}
+                    {{--<tr>--}}
+                        {{--<th scope="row" class="font-weight-normal">--}}
+                            {{--<span>سعر المكالمة المتزامنة</span>--}}
+                        {{--</th>--}}
+                        {{--<td><b>75 ريال</b></td>--}}
+                    {{--</tr>--}}
+                    {{--<tr>--}}
+                        {{--<th scope="row" class="font-weight-normal">--}}
+                            {{--<span class="fa fa-angle-double-left font-size-13 ml-2"></span>--}}
+                            {{--<span>في حال تم طلب 10 - 19 تحويلة فسعر التحويلة هو :</span>--}}
+                        {{--</th>--}}
+                        {{--<td><b>55 ريال</b></td>--}}
+                    {{--</tr>--}}
+                    {{--<tr>--}}
+                        {{--<th scope="row" class="font-weight-normal">--}}
+                            {{--<span class="fa fa-angle-double-left font-size-13 ml-2"></span>--}}
+                            {{--<span>في حال تم طلب أكثر من 20 تحويلة فسعر التحويلة هو :</span>--}}
+                        {{--</th>--}}
+                        {{--<td><b>50 ريال</b></td>--}}
+                    {{--</tr>--}}
+                    {{--<tr>--}}
+                        {{--<th scope="row" class="font-weight-normal">--}}
+                            {{--<span class="fa fa-angle-double-left font-size-13 ml-2"></span>--}}
+                            {{--<span><b>في حال تم الاشتراك لمدة سنة كاملة تحصل على : </b></span>--}}
+                        {{--</th>--}}
+                        {{--<td><b>شهر مجانا</b></td>--}}
+                    {{--</tr>--}}
+                    {{--<tr>--}}
+                        {{--<th scope="row" class="font-weight-normal">--}}
+                            {{--<span class="fa fa-angle-double-left font-size-13 ml-2"></span>--}}
+                            {{--<span><b>قيمة رسوم التأسيس</b></span>--}}
+                        {{--</th>--}}
+                        {{--<td><b>500 ريال</b></td>--}}
+                    {{--</tr>--}}
+                {{--</tbody>--}}
+            {{--</table>--}}
             <!-- End Entertainment Pricing Table Features -->
             <br/>
             <!-- Individual Pricing Table Features -->
@@ -317,17 +317,17 @@
                     </th>
                     <th scope="col" class="py-5">
                         <span class="d-block font-weight-medium">المصغرة</span>
-                        <span class="d-block text-secondary font-weight-normal">599 ريال/شهر</span>
+                        {{--<span class="d-block text-secondary font-weight-normal">599 ريال/شهر</span>--}}
                         <a class="btn btn-xs btn-primary py-1 px-2" href="#order">اطلب الان</a>
                     </th>
                     <th scope="col" class="py-5">
                         <span class="d-block font-weight-medium">الأساسية</span>
-                        <span class="d-block text-secondary font-weight-normal">999 ريال/شهر</span>
+                        {{--<span class="d-block text-secondary font-weight-normal">999 ريال/شهر</span>--}}
                         <a class="btn btn-xs btn-primary py-1 px-2" href="#order">اطلب الآن</a>
                     </th>
                     <th scope="col" class="py-5">
                         <span class="d-block font-weight-medium">المخصصة</span>
-                        <span class="d-block text-secondary font-weight-normal">حسب تفاصيل الباقة</span>
+                        {{--<span class="d-block text-secondary font-weight-normal">حسب تفاصيل الباقة</span>--}}
                         <a class="btn btn-xs btn-primary py-1 px-2" href="#order">اطلب الآن</a>
                     </th>
                 </tr>
