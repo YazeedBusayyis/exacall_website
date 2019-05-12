@@ -70,6 +70,7 @@ Route::post('/submit_new_order', function (Request $request) {
 
     $records = [];
     try{
+
         ZCRMRestClient::initialize();
         $oAuthClient = ZohoOAuth::getClientInstance();
         $grantToken = "1000.382aced1da4a65d96b69fef02eb5cec5.96a588b8ca343b1c87dcb8fd96833a3e";
@@ -95,6 +96,8 @@ Route::post('/submit_new_order', function (Request $request) {
                 return redirect('/unsuccessful-order');
             }
         }
+
+        echo "Hello World\n";
 
     } catch(ZCRMException $e){
         echo $e->getCode();
