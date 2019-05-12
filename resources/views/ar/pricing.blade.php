@@ -190,7 +190,6 @@
                                         {{--<span class="d-block text-secondary" style="font-size: 25px;">واحصل على تسعيرة</span>--}}
                                         {{--<span class="display-4 text-dark">اتصل بنا</span>--}}
                                     {{--</span>--}}
-                                <br/>
                             </header>
                             <!-- End Header -->
                             <!-- Content -->
