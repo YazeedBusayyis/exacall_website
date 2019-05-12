@@ -220,7 +220,7 @@
                                         <p>
                                             <b>Companies & Businesses :</b>
                                             <br>
-                                        <p class="text-justify">For easier communication between employees, we provide Entrepreneurs a contact management system for all business branches to facilitate employees to communicate with each other through internal direct extensions and the ability to connect and receive calls from anywhere</p>
+                                        <p class="text-justify">For easier communication between employees, we provide entrepreneurs a contact management system for all business branches to facilitate employees to communicate with each other through internal direct extensions. We also provide the ability to connect and receive calls from anywhere</p>
                                         </p>
                                     </div>
                                     <!-- End Icon Block -->
@@ -233,7 +233,7 @@
                                         <p>
                                             <b>Call Centers :</b>
                                             <br>
-                                            <p class="text-justify">To get the best experience for your customer service and increase the productivity of your call center. We provide to you an innovative solution to manage calls and monitor your employees</p>
+                                            <p class="text-justify">To get the best experience for your customer service and increase the productivity of your call center, we provide an innovative solution to manage calls and monitor your employees</p>
                                         </p>
                                     </div>
                                     <!-- End Icon Block -->
