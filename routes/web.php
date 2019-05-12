@@ -1,4 +1,6 @@
 <?php
+
+use CristianPontes\ZohoCRMClient\Response\Record;
 use CristianPontes\ZohoCRMClient\ZohoCRMClient;
 use Illuminate\Http\Request;
 
@@ -66,8 +68,41 @@ Route::get('/thank-you', function () {
 // Submit New Order to Zoho CRM :
 Route::post('/submit_new_order', function (Request $request) {
 
-    $client = new ZohoCRMClient('Leads', 'c95eefc1ce28cf9fe9206733044e4f1f');
+    $records = [];
+    try{
+        ZCRMRestClient::initialize();
+        $oAuthClient = ZohoOAuth::getClientInstance();
+        $grantToken = "1000.fb87f0d3bd6a03a38c530c03fc1999ea.91cb277b44829e1da9f0047a646bf141";
+        $oAuthTokens = $oAuthClient->generateAccessToken($grantToken);
 
+        $record = ZCRMRecord::getInstance("Leads", null);
+        $record->setFieldValue("Last Name", $request->name);
+        $record->setFieldValue("Email", $request->email);
+        $record->setFieldValue("Mobile", $request->mobile);
+        $record->setFieldValue("Website", $request->website);
+        $record->setFieldValue("Size", $request->size);
+        $record->setFieldValue("Lead Source", 'Landing Page Form');
+        $records[] = $record;
+
+        $zcrmModuleIns = ZCRMModule::getInstance("Leads");
+        $response = $zcrmModuleIns->createRecords($records);
+        $entityResponses = $response->getEntityResponses();
+
+        foreach ($entityResponses as $entityResponse){
+            if("success"==$entityResponse->getStatus()) {
+                return redirect('/successful-order');
+            } else {
+                return redirect('/unsuccessful-order');
+            }
+        }
+
+    } catch(ZCRMException $e){
+        echo $e->getCode();
+        echo $e->getMessage();
+        echo $e->getExceptionCode();
+    }
+
+    /*$client = new ZohoCRMClient('Leads', 'c95eefc1ce28cf9fe9206733044e4f1f');
     $records = $client->insertRecords()
         ->setRecords([
             array(
@@ -82,21 +117,16 @@ Route::post('/submit_new_order', function (Request $request) {
         ->onDuplicateError()
         ->triggerWorkflow()
         ->request();
-
     foreach ($records as $record) {
-        foreach ($records as $record) {
-            // If the record inserted
-            if($record->isInserted()){
-                return redirect('/successful-order');
-            }
-            //If is not inserted
-            return redirect('/unsuccessful-order');
+        // If the record inserted
+        if($record->isInserted()){
+            return redirect('/successful-order');
         }
-
-        return redirect('/successful-order');
+        //If is not inserted
+        return redirect('/unsuccessful-order');
     }
+    return redirect('/successful-order');*/
 
-    return redirect('/successful-order');
 
 });
 
@@ -179,15 +209,15 @@ Route::post('/en/submit_new_order', function (Request $request) {
         ->request();
 
     foreach ($records as $record) {
-        foreach ($records as $record) {
-            // If the record inserted
-            if($record->isInserted()){
-                return redirect('/en/successful-order');
-            }
-            //If is not inserted
-            return redirect('/en/unsuccessful-order');
+        // If the record inserted
+        if($record->isInserted()){
+            return redirect('/en/successful-order');
         }
+        //If is not inserted
+        return redirect('/en/unsuccessful-order');
     }
+
+    return redirect('/en/successful-order');
 
 
 });
