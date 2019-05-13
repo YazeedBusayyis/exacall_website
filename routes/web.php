@@ -68,7 +68,7 @@ Route::get('/thank-you', function () {
 // Submit New Order to Zoho CRM :
 Route::post('/submit_new_order', function (Request $request) {
 
-    $records = [];
+    /*$records = [];
     try{
 
         ZCRMRestClient::initialize();
@@ -103,9 +103,9 @@ Route::post('/submit_new_order', function (Request $request) {
         echo $e->getCode();
         echo $e->getMessage();
         echo $e->getExceptionCode();
-    }
+    }*/
 
-    /*$client = new ZohoCRMClient('Leads', 'c95eefc1ce28cf9fe9206733044e4f1f');
+    $client = new ZohoCRMClient('Leads', 'c95eefc1ce28cf9fe9206733044e4f1f');
     $records = $client->insertRecords()
         ->setRecords([
             array(
@@ -114,12 +114,13 @@ Route::post('/submit_new_order', function (Request $request) {
                 'Mobile' => $request->mobile,
                 'Website' => $request->website,
                 'Size' => $request->size,
-                'Leed Source' => 'Landing Page Form'
+                'Lead Source' => 'Landing Page Form'
             )
         ])
         ->onDuplicateError()
         ->triggerWorkflow()
         ->request();
+
     foreach ($records as $record) {
         // If the record inserted
         if($record->isInserted()){
@@ -128,8 +129,7 @@ Route::post('/submit_new_order', function (Request $request) {
         //If is not inserted
         return redirect('/unsuccessful-order');
     }
-    return redirect('/successful-order');*/
-
+    return redirect('/successful-order');
 
 });
 
