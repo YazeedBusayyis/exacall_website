@@ -65,6 +65,11 @@ Route::get('/thank-you', function () {
     return view('ar/newsletter');
 });
 
+// Thanks Newsletter :
+Route::get('/report_call_center_ministries_performance_in_saudi_arabia', function () {
+    return view('ar/report');
+});
+
 // Submit New Order to Zoho CRM :
 Route::post('/submit_new_order', function (Request $request) {
 
