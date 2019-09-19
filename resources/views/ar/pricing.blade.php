@@ -51,7 +51,7 @@
                             <a class="js-animation-link btn btn-outline-light btn-wide" href="javascript:;"
                                data-target="#pricingYearly"
                                data-link-group="idPricing">سنوي
-                            </a>
+l                            </a>
                             <a class="js-animation-link btn btn-outline-light btn-wide active" href="javascript:;"
                                data-target="#pricingMonthly"
                                data-link-group="idPricing">شهري
@@ -75,12 +75,12 @@
                         <div class="card">
                             <!-- Header -->
                             <header class="card-header text-center p-5">
-                                <h4 class="h4">المصغرة</h4>
-                                <p>مناسبة لفرق العمل الصغيرة</p>
+                                <h4 class="h4">مايكرو</h4>
+                                <p>مناسبة للشركات الناشئة</p>
                                 {{--<span class="d-block">--}}
                                         {{--<span class="display-4 text-dark">تواصل معنا</span>--}}
                                         {{--<span class="d-block text-secondary" style="font-size: 25px;">واحصل على تسعيرة</span>--}}
-                                        {{--<span class="display-4 text-dark">599 ريال</span>--}}
+                                        {{--<span class="display-4 text-dark">299 ريال</span>--}}
                                         {{--<span class="d-block text-secondary font-size-14">لكل شهر</span>--}}
                                     {{--</span>--}}
                             </header>
@@ -90,13 +90,13 @@
                                 <ul class="list-unstyled mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
-                                        <span>تصل إلى 5 تحويلات</span>
+                                        <span>تصل إلى 3 تحويلات</span>
                                         <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
 
                                     </li>
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
-                                        <span>تصل إلى 4 مكالمات متزامنة</span>
+                                        <span>تصل إلى 2 مكالمات متزامنة</span>
                                         <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
 
                                     </li>
