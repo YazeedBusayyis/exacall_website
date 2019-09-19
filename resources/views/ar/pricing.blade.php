@@ -368,12 +368,7 @@
                     <tr>
                         <th scope="col" class="py-5">
                             <span class="h4 font-weight-normal mb-0">الخصائص والمزايا</span>
-                        </th>
-                        <th scope="col" class="py-5">
-                            <span class="d-block font-weight-medium">مايكرو</span>
-                            {{--<span class="d-block text-secondary font-weight-normal">299 ريال/شهر</span>--}}
-                            <a class="btn btn-xs btn-primary py-1 px-2" href="#order">اطلب الان</a>
-                        </th>
+                      
                         
                         
                      
