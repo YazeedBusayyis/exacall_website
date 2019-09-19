@@ -6,6 +6,19 @@
 /*------------------------------------
   Default Styles
 ------------------------------------*/
+/****************new style****************/
+.hotline{
+    float: left;
+    display: contents;
+    position: relative;
+}
+
+
+
+
+
+
+
 main {
   position: relative;
 }
