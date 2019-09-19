@@ -408,18 +408,21 @@
                         </tr>
                         <tr>
                             <th scope="row" class="font-weight-normal">عدد المكالمات المتزامنة</th>
+                            <td>2</td>
                             <td>4</td>
                             <td>7</td>
                             <td>حسب الطلب</td>
                         </tr>
                         <tr>
                             <th scope="row" class="font-weight-normal">رقم موحد 9200</th>
-                            <td><span class="fa fa-check text-purple font-size-14"></span></td>
+                           <td><span class="fa fa-check text-purple font-size-14"></span></td>
+                           <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         </tr>
                         <tr>
                             <th scope="row" class="font-weight-normal">خط أرضي 011</th>
+                            <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
@@ -429,9 +432,11 @@
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
+                            <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         </tr>
                         <tr>
                             <th scope="row" class="font-weight-normal">التقارير</th>
+                            <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
@@ -441,9 +446,11 @@
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
+                            <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         </tr>
                         <tr>
                             <th scope="row" class="font-weight-normal">تطبيق على اللابتوب والجوال</th>
+                            <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
@@ -453,15 +460,18 @@
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
+                            <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         </tr>
                         <tr>
                             <th scope="row" class="font-weight-normal">المراقبة اللحظية</th>
-                            <td><span class="fa fa-check text-purple font-size-14"></span></td>
+                           <td><span class="fa fa-check text-purple font-size-14"></span></td>
+                           <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         </tr>
                         <tr>
                             <th scope="row" class="font-weight-normal">تسجيل المكالمات</th>
+                            <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
@@ -471,9 +481,11 @@
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
+                            <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         </tr>
                         <tr>
                             <th scope="row" class="font-weight-normal">تحويل المكالمات</th>
+                            <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
@@ -483,15 +495,18 @@
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
+                            <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         </tr>
                         <tr>
                             <th scope="row" class="font-weight-normal">اجتماعات هاتفية</th>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
+                            <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         </tr>
                         <tr>
                             <th scope="row" class="font-weight-normal">مجموعات الاتصال</th>
+                            <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
                             <td><span class="fa fa-check text-purple font-size-14"></span></td>
