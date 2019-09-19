@@ -75,7 +75,7 @@
                         <div class="card">
                             <!-- Header -->
                             <header class="card-header text-center p-5">
-                                <h4 class="h4">المصغره</h4>
+                                <h4 class="h4">المصغرة</h4>
                                 <p>مناسبة لفرق العمل الصغيرة</p>
                                 {{--<span class="d-block">--}}
                                         {{--<span class="display-4 text-dark">تواصل معنا</span>--}}
