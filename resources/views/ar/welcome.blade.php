@@ -155,21 +155,7 @@
                   <span class="fa fa-play u-media-player__icon-inner"></span>
                 </span>
                     </a>--}}
-                    <!-- End Fancybox -->
-                    
-                    <div>
-                    <video width="320" height="240" controls>
-                    <source src="exacall_website/ExaCall_video.MP4" type="video/mp4">
-                    <source src="movie.ogg" type="video/ogg">
-                   Your browser does not support the video tag.
-                          </video>
-                    </div>
-                    
-                    
-                    
-                    
-                    
-                    
+                    <!-- End Fancybox -->      
                 </div>
                 <!-- End Title -->
 
@@ -178,6 +164,21 @@
                     <img style="width: 100%;" src="assets/svg/mockups/mockup.png">
                 </div>
                 <!-- End SVG Mockup -->
+                
+                
+                <!-- Video -->
+                     <div>
+                    <video width="320" height="240" controls>
+                    <source src="exacall_website/ExaCall_video.MP4" type="video/mp4">
+                    <source src="movie.ogg" type="video/ogg">
+                   Your browser does not support the video tag.
+                          </video>
+                    </div>
+               
+                <!-- End video -->     
+                
+                
+                
             </div>
         </div>
         <!-- End Mockup Section -->
