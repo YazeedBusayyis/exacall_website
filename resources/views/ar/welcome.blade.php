@@ -165,10 +165,10 @@
                 </div>
                 <!-- End SVG Mockup -->
                 
-                
+                <br>
                 <!-- Video -->
                      <div>
-                    <video width="320" height="240" controls>
+                    <video width="100%" height="500" controls>
                     <source src="https://exacall.com/ExaCall_video.MP4" type="video/mp4">
                     <source src="https://exacall.com/ExaCall_video.ogg" type="video/ogg">
                    Your browser does not support the video tag.
