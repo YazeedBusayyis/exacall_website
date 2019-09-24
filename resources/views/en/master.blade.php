@@ -248,10 +248,14 @@
                 <ul class="list-inline" style="padding-right: 0px;">
                     <li class="list-inline-item mr-3">
                         <a class="text-white" href="https://twitter.com/ExaCall"><i class="fab fa-twitter mr-2"></i><b>Twitter</b></a>
-                    </li>
+                    </li><br>
+                      <li class="list-inline-item mr-3">
+                        <a class="text-white" href="https://facebook.com/ExaCall"><i class="fab fa-facebook mr-2"></i><b>Facebook</b></a>
+                    </li><br>
+
                     <li class="list-inline-item mr-3">
                         <a class="text-white" href="https://www.linkedin.com/in/exacall-5925a6169/"><i class="fab fa-linkedin mr-2"></i><b>Linkedin</b></a>
-                    </li>
+                    </li><br>
                 </ul>
                 <br>
                 <h3 class="h3 text-white mb-3">Visit Us</h3>
