@@ -94,7 +94,7 @@
 
                 </div>
                 <!-- End Logo -->
-
+<a href="Tel:920033120"  class="nav-link u-header__nav-link hotline"><i class = "fa fa-phone"></i>  920033120 </a>
                 <!-- Responsive Toggle Button -->
                 <button type="button" class="navbar-toggler btn u-hamburger u-header__hamburger"
                         aria-label="Toggle navigation"
