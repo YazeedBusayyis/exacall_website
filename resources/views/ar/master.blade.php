@@ -242,7 +242,7 @@
                      <li class="list-inline-item ml-3">
                         <a class="text-white" href="https://facebook.com/ExaCall"><i class="fab fa-facebook ml-2"></i><b>فيس بوك</b></a>
                     </li>
-
+                    </br>
                     <li class="list-inline-item ml-3">
                         <a class="text-white" href="https://www.linkedin.com/in/exacall-5925a6169/"><i class="fab fa-linkedin ml-2"></i><b>لينكد ان</b></a>
                     </li>
