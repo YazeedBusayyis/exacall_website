@@ -238,7 +238,7 @@
                     <li class="list-inline-item ml-3">
                         <a class="text-white" href="https://twitter.com/ExaCall"><i class="fab fa-twitter ml-2"></i><b>تويتر</b></a>
                     </li>
-                    <br>
+                    </br>
                      <li class="list-inline-item ml-3">
                         <a class="text-white" href="https://facebook.com/ExaCall"><i class="fab fa-facebook ml-2"></i><b>فيس بوك</b></a>
                     </li>
