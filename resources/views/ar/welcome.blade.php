@@ -27,7 +27,6 @@
         <img class="u-header__navbar-brand-on-scroll logo" src="assets/svg/logos/exacall_logo_2.png" alt="Logo">
         <img class="u-header__navbar-brand-mobile" src="assets/svg/logos/exacall_logo_2.png" alt="Logo">
     </a>
-<a href="Tel:920033120"  class="nav-link u-header__nav-link hotline"><i class = "fa fa-phone"></i>  920033120 </a>
 @endsection
 
 @section('content')
