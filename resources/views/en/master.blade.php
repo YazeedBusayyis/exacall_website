@@ -120,7 +120,7 @@
 
                 <!-- Navigation -->
                 <div id="navBar" class="collapse navbar-collapse u-header__navbar-collapse py-0">
-     <a href="Tel:920033120"  class="nav-link u-header__nav-link hotline"><i class = "fa fa-phone"></i>  920033120 </a>
+     <a href="Tel:920033120"  class="nav-link u-header__nav-link hotline"> 920033120  <i class = "fa fa-phone"></i>  </a>
 
                     <ul class="navbar-nav u-header__navbar-nav">
 
