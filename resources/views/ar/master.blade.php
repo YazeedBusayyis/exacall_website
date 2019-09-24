@@ -94,7 +94,7 @@
 
                 </div>
                 <!-- End Logo -->
-<a href="Tel:920033120"  class="nav-link u-header__nav-link hotline"><i class = "fa fa-phone"></i>  920033120 </a>
+                
                 <!-- Responsive Toggle Button -->
                 <button type="button" class="navbar-toggler btn u-hamburger u-header__hamburger"
                         aria-label="Toggle navigation"
@@ -109,6 +109,9 @@
                 </button>
                 <!-- End Responsive Toggle Button -->
                 <!-- Navigation -->
+         <a href="Tel:920033120"  class="nav-link u-header__nav-link hotline"><i class = "fa fa-phone"></i>  920033120 </a>
+
+                
                 <div id="navBar" class="collapse navbar-collapse u-header__navbar-collapse py-0">
                     <ul class="navbar-nav u-header__navbar-nav">
 
