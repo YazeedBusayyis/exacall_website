@@ -73,6 +73,77 @@
                     <div class="card-deck" dir="ltr">
                         <!-- Pricing -->
                         <div class="card">
+                        --------------------------------
+                          <!-- Header -->
+                            <header class="card-header text-center p-5">
+                                <h4 class="h4">Micro</h4>
+                                <p>Suitable for startups</p>
+                                {{--<span class="d-block">--}}
+                                        {{--<span class="display-4 text-dark">Contact Us</span>--}}
+                                        {{--<span class="d-block text-secondary" style="font-size: 25px;">for Quotation</span>--}}
+                                        {{--<span class="display-4 text-dark">299 SAR</span>--}}
+                                        {{--<span class="d-block text-secondary font-size-14">per month</span>--}}
+                                {{--</span>--}}
+                            </header>
+                            <!-- End Header -->
+                            <!-- Content -->
+                            <div class="card-body p-5">
+                                <ul class="list-unstyled mb-4">
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Up to 3 Extensions</span>
+                                        <span class="fa fa-info-circle text-secondary ml-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="Extension is an id or a number to represent one of your employees or one of your departments"></span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Up to 2 Concurrent Calls</span>
+                                        <span class="fa fa-info-circle text-secondary ml-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="Concurrent Call is the number of received calls at the same time"></span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Provide 9200</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Provide 011</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Saving recorded phone calls for a month</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Display all phone-calls history</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Free calls between extensions</span>
+                                    </li>
+                                </ul>
+                                <a href="#order" class="btn btn-block btn-primary">Contact us for quotation</a>
+                            </div>
+                            <!-- End Content -->
+                        </div>
+                        <!-- End Pricing -->
+                        <!-- Pricing -->
+                        <div class="card">
+                            <!-- Header -->
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
                             <!-- Header -->
                             <header class="card-header text-center p-5">
                                 <h4 class="h4">Mini</h4>
