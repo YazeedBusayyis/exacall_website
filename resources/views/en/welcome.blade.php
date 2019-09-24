@@ -164,6 +164,21 @@
                     <img style="width: 100%;" src="assets/svg/mockups/mockup.png">
                 </div>
                 <!-- End SVG Mockup -->
+                
+                
+                 <br>
+                <!-- Video -->
+                     <div>
+                    <video width="100%" height="500" controls>
+                    <source src="https://exacall.com/ExaCall_video.MP4" type="video/mp4">
+                    <source src="https://exacall.com/ExaCall_video.ogg" type="video/ogg">
+                   Your browser does not support the video tag.
+                          </video>
+                    </div>
+               
+                <!-- End video -->   
+                
+                
             </div>
         </div>
         <!-- End Mockup Section -->
