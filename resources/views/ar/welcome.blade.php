@@ -401,7 +401,7 @@
                         <!-- Pricing -->
                         <div class="bg-white border rounded py-7 p-5">
                             <div class="mb-4">
-                                <h4 class="h6 text-secondary mb-3">المصغرة</h4>
+                                <h4 class="h6 text-secondary mb-3">المصغره</h4>
                                 <p>مناسبة لفرق العمل الصغيرة</p>
                                 {{--<div class="mb-2">--}}
                                     {{--<span class="h1">599 ريال</span>--}}
@@ -450,7 +450,7 @@
                         <!-- Pricing -->
                         <div class="bg-white border rounded py-7 p-5">
                             <div class="mb-4">
-                                <h4 class="h6 text-secondary mb-3">ومايكرو</h4>
+                                <h4 class="h6 text-secondary mb-3">مايكرو</h4>
                                 <p>مناسبة لفرق العمل الصغيرة</p>
                                 {{--<div class="mb-2">--}}
                                     {{--<span class="h1">299 ريال</span>--}}
