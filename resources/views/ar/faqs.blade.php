@@ -171,6 +171,7 @@
                 </div>
             </div>
 <!-->
+			<div class="w-100"></div>
             <div class="col-md-6 mb-5">
                 <div class="pl-md-4">
                     <h4 class="h6 font-weight-bold">كيف أفعّل خدمة الرسالة الصوتية التفاعلية (IVR) ؟</h4>
