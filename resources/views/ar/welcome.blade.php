@@ -138,7 +138,7 @@
                 <div class="w-md-80 w-lg-60 text-center mx-md-auto mb-9">
                     <div class="mb-5">
                         <span class="u-label u-label--sm u-label--purple mb-3">تعرف علينا</span>
-                        <h2 class="h1">ما هي اكساء كول ؟</h2>
+                        <h2 class="h1">ما هي اكساء كول </h2>
                         <p class="lead" style="display: none;">هي شركة تقدم لك أفضل الحلول للاتصالات الهاتفية بنظام مرن ومتكامل بمزايا عديدة لتخدم من خلاله الشركات ومراكز الاتصال ومقرها <span class="text-success"><b>المملكة العربية السعودية</b></span></p>
                         <p class="lead">من قلب <span class="text-success"><b>المملكة العربية السعودية</b></span> تقدم شركة اكساء كول أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال</p>
                     </div>
