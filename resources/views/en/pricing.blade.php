@@ -407,9 +407,11 @@
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
+                        <td><span class="fa fa-check text-purple font-size-14"></span></td>
                     </tr>
                     <tr>
                         <th scope="row" class="font-weight-normal">Saudi Landline 011</th>
+                        <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
@@ -419,9 +421,11 @@
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
+                        <td><span class="fa fa-check text-purple font-size-14"></span></td>
                     </tr>
                     <tr>
                         <th scope="row" class="font-weight-normal">Reports</th>
+                        <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
@@ -431,9 +435,11 @@
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
+                        <td><span class="fa fa-check text-purple font-size-14"></span></td>
                     </tr>
                     <tr>
                         <th scope="row" class="font-weight-normal">Desktop and Mobile App</th>
+                        <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
@@ -443,9 +449,11 @@
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
+                        <td><span class="fa fa-check text-purple font-size-14"></span></td>
                     </tr>
                     <tr>
                         <th scope="row" class="font-weight-normal">Call Monitoring</th>
+                        <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
@@ -455,9 +463,11 @@
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
+                        <td><span class="fa fa-check text-purple font-size-14"></span></td>
                     </tr>
                     <tr>
                         <th scope="row" class="font-weight-normal">Listen to recorded calls</th>
+                        <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
@@ -467,9 +477,11 @@
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
+                        <td><span class="fa fa-check text-purple font-size-14"></span></td>
                     </tr>
                     <tr>
                         <th scope="row" class="font-weight-normal">Messages on Hold</th>
+                        <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
@@ -479,9 +491,11 @@
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
+                        <td><span class="fa fa-check text-purple font-size-14"></span></td>
                     </tr>
                     <tr>
                         <th scope="row" class="font-weight-normal">Ring Group</th>
+                        <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
                         <td><span class="fa fa-check text-purple font-size-14"></span></td>
