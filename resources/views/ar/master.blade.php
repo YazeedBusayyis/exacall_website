@@ -188,7 +188,10 @@
                     <img src="assets/svg/logos/exacall_logo_white_2.png" alt="Logo" style="width: 80px; max-width: 100%;">
                 </a>
                 <!-- End Logo -->
-                <p class="small text-white text-justify">اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال</p>
+                <p class="small text-white text-justify">اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال</p><br>
+<li class="list-inline-item ml-3">
+                        <a class="text-white" href="Tel:920033120"><i class="fab fa-phone ml-2"></i><b>920033120</b></a>
+                    </li><br>
                 <p class="small text-white">جميع الحقوق محفوظة © ExaCall 2018</p>
             </div>
 
