@@ -366,6 +366,11 @@
                         <span class="h4 font-weight-normal mb-0">Specifications and Features</span>
                     </th>
                     <th scope="col" class="py-5">
+                        <span class="d-block font-weight-medium">Micro</span>
+                        {{--<span class="d-block text-secondary font-weight-normal">299 SAR / month</span>--}}
+                        <a class="btn btn-xs btn-primary py-1 px-2" href="#order">Contact Us</a>
+                    </th>
+                    <th scope="col" class="py-5">
                         <span class="d-block font-weight-medium">Mini</span>
                         {{--<span class="d-block text-secondary font-weight-normal">599 SAR / month</span>--}}
                         <a class="btn btn-xs btn-primary py-1 px-2" href="#order">Contact Us</a>
@@ -385,12 +390,14 @@
                 <tbody>
                     <tr>
                         <th scope="row" class="font-weight-normal">Extensions</th>
+                        <td>3</td>
                         <td>5</td>
                         <td>8</td>
                         <td>Upon request</td>
                     </tr>
                     <tr>
                         <th scope="row" class="font-weight-normal">Concurrent calls</th>
+                        <td>2</td>
                         <td>4</td>
                         <td>7</td>
                         <td>Upon request</td>
