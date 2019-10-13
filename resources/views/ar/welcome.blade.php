@@ -446,63 +446,6 @@
                         </div>
                         <!-- End Pricing -->
                     </div>
-                    
-                    <div class="card">
-                                <!-- Header -->
-                                <header class="card-header text-center p-5">
-                                    <h4 class="h4">مايكرو</h4>
-                                    <p>مناسبة للشركات الناشئة</p>
-                                    {{--<span class="d-block">--}}
-                                            {{--<span class="display-4 text-dark">تواصل معنا</span>--}}
-                                            {{--<span class="d-block text-secondary" style="font-size: 25px;">واحصل على تسعيرة</span>--}}
-                                            {{--<span class="display-4 text-dark">299 ريال</span>--}}
-                                            {{--<span class="d-block text-secondary font-size-14">لكل شهر</span>--}}
-                                        {{--</span>--}}
-                                </header>
-                                <!-- End Header -->
-                                <!-- Content -->
-                                <div class="card-body p-5">
-                                    <ul class="list-unstyled mb-4">
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>تصل إلى 3 تحويلات</span>
-                                            <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
-
-                                        </li>
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>تصل إلى 2 مكالمات متزامنة</span>
-                                            <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
-
-                                        </li>
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>توفير رقم 9200</span>
-                                        </li>
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>توفير رقم 011</span>
-                                        </li>
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>تخزين المكالمات المسجلة لشهر</span>
-                                        </li>
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>عرض سجل مكالمات متكامل</span>
-                                        </li>
-                                        <li class="d-flex align-items-center py-2">
-                                            <span class="fa fa-check font-size-13 ml-3"></span>
-                                            <span>المكالمات مجانية بين التحويلات</span>
-                                        </li>
-                                    </ul>
-                                    <a href="#order" class="btn btn-block btn-primary">احصل على تسعيرة</a>
-                                </div>
-                                <!-- End Content -->
-                            </div>
-                    
-                    
-                    
                     <div class="col-md-6 col-lg-4 order-lg-3">
                         <!-- Pricing -->
                         <div class="bg-white border rounded py-7 p-5">
