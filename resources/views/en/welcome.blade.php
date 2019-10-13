@@ -349,7 +349,7 @@
                 <!-- End Title -->
 
                 <div class="row align-items-lg-center text-left">
-                    <div class="col-md-6 col-lg-4 order-lg-2 offset-md-3 offset-lg-0 mb-5 mb-md-0">
+                    <div class="p-2 col-md-6 col-lg-3 order-lg-2 offset-md-3 offset-lg-0 mb-5 mb-md-0">
                         <!-- Pricing -->
                         <div class="bg-primary border rounded py-9 p-5">
                             <div class="mb-4">
@@ -399,8 +399,56 @@
                         </div>
                         <!-- End Pricing -->
                     </div>
+                    
+                    <div class="p-2 col-md-6 col-lg-3 order-lg-1 mb-5 mb-md-0">
+                        <!-- Pricing -->
+                        <div class="bg-white border rounded py-7 p-5">
+                            <div class="mb-4">
+                                <h4 class="h5 text-secondary mb-3"><b>Micro</b></h4>
+                                <p>Suitable for Small Teams</p>
+                                {{--<div class="mb-2">--}}
+                                    {{--<span class="h1">299 SAR</span>--}}
+                                    {{--<span>/ month</span>--}}
+                                {{--</div>--}}
+                                <ul style="padding-left: 10px;" class="list-unstyled mb-4">
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Up to 3 Extensions</span>
+                                        <span class="fa fa-info-circle text-secondary ml-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="Extension is an id or a number to represent one of your employees or one of your departments"></span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Up to 2 Concurrent Calls</span>
+                                        <span class="fa fa-info-circle text-secondary ml-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="Concurrent Call is the number of received calls at the same time"></span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Provide 9200</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Provide 011</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Saving recorded phone calls for a month</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Display all phone-calls history</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Free calls between extensions</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <a href="/en/pricing" class="btn btn-block btn-sm btn-purple">Contact us for quotation</a>
+                        </div>
+                        <!-- End Pricing -->
+                    </div>
 
-                    <div class="col-md-6 col-lg-4 order-lg-1 mb-5 mb-md-0">
+                    <div class="p-2 col-md-6 col-lg-3 order-lg-1 mb-5 mb-md-0">
                         <!-- Pricing -->
                         <div class="bg-white border rounded py-7 p-5">
                             <div class="mb-4">
@@ -448,7 +496,7 @@
                         <!-- End Pricing -->
                     </div>
 
-                    <div class="col-md-6 col-lg-4 order-lg-3">
+                    <div class="p-2 col-md-6 col-lg-3 order-lg-3">
                         <!-- Pricing -->
                         <div class="bg-white border rounded py-7 p-5">
                             <div class="mb-4">
