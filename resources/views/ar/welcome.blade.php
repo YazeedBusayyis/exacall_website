@@ -347,7 +347,7 @@
                 </div>
                 <!-- End Title -->
                 <div class="row align-items-lg-center">
-                    <div class="col-md-4 col-lg-3 order-lg-2 offset-md-3 offset-lg-0 mb-5 mb-md-0">
+                    <div class="p-2 col-md-4 col-lg-3 order-lg-2 offset-md-3 offset-lg-0 mb-5 mb-md-0">
                         <!-- Pricing -->
                         <div class="bg-primary border rounded py-9 p-5">
                             <div class="mb-4">
@@ -397,7 +397,7 @@
                         </div>
                         <!-- End Pricing -->            
                     </div>
-                    <div class="col-md-4 col-lg-3 order-lg-1 mb-5 mb-md-0">
+                    <div class="p-2 col-md-4 col-lg-3 order-lg-1 mb-5 mb-md-0">
                         <!-- Pricing -->
                         <div class="bg-white border rounded py-7 p-5">
                             <div class="mb-4">
@@ -446,7 +446,7 @@
                         </div>
                         <!-- End Pricing -->
                     </div>
-                    <div class="col-md-4 col-lg-3 order-lg-1 mb-5 mb-md-0">
+                    <div class="p-2 col-md-4 col-lg-3 order-lg-1 mb-5 mb-md-0">
                         <!-- Pricing -->
                         <div class="bg-white border rounded py-7 p-5">
                             <div class="mb-4">
@@ -495,7 +495,7 @@
                         </div>
                         <!-- End Pricing -->
                     </div> 
-                    <div class="col-md-4 col-lg-3 order-lg-3">
+                    <div class="p-2 col-md-4 col-lg-3 order-lg-3">
                         <!-- Pricing -->
                         <div class="bg-white border rounded py-7 p-5">
                             <div class="mb-4">
