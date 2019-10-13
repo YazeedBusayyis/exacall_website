@@ -198,6 +198,9 @@
                 </a>
                 <!-- End Logo -->
                 <p class="small text-white text-justify">ExaCall Company provides the best innovative and integrated solutions for calls with a flexible system to serve companies and call centers</p>
+                <li class="list-inline-item ml-3">
+                        <a class="text-white" href="Tel:920033120"><i class="fa fa-phone ml-2"></i><b>920033120</b></a>
+                    </li><br>
                 <p class="small text-white">All rights reserved © ExaCall 2018</p>
             </div>
 
