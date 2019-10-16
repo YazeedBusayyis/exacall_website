@@ -487,8 +487,8 @@
                                     </li>
                                     
                                 </ul>
-                                 <div class="mb-2">
-                                    <span class="card-price text-center ">599 ريال</span>
+                                 <div class="mb-2 text-center">
+                                    <span class="card-price text-center">599 ريال</span>
                                     <span class="period">/ شهريا</span>
                                 </div>
                             </div>
