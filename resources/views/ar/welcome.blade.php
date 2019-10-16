@@ -485,12 +485,12 @@
                                         <span class="fa fa-check font-size-13 ml-3"></span>
                                         <span>المكالمات مجانية بين التحويلات</span>
                                     </li>
-                                    <li class="d-flex align-items-center py-2">
-                                        <span class="fa fa-check font-size-13 ml-3"></span>
-                                        <span> / شهريا 599 ريال</span>
-                                    </li>
+                                    
                                 </ul>
-                                 
+                                 <div class="mb-2">
+                                    <span class="card-price text-center ">599 ريال</span>
+                                    <span class="period">/ شهريا</span>
+                                </div>
                             </div>
                             <a href="/pricing" class="btn btn-block btn-sm btn-purple">اطلب الخدمة الآن</a>
                         </div>
