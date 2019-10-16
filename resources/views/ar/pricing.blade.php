@@ -1,4 +1,4 @@
-    @extends('ar.master')
+     @extends('ar.master')
 
     @section('meta')
 
@@ -121,11 +121,12 @@
                                             <span>المكالمات مجانية بين التحويلات</span>
                                         </li>
                                     </ul>
-                                    <a href="#order" class="btn btn-block btn-primary">احصل على تسعيرة</a>
-                                    <div class="mb-2 text-center">
+                                     <div class="mb-2 text-center">
                                     <span class="card-price text-center">299 ريال</span>
-                                    <span class="period" style="color:#FFF;">/ شهريا</span>
+                                    <span class="period">/ شهريا</span>
                                 </div>
+                                    <a href="#order" class="btn btn-block btn-primary">احصل على تسعيرة</a>
+                                   
                                 </div>
                                 <!-- End Content -->
                             </div>
@@ -179,11 +180,11 @@
                                             <span>المكالمات مجانية بين التحويلات</span>
                                         </li>
                                     </ul>
-                                    <a href="#order" class="btn btn-block btn-primary">احصل على تسعيرة</a>
-                                    <div class="mb-2 text-center">
+                                      <div class="mb-2 text-center">
                                     <span class="card-price text-center">599 ريال</span>
-                                    <span class="period" style="color:#FFF;">/ شهريا</span>
+                                    <span class="period">/ شهريا</span>
                                 </div>
+                                    <a href="#order" class="btn btn-block btn-primary">احصل على تسعيرة</a>
                                 </div>
                                 <!-- End Content -->
                             </div>
@@ -236,11 +237,12 @@
                                             <span>المكالمات مجانية بين التحويلات</span>
                                         </li>
                                     </ul>
-                                    <a href="#order" class="btn btn-block btn-primary">احصل على تسعيرة</a>
-                                    <div class="mb-2 text-center">
+                                     <div class="mb-2 text-center">
                                     <span class="card-price text-center">999 ريال</span>
-                                    <span class="period" style="color:#FFF;">/ شهريا</span>
+                                    <span class="period">/ شهريا</span>
                                 </div>
+                                    <a href="#order" class="btn btn-block btn-primary">احصل على تسعيرة</a>
+                                   
                                 </div>
                                 <!-- End Content -->
                             </div>
