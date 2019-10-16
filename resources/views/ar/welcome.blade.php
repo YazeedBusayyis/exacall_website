@@ -392,6 +392,10 @@
                                         <span>المكالمات مجانية بين التحويلات</span>
                                     </li>
                                 </ul>
+                                <div class="mb-2 text-center">
+                                    <span class="card-price text-center">999 ريال</span>
+                                    <span class="period">/ شهريا</span>
+                                </div>
                             </div>
                             <a href="/pricing" class="btn btn-block btn-sm btn-light">اطلب الخدمة الآن</a>
                         </div>
@@ -441,6 +445,10 @@
                                         <span>المكالمات مجانية بين التحويلات</span>
                                     </li>
                                 </ul>
+                                 <div class="mb-2 text-center">
+                                    <span class="card-price text-center">299 ريال</span>
+                                    <span class="period">/ شهريا</span>
+                                </div>
                             </div>
                             <a href="/pricing" class="btn btn-block btn-sm btn-purple">اطلب الخدمة الآن</a>
                         </div>
