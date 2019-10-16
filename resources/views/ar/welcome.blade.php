@@ -393,8 +393,8 @@
                                     </li>
                                 </ul>
                                 <div class="mb-2 text-center">
-                                    <span class="card-price text-center">999 ريال</span>
-                                    <span class="period">/ شهريا</span>
+                                    <span class="card-price text-center" style="color:#FFF;">999 ريال</span>
+                                    <span class="period" style="color:#FFF;">/ شهريا</span>
                                 </div>
                             </div>
                             <a href="/pricing" class="btn btn-block btn-sm btn-light">اطلب الخدمة الآن</a>
