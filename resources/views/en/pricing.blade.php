@@ -118,6 +118,10 @@
                                         <span class="fa fa-check font-size-13 mr-3"></span>
                                         <span>Free calls between extensions</span>
                                     </li>
+                                    <div class="mb-2 text-center">
+                                    <span class="card-price text-center">299 SAR</span>
+                                    <span class="period">/ month</span>
+                                </div>
                                 </ul>
                                 <a href="#order" class="btn btn-block btn-primary">Contact us for quotation</a>
                             </div>
@@ -172,6 +176,10 @@
                                         <span>Free calls between extensions</span>
                                     </li>
                                 </ul>
+                                <div class="mb-2 text-center">
+                                    <span class="card-price text-center">599 SAR</span>
+                                    <span class="period">/ month</span>
+                                </div>
                                 <a href="#order" class="btn btn-block btn-primary">Contact us for quotation</a>
                             </div>
                             <!-- End Content -->
@@ -224,6 +232,10 @@
                                         <span class="fa fa-check font-size-13 mr-3"></span>
                                         <span>Free calls between extensions</span>
                                     </li>
+                                    <div class="mb-2 text-center">
+                                    <span class="card-price text-center">999 SAR</span>
+                                    <span class="period">/ month</span>
+                                </div>
                                 </ul>
                                 <a href="#order" class="btn btn-block btn-primary">Contact us for quotation</a>
                             </div>
@@ -277,6 +289,7 @@
                                         <span>Free calls between extensions</span>
                                     </li>
                                 </ul>
+                                <br>
                                 <a href="#order" class="btn btn-block btn-primary">Contact us for quotation</a>
                             </div>
                             <!-- End Content -->
