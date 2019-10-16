@@ -452,10 +452,10 @@
                             <div class="mb-4">
                                 <h4 class="h6 text-secondary mb-3">المصغره</h4>
                                 <p>مناسبة لفرق العمل الصغيرة</p>
-                                {{--<div class="mb-2">--}}
-                                    {{--<span class="h1">599 ريال</span>--}}
-                                    {{--<span>/ شهريا</span>--}}
-                                {{--</div>--}}
+                                <div class="mb-2">
+                                    <span class="h1">599 ريال</span>
+                                    <span>/ شهريا</span>
+                                </div>
                                 <ul style="padding-right: 10px;" class="list-unstyled mb-4">
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 ml-3"></span>
