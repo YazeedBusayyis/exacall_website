@@ -394,6 +394,10 @@
                                         <span>Free calls between extensions</span>
                                     </li>
                                 </ul>
+                                 <div class="mb-2 text-center">
+                                    <span class="card-price text-center">999 SAR</span>
+                                    <span class="period">/ month</span>
+                                </div>
                             </div>
                             <a href="/en/pricing" class="btn btn-block btn-sm btn-light">Contact us for quotation</a>
                         </div>
@@ -442,6 +446,10 @@
                                         <span>Free calls between extensions</span>
                                     </li>
                                 </ul>
+                                 <div class="mb-2 text-center">
+                                    <span class="card-price text-center">299 SAR</span>
+                                    <span class="period">/ month</span>
+                                </div>
                             </div>
                             <a href="/en/pricing" class="btn btn-block btn-sm btn-purple">Contact us for quotation</a>
                         </div>
@@ -490,6 +498,10 @@
                                         <span>Free calls between extensions</span>
                                     </li>
                                 </ul>
+                                 <div class="mb-2 text-center">
+                                    <span class="card-price text-center">599 SAR</span>
+                                    <span class="period">/ month</span>
+                                </div>
                             </div>
                             <a href="/en/pricing" class="btn btn-block btn-sm btn-purple">Contact us for quotation</a>
                         </div>
