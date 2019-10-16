@@ -122,6 +122,10 @@
                                         </li>
                                     </ul>
                                     <a href="#order" class="btn btn-block btn-primary">احصل على تسعيرة</a>
+                                    <div class="mb-2 text-center">
+                                    <span class="card-price text-center">299 ريال</span>
+                                    <span class="period" style="color:#FFF;">/ شهريا</span>
+                                </div>
                                 </div>
                                 <!-- End Content -->
                             </div>
@@ -176,6 +180,10 @@
                                         </li>
                                     </ul>
                                     <a href="#order" class="btn btn-block btn-primary">احصل على تسعيرة</a>
+                                    <div class="mb-2 text-center">
+                                    <span class="card-price text-center">599 ريال</span>
+                                    <span class="period" style="color:#FFF;">/ شهريا</span>
+                                </div>
                                 </div>
                                 <!-- End Content -->
                             </div>
@@ -229,6 +237,10 @@
                                         </li>
                                     </ul>
                                     <a href="#order" class="btn btn-block btn-primary">احصل على تسعيرة</a>
+                                    <div class="mb-2 text-center">
+                                    <span class="card-price text-center">999 ريال</span>
+                                    <span class="period" style="color:#FFF;">/ شهريا</span>
+                                </div>
                                 </div>
                                 <!-- End Content -->
                             </div>
