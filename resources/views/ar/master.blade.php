@@ -258,7 +258,7 @@
                 <br>
                 <h3 class="h3 text-white mb-3">قم بزيارتنا</h3>
                 <p class="small text-white text-justify">شركة اكساء لتقنية المعلومات طريق العباس بن عبدالمطلب ، حي التعاون ، الرياض ، المملكة العربية السعودية</p>
-                <a href="https://goo.gl/maps/BpRvPKTrEZDYDrps5" class="text-white"><b>رابط الموقع على قوقل ماب</b></a>
+                <a href="https://goo.gl/maps/BpRvPKTrEZDYDrps5" target="_blank" class="text-white"><b>رابط الموقع على قوقل ماب</b></a>
             </div>
 
         </div>
