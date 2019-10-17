@@ -264,7 +264,7 @@
                 <br>
                 <h3 class="h3 text-white mb-3">Visit Us</h3>
                 <p class="small text-white text-justify"> Exa Information Technology Co. Ltd. - Othman Bin Affan Branch Rd, Al-Taawon, Riyadh , Saudi Arabia</p>
-                <a href="https://goo.gl/maps/LpkL8LigqYN2" class="text-white"><b>Location on Google Map</b></a>
+                <a href="https://goo.gl/maps/BpRvPKTrEZDYDrps5" target="_blank" class="text-white"><b>Location on Google Map</b></a>
             </div>
 
         </div>
