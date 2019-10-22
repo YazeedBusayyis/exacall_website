@@ -251,7 +251,7 @@
                     </li><br>
                    
                     <li class="list-inline-item ml-3">
-                        <a class="text-white" href="https://www.linkedin.com/in/exacall-5925a6169/"><i class="fab fa-linkedin ml-2"></i><b>لينكد ان</b></a>
+                        <a class="text-white" href="http://linkedin.com/company/exacall"><i class="fab fa-linkedin ml-2"></i><b>لينكد ان</b></a>
                     </li><br>
                    
                 </ul>
