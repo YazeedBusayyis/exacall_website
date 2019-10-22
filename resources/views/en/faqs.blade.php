@@ -17,6 +17,7 @@
     <meta name="twitter:title" content="FAQs | ExaCall" />
     <meta name="twitter:description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال"/>
     <meta name="twitter:image" content="/assets/svg/logos/og_img_link.jpg" />
+  
 
 @endsection
 
@@ -105,7 +106,7 @@
             <div class="col-md-6 mb-5">
                 <div class="pr-md-4">
                     <h4 class="h6 font-weight-bold">What are the subscription rates for ExaCall service?</h4>
-                    <p>We offer you multiple packages for monthly or annual subscription. Click here: <a href="https://exacall.com/pricing">prices and packages</a></p>
+                    <p>We offer you multiple packages for monthly or annual subscription. Click here: <a href="https://exacall.com/en/pricing">prices and packages</a></p>
                 </div>
             </div>
 
@@ -121,17 +122,17 @@
             <div class="col-md-6 mb-5">
                 <div class="pr-md-4">
                     <h4 class="h6 font-weight-bold">What are the services and features offered at ExaCall?</h4>
-                    <p>You can find ExaCall services and features here : <a href="https://www.exacall.com/services">Solutions and services</a></p>
+                    <p>You can find ExaCall services and features here : <a href="https://exacall.com/en/services">Solutions and services</a></p>
                 </div>
             </div>
-
+<!-- End Hero Section -->
             <div class="col-md-6 mb-5">
                 <div class="pl-md-4">
                     <h4 class="h6 font-weight-bold">Who can I contact if I need help?</h4>
-                    <p>All contact details are on this page: : <a href="https://www.exacall.com/contact-us">Contact Us</a></p>
+                    <p>All contact details are on this page: : <a href="https://exacall.com/en/contact-us">Contact Us</a></p>
                 </div>
             </div>
-
+<!-- End Hero Section -->
             <div class="w-100"></div>
 
             <div class="col-md-6 mb-5">
