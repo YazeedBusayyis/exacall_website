@@ -69,7 +69,7 @@
     <div class="container space-2-bottom mt-9">
 
         <!-- FAQ -->
-        <div class="row" dir="rtl">
+        <div class="row" dir="ltr">
             <div class="col-md-6 mb-5">
                 <div class="pr-md-4">
                     <h4 class="h6 font-weight-bold">Can I use 011 outside Riyadh?</h4>
