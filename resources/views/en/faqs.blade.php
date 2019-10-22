@@ -72,15 +72,15 @@
         <div class="row" dir="rtl">
             <div class="col-md-6 mb-5">
                 <div class="pr-md-4">
-                    <h4 class="h6 font-weight-bold">هل يمكن استخدام رقم 011 خارج الرياض ؟</h4>
-                    <p>بإمكانك الاستفادة من خدمة الخط الأرضي 011 من أي مكان</p>
+                    <h4 class="h6 font-weight-bold">Can I use 011 outside Riyadh?</h4>
+                    <p>You can have the benefits from the landline 011 service from anywhere.</p>
                 </div>
             </div>
 
             <div class="col-md-6 mb-5">
                 <div class="pl-md-4">
-                    <h4 class="h6 font-weight-bold">هل يمكن ربط الخدمة برقم سابق لمنشأتي ؟</h4>
-                    <p>بإمكانك ربط الخدمة برقمك السابق وتحويل المكالمات على رقمك الجديد للرد عليها</p>
+                    <h4 class="h6 font-weight-bold">Can the service be linked to a previous number for my facility?</h4>
+                    <p>You can connect the service to your previous number and divert calls to your new number to answer them.</p>
                 </div>
             </div>
 
@@ -88,15 +88,15 @@
 
             <div class="col-md-6 mb-5">
                 <div class="pr-md-4">
-                    <h4 class="h6 font-weight-bold">هل يمكن استخدام "الواتس آب" على رقمي الموحد ؟</h4>
-                    <p>سيتم تفعيلها قريبًا.</p>
+                    <h4 class="h6 font-weight-bold">Can I use WhatsApp on my unified number?</h4>
+                    <p>It will be activated soon.</p>
                 </div>
             </div>
 
             <div class="col-md-6 mb-5">
                 <div class="pl-md-4">
-                    <h4 class="h6 font-weight-bold">كم الوقت المستغرق لتفعيل الخدمة ؟</h4>
-                    <p>يستغرق الوقت لتفعيل الخدمة من يومين إلى ثلاثة أيام.</p>
+                    <h4 class="h6 font-weight-bold">How long does it take to activate the service?</h4>
+                    <p>It takes 2~3 days to activate the service.</p>
                 </div>
             </div>
 
@@ -104,15 +104,15 @@
 
             <div class="col-md-6 mb-5">
                 <div class="pr-md-4">
-                    <h4 class="h6 font-weight-bold">ماهي أسعار الاشتراك في خدمة اكسا كول ؟</h4>
-                    <p>خصصّنا لك باقات متعددة للاشتراك الشهري أو السنوي من هنا : <a href="https://exacall.com/pricing">الأسعار والباقات</a></p>
+                    <h4 class="h6 font-weight-bold">What are the subscription rates for ExaCall service?</h4>
+                    <p>We offer you multiple packages for monthly or annual subscription. Click here: <a href="https://exacall.com/pricing">prices and packages</a></p>
                 </div>
             </div>
 
             <div class="col-md-6 mb-5">
                 <div class="pl-md-4">
-                    <h4 class="h6 font-weight-bold">هل يمكن تفعيل الخدمة بدون سجل تجاري سعودي أو بشكل شخصي ؟</h4>
-                    <p>يشترط وجود سجل تجاري ساري المفعول خاص بالمنشأة.</p>
+                    <h4 class="h6 font-weight-bold">Can the service be activated without a Saudi Commercial Register or in personal.</h4>
+                    <p>A valid commercial register of the establishment is required.</p>
                 </div>
             </div>
 
@@ -120,15 +120,15 @@
 
             <div class="col-md-6 mb-5">
                 <div class="pr-md-4">
-                    <h4 class="h6 font-weight-bold">ماهي الخدمات والميزات المقدمة في اكسا كول ؟</h4>
-                    <p>بإمكانك الاطلاع على خدمات اكسا كول ومميزاتها من هُنا : <a href="https://www.exacall.com/services">الحلول والخدمات</a></p>
+                    <h4 class="h6 font-weight-bold">What are the services and features offered at ExaCall?</h4>
+                    <p>You can find ExaCall services and features here : <a href="https://www.exacall.com/services">Solutions and services</a></p>
                 </div>
             </div>
 
             <div class="col-md-6 mb-5">
                 <div class="pl-md-4">
-                    <h4 class="h6 font-weight-bold">كيف أبدأ بطلب الخدمة ؟</h4>
-                    <p>بإمكانك طلب الخدمة الآن عبر إدخال بياناتك هُنا : <a href="https://www.exacall.com/contact-us">اتصل بنا</a></p>
+                    <h4 class="h6 font-weight-bold">Who can I contact if I need help?</h4>
+                    <p>All contact details are on this page: : <a href="https://www.exacall.com/contact-us">Contact Us</a></p>
                 </div>
             </div>
 
@@ -136,15 +136,15 @@
 
             <div class="col-md-6 mb-5">
                 <div class="pr-md-4">
-                    <h4 class="h6 font-weight-bold">مع من أتواصل إذا احتجت إلى مساعدة ؟</h4>
-                    <p>جميع بيانات التواصل موجودة في هذه الصفحة : <a href="https://www.exacall.com/contact-us">اتصل بنا</a></p>
+                    <h4 class="h6 font-weight-bold">Who can I contact if I need help?</h4>
+                    <p>All contact details are on this page: <a href="https://www.exacall.com/contact-us">Contact Us</a></p>
                 </div>
             </div>
 
             <div class="col-md-6 mb-5">
                 <div class="pl-md-4">
-                    <h4 class="h6 font-weight-bold">ماهي شروط الاشتراك ؟</h4>
-                    <p>سجل تجاري ساري المفعول خاص بالمنشأة و هوية صاحب المنشأة و خطاب تفويض في حال كان الموقع غير المدير العام</p>
+                    <h4 class="h6 font-weight-bold">What are the requirements of subscription?</h4>
+                    <p>Valid commercial registration of the establishment, the identity of the owner of the establishment and a letter of authorization in case the site is not the general manager</p>
                 </div>
             </div>
 
@@ -152,15 +152,15 @@
 
             <div class="col-md-6 mb-5">
                 <div class="pr-md-4">
-                    <h4 class="h6 font-weight-bold">ماهي طرق الدفع للاشتراك ؟</h4>
-                    <p>حوالة بنكية، باي بال</p>
+                    <h4 class="h6 font-weight-bold">What are the payment methods for subscription?</h4>
+                    <p>Wire transfer, Paypal.</p>
                 </div>
             </div>
 
             <div class="col-md-6 mb-5">
                 <div class="pl-md-4">
-                    <h4 class="h6 font-weight-bold">هل الخدمة مخصصة داخل السعودية فقط ؟</h4>
-                    <p>بإمكانك الاشتراك في خدمة اكسا كول أينما كُنت.</p>
+                    <h4 class="h6 font-weight-bold">Is the service only for Saudi Arabia?</h4>
+                    <p>You can subscribe to ExaCall wherever you are.</p>
                 </div>
             </div>
             <!-- >
@@ -175,8 +175,9 @@
               <!-->
             <div class="col-md-6 mb-5">
                 <div class="pl-md-4">
-                    <h4 class="h6 font-weight-bold">كيف أفعّل خدمة الرسالة الصوتية التفاعلية (IVR) ؟</h4>
-                    <p>إذا كانت الرسالة الصوتية متوفرة لديك فسيتم تفعيلها مباشرة لك.<br> أما إذا كنت ترغب بتسجيل رسالة صوتية تفاعلية مخصصة لك، فسيتم إرسال قائمة لك من الأصوات للاختيار منها للبدء بتفعيل الخدمة ( هذه الخدمة برسوم * ).</p>
+                    <h4 class="h6 font-weight-bold">How do I activate IVR?</h4>
+                    <p>If you have a voice message, it will be activated directly for you.
+If you wish to record an interactive voice message for you, a list of sounds will be sent to you to choose from to activate the service (Fee are applied for this service *).</p>
                 </div>
             </div>
 
