@@ -125,22 +125,17 @@
                     <p>You can find ExaCall services and features here : <a href="https://exacall.com/en/services">Solutions and services</a></p>
                 </div>
             </div>
-<!-- End Hero Section -->
-            <div class="col-md-6 mb-5">
+
+              <div class="col-md-6 mb-5">
                 <div class="pl-md-4">
                     <h4 class="h6 font-weight-bold">Who can I contact if I need help?</h4>
                     <p>All contact details are on this page: : <a href="https://exacall.com/en/contact-us">Contact Us</a></p>
                 </div>
             </div>
-<!-- End Hero Section -->
-            <div class="w-100"></div>
 
-            <div class="col-md-6 mb-5">
-                <div class="pr-md-4">
-                    <h4 class="h6 font-weight-bold">Who can I contact if I need help?</h4>
-                    <p>All contact details are on this page: <a href="https://www.exacall.com/contact-us">Contact Us</a></p>
-                </div>
-            </div>
+           <div class="w-100"></div>
+
+            
 
             <div class="col-md-6 mb-5">
                 <div class="pl-md-4">
