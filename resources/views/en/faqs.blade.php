@@ -41,7 +41,7 @@
                 <div class="w-md-80 w-lg-60 text-center mx-auto">
                     <!-- Title -->
                     <div class="mb-4">
-                        <h1 class="display-4 text-white">الأسئلة المتكررة</h1>
+                        <h1 class="display-4 text-white">FAQs</h1>
                         <p class="lead text-white"></p>
                     </div>
                     <!-- End Title -->
