@@ -164,7 +164,7 @@ If you wish to record an interactive voice message for you, a list of sounds wil
                     <p>You can subscribe to ExaCall wherever you are.</p>
                 </div>
             </div>
-            <!-- >
+               <!-- >
             <div class="w-100"></div>
 
             <div class="col-md-6 mb-5">
@@ -173,7 +173,7 @@ If you wish to record an interactive voice message for you, a list of sounds wil
                     <p>نعم، بإمكانك تجربة الخدمة إلى مدة أسبوع.</p>
                 </div>
             </div>
-              <!-->
+            
             <div class="col-md-6 mb-5">
                 <div class="pl-md-4">
                     <h4 class="h6 font-weight-bold">How do I activate IVR?</h4>
@@ -181,7 +181,7 @@ If you wish to record an interactive voice message for you, a list of sounds wil
 If you wish to record an interactive voice message for you, a list of sounds will be sent to you to choose from to activate the service (Fee are applied for this service *).</p>
                 </div>
             </div>
-
+                   <!-->
         </div>
         <!-- End FAQ -->
     </div>
