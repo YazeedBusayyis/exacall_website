@@ -254,7 +254,7 @@
                         <a class="text-white" href="https://twitter.com/ExaCall"><i class="fab fa-twitter mr-2"></i><b>Twitter</b></a>
                     </li><br>
                       <li class="list-inline-item mr-3">
-                        <a class="text-white" href="https://facebook.com/ExaCall"><i class="fab fa-facebook mr-2"></i><b>Facebook</b></a>
+                        <a class="text-white" href="https://www.facebook.com/ExaCall-257708981807980/"><i class="fab fa-facebook mr-2"></i><b>Facebook</b></a>
                     </li><br>
 
                     <li class="list-inline-item mr-3">
