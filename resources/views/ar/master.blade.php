@@ -247,7 +247,7 @@
                     </li><br>
                     
                      <li class="list-inline-item ml-3">
-                        <a class="text-white" href="https://facebook.com/ExaCall"><i class="fab fa-facebook ml-2"></i><b>فيس بوك</b></a>
+                        <a class="text-white" href="https://www.facebook.com/ExaCall-257708981807980/"><i class="fab fa-facebook ml-2"></i><b>فيس بوك</b></a>
                     </li><br>
                    
                     <li class="list-inline-item ml-3">
