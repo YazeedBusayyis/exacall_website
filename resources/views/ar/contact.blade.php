@@ -69,9 +69,9 @@
                                     </li>
 
                                     <li class="media align-items-center py-2">
-                                        <span class="fa fa-envelope ml-3 text-white" style = "display: contents;"></span>
+                                        <span class="fa fa-envelope ml-3 text-white"></span>
                                         <div class="media-body text-white">المبيعات:sales@exacall.com</div>
-                                        <div class="media-body text-white">الدعم الفني:support@exacall.com </div>
+                                        <div class="media-body text-white"  style = "display: contents;" >الدعم الفني:support@exacall.com </div>
 
                                         
                                     </li>
