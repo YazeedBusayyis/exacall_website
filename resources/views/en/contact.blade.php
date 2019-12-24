@@ -70,8 +70,8 @@
 
                                     <li class="media align-items-center py-2">
                                         <span class="fa fa-envelope mr-3 text-white"></span>
-                                        <div class="media-body text-white">Sales : voip.sales@exaserve.com</div>
-                                        <div class="media-body text-white">Support : voip.support@exaserve.com</div>
+                                        <div class="media-body text-white">Sales : sales@exacall.com</div>
+                                        <div class="media-body text-white">Support : support@exacall.com</div>
                                     </li>
                                 </ul>
                                 <!-- End Contacts List -->
