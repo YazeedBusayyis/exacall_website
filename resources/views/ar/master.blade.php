@@ -1,7 +1,20 @@
 <!doctype html>
 <html lang="{{ app()->getLocale() }}">
 <head>
+    
+    <!-- Global site tag (gtag.js) - Google Ads: 882052461 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-882052461"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'AW-882052461');
+</script>
+    
+    
+    
+    
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121364308-1"></script>
     <script>
