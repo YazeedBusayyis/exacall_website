@@ -120,7 +120,7 @@
                                     </div>
                                     <!-- End Input -->
 
-                                    <button id="orderNow" type="submit" class="btn btn-block btn-primary">Join Us Now</button>
+                                    <button id="orderNow" type="submit" class="btn btn-block btn-primary tracking-button">Join Us Now</button>
                                 </form>
                             </div>
                             <!-- End Signup Form -->
