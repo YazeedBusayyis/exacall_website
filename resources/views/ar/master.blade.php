@@ -12,7 +12,24 @@
   gtag('config', 'AW-882052461');
 </script>
     
-    
+    <!-- Event snippet for Test1 conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-882052461/9ZnACNjNsrwBEO2azKQD',
+      'event_callback': callback
+  });
+  return false;
+}
+$(".tracking-button").click(function() {gtag_report_conversion()});
+});
+</script>
     
     
     <!-- Global site tag (gtag.js) - Google Analytics -->
