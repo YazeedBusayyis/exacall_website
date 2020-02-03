@@ -2,15 +2,7 @@
 <html lang="{{ app()->getLocale() }}">
 <head>
     
-    <!-- Global site tag (gtag.js) - Google Ads: 882052461 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-882052461"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'AW-882052461');
-</script>
+    
     
     <!-- Event snippet for Test1 conversion page
 In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
