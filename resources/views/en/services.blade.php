@@ -85,8 +85,6 @@
                 <!-- End Icon Block -->
             </div>
             
-            
-            
              <!-- Service || -->
             <div class="col-sm-6 mb-7 mb-sm-9">
                 <!-- Icon Block -->
@@ -103,22 +101,7 @@ To simplify the business for you and analyze your leads ’data to know your cus
                     </p>
                 </div>
                 <!-- End Icon Block -->
-            </div>
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
+            </div>          
             
             <div class="col-12">
                 <hr>
