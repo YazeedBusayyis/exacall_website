@@ -83,8 +83,6 @@
                 </div>
                 <!-- End Icon Block -->
             </div>
-            
-            
                         <!-- Service || -->
             <div class="col-sm-6 mb-7 mb-sm-9">
                 <!-- Icon Block -->
@@ -102,7 +100,6 @@
                 <!-- End Icon Block -->
             </div>
 
-            
             
             
             <div class="col-12">
