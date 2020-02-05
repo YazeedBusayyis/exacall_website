@@ -84,6 +84,42 @@
                 </div>
                 <!-- End Icon Block -->
             </div>
+            
+            
+            
+             <!-- Service || -->
+            <div class="col-sm-6 mb-7 mb-sm-9">
+                <!-- Icon Block -->
+                <div class="pr-lg-4">
+                    <img class="max-width-9 mb-2" src="/assets/svg/components/contacts-primary-icon.svg" alt="Image Description">
+                    <p>
+                        <b>CRM :</b>
+                        <br>
+                    <p class="text-justify">
+                    Marketing, sales, warehouse or warehouse management, as well as technical support, all in one platform
+To simplify the business for you and analyze your leads ’data to know your customers, their needs and your previous interactions with them
+  To create the best customer experience for you
+  </p>
+                    </p>
+                </div>
+                <!-- End Icon Block -->
+            </div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
             <div class="col-12">
                 <hr>
             </div>
