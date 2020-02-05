@@ -3,7 +3,7 @@
     @section('meta')
 
         <!--  Essential META Tags -->
-        <title>الأسعار والباقات | اكسا كول</title>
+        <title></title>
         <meta name="description" content="نظام مرن مصمم بطريقة احترافية لإدارة اتصالاتك الهاتفية">
         <meta name="keywords" content="اتصالات,اكساكول,تحويل مكالمات,تسجيل مكالمات,سنترال سحابي,هاتف موحد,مجموعات اتصال,اجتماعات هاتفية,خط أرضي,مراقبة مكالمات,كول سنتر,voip,9200,011,call center,exa,exacall,Business,Startup,call,calls">
         <!--  OG -->
