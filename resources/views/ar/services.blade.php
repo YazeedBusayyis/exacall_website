@@ -89,7 +89,7 @@
             <div class="col-sm-6 mb-7 mb-sm-9">
                 <!-- Icon Block -->
                 <div class="pr-lg-4">
-                    <img class="max-width-9 mb-2" src="assets/svg/components/contacts-primary-icon.svg" alt="Image Description">
+                    <img class="max-width-9 mb-2" src="assets/svg/components/team-dark-icon.svg" alt="Image Description">
                     <p>
                         <b>إدارة علاقات العملاء  (CRM)</b>
                         <br>
