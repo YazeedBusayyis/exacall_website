@@ -307,7 +307,7 @@
                 </div>
 				
             </div>
-			
+				<div class="clearfix"></div>
 			
 			 	<div class="container">
                 <div class="bg-gray-100 shadow-lg rounded mt-offset-9">
