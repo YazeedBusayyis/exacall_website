@@ -302,6 +302,7 @@
             </div>
         </div>
         <!-- End Pricing Section -->
+		<div style="height: 102px"></div>
 		 <!-- Pricing Section -->
         <div class="container">
             <div class="bg-gray-100 shadow-lg rounded mt-offset-9">
