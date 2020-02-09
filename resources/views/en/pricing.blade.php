@@ -397,7 +397,7 @@
                             <!-- Header -->
                             <header class="card-header text-center p-5">
                                 <h4 class="h4">CRM Package 8 users</h4>
-                                <p>Suitable for Entrepreneurs</p>
+                                
                                 {{--<span class="d-block">--}}
                                         {{--<span class="display-4 text-dark">Contact Us</span>--}}
                                         {{--<span class="d-block text-secondary" style="font-size: 25px;">for Quotation</span>--}}
