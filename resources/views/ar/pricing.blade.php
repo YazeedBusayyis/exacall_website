@@ -335,13 +335,13 @@
                                         <li class="d-flex align-items-center py-2">
                                             <span class="fa fa-check font-size-13 ml-3"></span>
                                             <span>مبيعات 405 ريال</span>
-                                            <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+                                           <!-- <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>-->
 
                                         </li>
                                         <li class="d-flex align-items-center py-2">
                                             <span class="fa fa-check font-size-13 ml-3"></span>
                                             <span>الدعم الفني 405 ريال</span>
-                                            <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
+                                            <!--<span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>-->
 
                                         </li>
                                         <li class="d-flex align-items-center py-2">
@@ -382,13 +382,13 @@
                                         <li class="d-flex align-items-center py-2">
                                             <span class="fa fa-check font-size-13 ml-3"></span>
                                             <span>مبيعات650 ريال</span>
-                                            <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+                                           <!-- <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>-->
 
                                         </li>
                                         <li class="d-flex align-items-center py-2">
                                             <span class="fa fa-check font-size-13 ml-3"></span>
                                             <span>الدعم الفني 650 ريال</span>
-                                            <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
+                                           <!-- <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>-->
 
                                         </li>
                                         <li class="d-flex align-items-center py-2">
@@ -429,12 +429,12 @@
                                         <li class="d-flex align-items-center py-2">
                                             <span class="fa fa-check font-size-13 ml-3"></span>
                                             <span>مبيعات1000 ريال</span>
-                                            <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+                                           <!-- <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>-->
                                         </li>
                                         <li class="d-flex align-items-center py-2">
                                             <span class="fa fa-check font-size-13 ml-3"></span>
                                             <span>الدعم الفني1000 ريال</span>
-                                            <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
+                                           <!-- <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>-->
                                         </li>
                                         <li class="d-flex align-items-center py-2">
                                             <span class="fa fa-check font-size-13 ml-3"></span>
