@@ -284,6 +284,21 @@
                                     </div>
                                     <!-- End Icon Block -->
                                 </div>
+								<div class="col-sm-6 mb-7 mb-sm-9">
+                                    <!-- Icon Block -->
+                                    <div class="pr-lg-4">
+                                        <img class="max-width-7 mb-3" src="assets/svg/components/team-dark-icon.svg" alt="Image Description">
+                                        <p>
+                                            <b>إدارة علاقات العملاء  (CRM)</b>
+                                            <br>
+                                        <p class="text-justify">التسويق والمبيعات وادارة المستودعات او المخازن وكذلك الدعم الفني, جميعها في منصّة واحدة 
+										لتبسط لك الأعمال وتحلل لك بيانات العملاء المحتملين لمعرفة عملائك واحتياجاتهم وتفاعلاتك السابقة معهم
+										 لإنشاء أفضل تجربة عملاء لك
+										.</p>
+                                        </p>
+                                    </div>
+                                    <!-- End Icon Block -->
+                                </div>
                             </div>
                         </div>
 
