@@ -419,18 +419,12 @@
                                         <span>Ticketing 1000 SAR</span>
                                         
                                     </li>
-                                    <li class="d-flex align-items-center py-2">
-                                        <span class="fa fa-check font-size-13 mr-3"></span>
-                                        <span>Provide 9200</span>
-                                    </li>
+                                   
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
                                         <span>Marketing 960 SAR</span>
                                     </li>
-                                    <li class="d-flex align-items-center py-2">
-                                        <span class="fa fa-check font-size-13 mr-3"></span>
-                                        <span>Saving recorded phone calls for a month</span>
-                                    </li>
+                                   
                                     <li class="d-flex align-items-center py-2">
                                         <span class="fa fa-check font-size-13 mr-3"></span>
                                         <span>All Features 1120 SAR</span>
