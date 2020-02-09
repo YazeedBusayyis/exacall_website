@@ -305,6 +305,251 @@
                     </div>
                     <!-- End Monthly -->
                 </div>
+				
+            </div>
+			
+			
+			 	<div class="container">
+                <div class="bg-gray-100 shadow-lg rounded mt-offset-9">
+                    <!-- Monthly -->
+                    <div id="pricingMonthly" data-target-group="idPricing">
+                        <div class="card-deck" dir="rtl">
+
+                            <!-- Pricing -->
+                            <div class="card">
+                                <!-- Header -->
+                                <header class="card-header text-center p-5">
+                                    <h4 class="h4">مايكرو</h4>
+                                    <p>مناسبة للشركات الناشئة</p>
+                                    {{--<span class="d-block">--}}
+                                            {{--<span class="display-4 text-dark">تواصل معنا</span>--}}
+                                            {{--<span class="d-block text-secondary" style="font-size: 25px;">واحصل على تسعيرة</span>--}}
+                                            {{--<span class="display-4 text-dark">299 ريال</span>--}}
+                                            {{--<span class="d-block text-secondary font-size-14">لكل شهر</span>--}}
+                                        {{--</span>--}}
+                                </header>
+                                <!-- End Header -->
+                                <!-- Content -->
+                                <div class="card-body p-5">
+                                    <ul class="list-unstyled mb-4">
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>تصل إلى 3 تحويلات</span>
+                                            <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>تصل إلى 2 مكالمات متزامنة</span>
+                                            <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
+
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>توفير رقم 9200</span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>توفير رقم 011</span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>تخزين المكالمات المسجلة لشهر</span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>عرض سجل مكالمات متكامل</span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>المكالمات مجانية بين التحويلات</span>
+                                        </li>
+                                    </ul>
+                                     <div class="mb-2 text-center">
+                                    <span class="card-price text-center">299 ريال</span>
+                                    <span class="period">/ شهريا</span>
+                                </div>
+                                    <a href="#order" class="btn btn-block btn-primary">احصل على تسعيرة</a>
+                                   
+                                </div>
+                                <!-- End Content -->
+                            </div>
+                            <!-- Pricing -->
+                            <div class="card">
+                                <!-- Header -->
+                                <header class="card-header text-center p-5">
+                                    <h4 class="h4">المصغرة</h4>
+                                    <p>مناسبة لفرق العمل الصغيرة</p>
+                                    {{--<span class="d-block">--}}
+                                            {{--<span class="display-4 text-dark">تواصل معنا</span>--}}
+                                            {{--<span class="d-block text-secondary" style="font-size: 25px;">واحصل على تسعيرة</span>--}}
+                                            {{--<span class="display-4 text-dark">599 ريال</span>--}}
+                                            {{--<span class="d-block text-secondary font-size-14">لكل شهر</span>--}}
+                                        {{--</span>--}}
+                                </header>
+                                <!-- End Header -->
+                                <!-- Content -->
+                                <div class="card-body p-5">
+                                    <ul class="list-unstyled mb-4">
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>تصل إلى 5 تحويلات</span>
+                                            <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>تصل إلى 4 مكالمات متزامنة</span>
+                                            <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
+
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>توفير رقم 9200</span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>توفير رقم 011</span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>تخزين المكالمات المسجلة لشهر</span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>عرض سجل مكالمات متكامل</span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>المكالمات مجانية بين التحويلات</span>
+                                        </li>
+                                    </ul>
+                                      <div class="mb-2 text-center">
+                                    <span class="card-price text-center">599 ريال</span>
+                                    <span class="period">/ شهريا</span>
+                                </div>
+                                    <a href="#order" class="btn btn-block btn-primary">احصل على تسعيرة</a>
+                                </div>
+                                <!-- End Content -->
+                            </div>
+                            <!-- End Pricing -->
+                            <!-- Pricing -->
+                            <div class="card">
+                                <!-- Header -->
+                                <header class="card-header text-center p-5">
+                                    <h4 class="h4">الأساسية</h4>
+                                    <p>مناسبة لرواد الأعمال</p>
+                                    {{--<span class="d-block">--}}
+                                            {{--<span class="display-4 text-dark">تواصل معنا</span>--}}
+                                            {{--<span class="d-block text-secondary" style="font-size: 25px;">واحصل على تسعيرة</span>--}}
+                                            {{--<span class="display-4 text-dark">999 ريال</span>--}}
+                                            {{--<span class="d-block text-secondary font-size-14">لكل شهر</span>--}}
+                                        {{--</span>--}}
+                                </header>
+                                <!-- End Header -->
+                                <!-- Content -->
+                                <div class="card-body p-5">
+                                    <ul class="list-unstyled mb-4">
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>تصل إلى 8 تحويلات</span>
+                                            <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>تصل إلى 7 مكالمات متزامنة</span>
+                                            <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>توفير رقم 9200</span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>توفير رقم 011</span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>تخزين المكالمات المسجلة لشهر</span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>عرض سجل مكالمات متكامل</span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>المكالمات مجانية بين التحويلات</span>
+                                        </li>
+                                    </ul>
+                                     <div class="mb-2 text-center">
+                                    <span class="card-price text-center">999 ريال</span>
+                                    <span class="period">/ شهريا</span>
+                                </div>
+                                    <a href="#order" class="btn btn-block btn-primary">احصل على تسعيرة</a>
+                                   
+                                </div>
+                                <!-- End Content -->
+                            </div>
+                            <!-- End Pricing -->
+                            <!-- Pricing -->
+                            <div class="card">
+                                <!-- Header -->
+                                <header class="card-header text-center p-5">
+                                    <h4 class="h4">المخصصة</h4>
+                                    <p>قم بتصميم الباقة الخاصة بك</p>
+                                    {{--<span class="d-block">--}}
+                                            {{--<span class="display-4 text-dark">تواصل معنا</span>--}}
+                                            {{--<span class="d-block text-secondary" style="font-size: 25px;">واحصل على تسعيرة</span>--}}
+                                            {{--<span class="display-4 text-dark">اتصل بنا</span>--}}
+                                        {{--</span>--}}
+                                </header>
+                                <!-- End Header -->
+                                <!-- Content -->
+                                <div class="card-body p-5">
+                                    <ul class="list-unstyled mb-4">
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>أكثر من 8 تحويلات</span>
+                                            <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="التحويلة هي عبارة عن معرف أو رقم يمثل أحد الموظفين أو أحد الأقسام"></span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>أكثر من 7 مكالمات متزامنة</span>
+                                            <span class="fa fa-info-circle text-secondary mr-2" data-toggle="tooltip" data-placement="top" title="" data-original-title="المكالمات المتزامنة هي عدد المكالمات المستقبلة في نفس الوقت"></span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>توفير رقم 9200</span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>توفير رقم 011</span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>تخزين المكالمات المسجلة لشهر</span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>عرض سجل مكالمات متكامل</span>
+                                        </li>
+                                        <li class="d-flex align-items-center py-2">
+                                            <span class="fa fa-check font-size-13 ml-3"></span>
+                                            <span>المكالمات مجانية بين التحويلات</span>
+                                        </li>
+                                    </ul>
+                                    <a href="#order" class="btn btn-block btn-primary">احصل على تسعيرة</a>
+                                </div>
+                                <!-- End Content -->
+                            </div>
+                            <!-- End Pricing -->
+
+                        </div>
+                        <!-- End Pricing -->
+                    </div>
+                    <!-- End Monthly -->
+                </div>
+				
             </div>
             <!-- End Pricing Section -->
 
@@ -376,7 +621,7 @@
                 {{--</table>--}}
                 <!-- End Entertainment Pricing Table Features -->
                 <br/>
-                <!-- Individual Pricing Table Features -->
+                <!-- Individual Pricing Table Features 
                 <table class="table table-striped table-borderless table-responsive-sm mb-9">
                     <thead>
                     <tr>
@@ -527,6 +772,7 @@
                         </tr>
                     </tbody>
                 </table>
+				-->
                 <!-- End Individual Pricing Table Features -->
             </div>
             <!-- End Pricing Table Section -->
