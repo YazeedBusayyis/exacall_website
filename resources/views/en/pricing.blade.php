@@ -302,9 +302,155 @@
             </div>
         </div>
         <!-- End Pricing Section -->
-
+		 <!-- Pricing Section -->
+        <div class="container">
+            <div class="bg-gray-100 shadow-lg rounded mt-offset-9">
+                <!-- Monthly -->
+                <div id="pricingMonthly" data-target-group="idPricing">
+                    <div class="card-deck" dir="ltr">
+                        <!-- Pricing -->
+                        <div class="card">                        
+                            <!-- Header -->
+                            <header class="card-header text-center p-5">
+                                <h4 class="h4">CRM Package 3 users</h4>
+                              
+                                {{--<span class="d-block">--}}
+                                        {{--<span class="display-4 text-dark">Contact Us</span>--}}
+                                        {{--<span class="d-block text-secondary" style="font-size: 25px;">for Quotation</span>--}}
+                                        {{--<span class="display-4 text-dark">299 SAR</span>--}}
+                                        {{--<span class="d-block text-secondary font-size-14">per month</span>--}}
+                                {{--</span>--}}
+                            </header>
+                            <!-- End Header -->
+                            <!-- Content -->
+                            <div class="card-body p-5">
+                                <ul class="list-unstyled mb-4">
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Sales 405 SAR</span>
+                                       
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Ticketing 405 SAR</span>
+                                       
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Marketing 390 SAR</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>All Features 447 SAR </span>
+                                    </li>
+                                </ul>
+                                <a href="#order" class="btn btn-block btn-primary">Contact us for quotation</a>
+                            </div>
+                            <!-- End Content -->
+                        </div>
+                        <!-- End Pricing -->
+                        <!-- Pricing -->
+                        <div class="card">                        
+                            <!-- Header -->
+                            <header class="card-header text-center p-5">
+                                <h4 class="h4">CRM Package 5 users</h4>
+                               
+                                {{--<span class="d-block">--}}
+                                        {{--<span class="display-4 text-dark">Contact Us</span>--}}
+                                        {{--<span class="d-block text-secondary" style="font-size: 25px;">for Quotation</span>--}}
+                                        {{--<span class="display-4 text-dark">599 SAR</span>--}}
+                                        {{--<span class="d-block text-secondary font-size-14">per month</span>--}}
+                                {{--</span>--}}
+                            </header>
+                            <!-- End Header -->
+                            <!-- Content -->
+                            <div class="card-body p-5">
+                                <ul class="list-unstyled mb-4">
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Sales 650 SAR</span>
+                                       
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Ticketing 650 SAR</span>
+                                       
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Marketing 625 SAR</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>All Features 725 SAR</span>
+                                    </li>
+                                </ul>
+                                
+                                <a href="#order" class="btn btn-block btn-primary">Contact us for quotation</a>
+                            </div>
+                            <!-- End Content -->
+                        </div>
+                        <!-- End Pricing -->
+                        <!-- Pricing -->
+                        <div class="card">
+                            <!-- Header -->
+                            <header class="card-header text-center p-5">
+                                <h4 class="h4">CRM Package 8 users</h4>
+                                <p>Suitable for Entrepreneurs</p>
+                                {{--<span class="d-block">--}}
+                                        {{--<span class="display-4 text-dark">Contact Us</span>--}}
+                                        {{--<span class="d-block text-secondary" style="font-size: 25px;">for Quotation</span>--}}
+                                        {{--<span class="display-4 text-dark">999 SAR</span>--}}
+                                        {{--<span class="d-block text-secondary font-size-14">per month</span>--}}
+                                {{--</span>--}}
+                            </header>
+                            <!-- End Header -->
+                            <!-- Content -->
+                            <div class="card-body p-5">
+                                <ul class="list-unstyled mb-4">
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Sales 1000 SAR</span>
+                                        
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Ticketing 1000 SAR</span>
+                                        
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Provide 9200</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Marketing 960 SAR</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>Saving recorded phone calls for a month</span>
+                                    </li>
+                                    <li class="d-flex align-items-center py-2">
+                                        <span class="fa fa-check font-size-13 mr-3"></span>
+                                        <span>All Features 1120 SAR</span>
+                                    </li>
+                                   
+                                </ul>
+                                <a href="#order" class="btn btn-block btn-primary">Contact us for quotation</a>
+                            </div>
+                            <!-- End Content -->
+                        </div>
+                        <!-- End Pricing -->
+                       
+                    </div>
+                    <!-- End Pricing -->
+                </div>
+                <!-- End Monthly -->
+            </div>
+        </div>
+        <!-- End Pricing Section -->
         <!-- Pricing Table Section -->
-        <div class="container space-2 space-3-bottom--lg">
+       <!-- <div class="container space-2 space-3-bottom--lg">
             <!-- Entertainment Pricing Table Features -->
             {{--<table class="table table-striped table-borderless table-responsive-sm text-left">--}}
                 {{--<thead>--}}
@@ -516,7 +662,7 @@
                 </tbody>
             </table>
             <!-- End Individual Pricing Table Features -->
-        </div>
+        <!--</div>-->
         <!-- End Pricing Table Section -->
 
         <!-- Hero Section -->
