@@ -44,6 +44,7 @@
                         <div class="mb-9">
                             <h1 class="display-4 text-white">Pricing and Plans</h1>
                             <p class="lead text-white">Get ( 1 Month ) FREE when subscribing for a year</p>
+							<h3 class="display-4 text-white" style="position: relative; top: 80px; font-size: 40px;">Cloud Central</h3>
                         </div>
                         <!-- End Title -->
 
@@ -306,6 +307,7 @@
 		 <!-- Pricing Section -->
         <div class="container">
             <div class="bg-gray-100 shadow-lg rounded mt-offset-9">
+				<h3 class="display-4 text-black" style="font-size: 40px; text-align: center; margin-top: 23px; padding: 10px;">C.R.M</h3>
                 <!-- Monthly -->
                 <div id="pricingMonthly" data-target-group="idPricing">
                     <div class="card-deck" dir="ltr">
