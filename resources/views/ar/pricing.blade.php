@@ -43,7 +43,7 @@
                             <div class="mb-9">
                                 <h1 class="display-4 text-white">الأسعار والباقات</h1>
                                 <p class="lead text-white">لاتفوت الفرصة .. احصل على <b>( شهر مجانا )</b> عندك اشتراكك لمدة سنة</p>
-								<h3 class="display-4 text-white">باقات السنترال السحابي</h3>
+								<h3 class="display-4 text-white" style ="position: relative; top: 80px; font-size: 40px;">باقات السنترال السحابي</h3>
                             </div>
                             <!-- End Title -->
 
@@ -312,7 +312,7 @@
 			
 			 	<div class="container crm">
                 <div class="bg-gray-100 shadow-lg rounded mt-offset-9">
-					<h3 class="display-4 text-black">باقات السنترال السحابي</h3>
+					<h3 class="display-4 text-black" style = "font-size: 40px; text-align: center; margin-top: 23px; padding: 10px;">باقات إدارة علاقات العملاء</h3>
                     <!-- Monthly -->
                     <div id="pricingMonthly" data-target-group="idPricing">
                         <div class="card-deck" dir="rtl">
