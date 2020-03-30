@@ -2,13 +2,7 @@
 <html lang="{{ app()->getLocale() }}">
 <head>
     
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'UA-121364308-1');
-    </script>
+        
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
