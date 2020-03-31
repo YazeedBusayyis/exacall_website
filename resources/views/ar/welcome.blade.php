@@ -117,7 +117,7 @@
                                     </div>
                                     <!-- End Input -->
 
-                                    <button id="orderNow" type="submit" class="btn btn-block btn-primary  tracking-button ">قدم طلبك الآن</button>
+                                    <button id="orderNow" type="submit" class="btn btn-block btn-primary">قدم طلبك الآن</button>
                                 </form>
                             </div>
                             <!-- End Signup Form -->
