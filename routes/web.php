@@ -132,7 +132,7 @@ Route::post('/submit_new_order', function (Request $request) {
             return redirect('/successful-order');
         }
         //If is not inserted
-        return redirect('/unsuccessful-order');
+        return redirect('noooooo');
     }
     return redirect('/successful-order');
 
