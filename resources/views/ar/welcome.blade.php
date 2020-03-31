@@ -18,7 +18,6 @@
     <meta name="twitter:description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال"/>
     <meta name="twitter:image" content="/assets/svg/logos/og_img_link.jpg" />
 
-<script src='https://crm.zoho.com/crm/WebFormServeServlet?rid=f3c75f6aadf2e499e6bb3497d1f8e0c0d6b1ab43ba1800c26f5351dd798d0a41gid8cdc051a4b1e6f9a722c3e1ce065b97d23913abdef92d95b152caae5256ec7eb&script=$sYG'></script>
 
 @endsection
 
