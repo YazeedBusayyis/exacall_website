@@ -1,3 +1,37 @@
+@extends('ar.master')
+
+@section('meta')
+
+    <!--  Essential META Tags -->
+    <title>حلول الاتصال للشركات ومراكز الأعمال | اكسا كول</title>
+    <meta name="description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال">
+    <meta name="keywords" content="اتصالات,اكساكول,تحويل مكالمات,تسجيل مكالمات,سنترال سحابي,هاتف موحد,مجموعات اتصال,اجتماعات هاتفية,خط أرضي,مراقبة مكالمات,كول سنتر,voip,9200,011,call center,exa,exacall,Business,Startup,call,calls">
+    <!--  OG -->
+    <meta property="og:title" content="حلول الاتصال للشركات ومراكز الاتصال | اكسا كول">
+    <meta property="og:description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال">
+    <meta property="og:image" content="/assets/svg/logos/og_img_link.jpg">
+    <meta property="og:url" content="https://www.exacall.com">
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@exacall"/>
+    <meta name="twitter:title" content="حلول الاتصال للشركات ومراكز الاتصال | اكسا كول" />
+    <meta name="twitter:description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال"/>
+    <meta name="twitter:image" content="/assets/svg/logos/og_img_link.jpg" />
+
+
+@endsection
+
+@section('logo')
+
+    <a class="navbar-brand u-header__navbar-brand" href="https://www.exacall.com" aria-label="Space">
+        <img class="u-header__navbar-brand-default logo" src="assets/svg/logos/exacall_logo_white_2.png" alt="Logo">
+        <img class="u-header__navbar-brand-on-scroll logo" src="assets/svg/logos/exacall_logo_2.png" alt="Logo">
+        <img class="u-header__navbar-brand-mobile" src="assets/svg/logos/exacall_logo_2.png" alt="Logo">
+    </a>
+@endsection
+
+@section('content')
+
 <!-- Note :
    - You can modify the font style and form style to suit your website. 
    - Code lines with comments ���Do not remove this code���  are required for the form to work properly, make sure that you do not remove these lines of code. 
