@@ -44,9 +44,7 @@ $(".tracking-button").click(function() {gtag_report_conversion()});
         gtag('config', 'UA-121364308-1');
     </script>
 	
-	 <!-- new zoho -->
-	<script src='https://crm.zoho.com/crm/WebFormServeServlet?rid=f3c75f6aadf2e499e6bb3497d1f8e0c0d6b1ab43ba1800c26f5351dd798d0a41gid8cdc051a4b1e6f9a722c3e1ce065b97d23913abdef92d95b152caae5256ec7eb&script=$sYG'></script>
-
+	
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
