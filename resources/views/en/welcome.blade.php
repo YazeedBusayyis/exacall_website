@@ -1,7 +1,13 @@
 @extends('en.master')
 
 @section('meta')
-
+	<script>
+    $(document).ready(function() {
+      $('#iframeID1').on('load', function() {
+        $('#iframeID2').contents().find('html').html($('#iframeID1').contents().find('html').html());
+      });
+    });
+  </script>
     <!--  Essential META Tags -->
     <title>Call solutions for businesses and contact centers | ExaCall</title>
     <meta name="description" content="اكساء كول هي شركة تقدم أفضل الحلول المبتكرة للاتصالات الهاتفية بنظام مرن ومتكامل لتخدم من خلاله الشركات ومراكز الاتصال">
@@ -55,73 +61,8 @@
                         <div class="col-lg-5">
                             <!-- Signup Form -->
                             <div class="bg-white shadow-sm rounded p-6">
-                                <form method="post" action="/en/submit_new_order" class="js-validate">
-                                    <input type="hidden" name="_token" value="{{ csrf_token() }}">
-                                    <div class="mb-3">
-                                        <h2 class="h4 text-left text-uppercase">
-                                            <b>Never miss a call !</b>
-                                        </h2>
-                                    </div>
-
-                                    <!-- Name - Input -->
-                                    <div class="js-form-message mb-3">
-                                        <div class="js-focus-state input-group form">
-                                            <input type="text" class="form-control form__input" name="name" required
-                                                   placeholder="Name"
-                                                   aria-label="Name">
-                                        </div>
-                                    </div>
-                                    <!-- End Input -->
-
-                                    <!-- Email - Input -->
-                                    <div class="js-form-message mb-3">
-                                        <div class="js-focus-state input-group form">
-                                            <input id="Email" type="email" class="form-control form__input" name="email" required
-                                                   placeholder="Email"
-                                                   aria-label="Email">
-                                        </div>
-                                    </div>
-                                    <!-- End Input -->
-
-                                    <!-- Phone - Input -->
-                                    <div class="js-form-message mb-3">
-                                        <div class="js-focus-state input-group input-group form">
-                                            <input type="tel" class="form-control form__input" name="mobile" required
-                                                   placeholder="Mobile"
-                                                   aria-label="Mobile">
-                                        </div>
-                                    </div>
-                                    <!-- End Input -->
-
-                                    <!-- Website - Input -->
-                                    <div class="js-form-message mb-3">
-                                        <div class="js-focus-state input-group input-group form">
-                                            <input type="url" class="form-control form__input" name="website" required
-                                                   placeholder="Company Website"
-                                                   aria-label="Company Website">
-                                        </div>
-                                    </div>
-                                    <!-- End Input -->
-
-                                    <!-- Company Size - Input -->
-                                    <div class="js-form-message mb-3">
-                                        <div class="js-focus-state input-group input-group form">
-                                            <select type="phone" class="form-control form__input" name="size" required
-                                                    placeholder="Company Size"
-                                                    aria-label="Company Size">
-                                                <option disabled selected>Company Size</option>
-                                                <option value="1">Work alone</option>
-                                                <option value="2 - 10">From 2 to 10</option>
-                                                <option value="11 - 50">From 11 to 50</option>
-                                                <option value="51 - 100">From 51 - 100</option>
-                                                <option value="+ 100">More than 100</option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                    <!-- End Input -->
-
-                                    <button id="orderNow" type="submit" class="btn btn-block btn-primary tracking-button">Join Us Now</button>
-                                </form>
+                                <iframe id="iframeID1" src="https://exacall.com/registration/" frameborder="0" scrolling="no" width="180px" height="512" align="left">
+    </iframe>
                             </div>
                             <!-- End Signup Form -->
                         </div>
