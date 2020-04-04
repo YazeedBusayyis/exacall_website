@@ -42,17 +42,14 @@
                     <div class="row justify-content-lg-between align-items-lg-center">
 
                         <!-- Big titles -->
-                        <div class="col-lg-5 mb-7 mb-lg-0">
-                            <!-- Title -->
+                         <!-- Title -->
                             <span class="d-block text-white mb-2">حلول الاتصال للشركات ومراكز الاتصال</span>
                             <h1 class="display-4 font-size-48--md-down text-white mb-0">النظام الأكثر مرونة لإدارة اتصالاتك ومراقبة أعمالك</h1>
-                            <a class="btn btn-outline-light mt-4" href="#what" style="border-radius: 50px;">تعرف أكثر علينا</a>
+                            <a class="btn btn-outline-light mt-4" href="https://exacall.com/registration/?page_id=22&lang=ar" style="border-radius: 50px;">تعرف أكثر علينا</a>
                             <!-- End Title -->
-                        </div>
 
                         <!-- Order Form -->
-                  		<iframe id="iframeID1" src="https://exacall.com/registration/?page_id=39&lang=ar" frameborder="0" scrolling="no" width="180px" height="512" align="left">
-    </iframe>
+                  		
 
                     </div>
                 </div>
