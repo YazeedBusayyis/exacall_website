@@ -51,77 +51,8 @@
                         </div>
 
                         <!-- Order Form -->
-                        <div class="col-lg-5">
-                            <!-- Signup Form -->
-                            <div class="bg-white shadow-sm rounded p-6">
-                                <form method="post" action="/submit_new_order" class="js-validate">
-                                    <input type="hidden" name="_token" value="{{ csrf_token() }}">
-                                    <div class="mb-4">
-                                        <h2 class="h4">لا تفوت مكالمة بعد اليوم !</h2>
-                                    </div>
-
-                                    <!-- Name - Input -->
-                                    <div class="js-form-message mb-3">
-                                        <div class="js-focus-state input-group form">
-                                            <input type="text" class="form-control form__input" name="name" required
-                                                   placeholder="اسم مقدم الطلب"
-                                                   aria-label="اسم مقدم الطلب">
-                                        </div>
-                                    </div>
-                                    <!-- End Input -->
-
-                                    <!-- Email - Input -->
-                                    <div class="js-form-message mb-3">
-                                        <div class="js-focus-state input-group form">
-                                            <input id="Email" type="email" class="form-control form__input" name="email" required
-                                                   placeholder="البريد الإلكتروني"
-                                                   aria-label="البريد الإلكتروني">
-                                        </div>
-                                    </div>
-                                    <!-- End Input -->
-
-                                    <!-- Phone - Input -->
-                                    <div class="js-form-message mb-3">
-                                        <div class="js-focus-state input-group input-group form">
-                                            <input type="tel" min="" class="form-control form__input" name="mobile" required
-                                                   placeholder="رقم الجوال"
-                                                   aria-label="رقم الجوال">
-                                        </div>
-                                    </div>
-                                    <!-- End Input -->
-
-                                    <!-- Website - Input -->
-                                    <div class="js-form-message mb-3">
-                                        <div class="js-focus-state input-group input-group form">
-                                            <input type="url" class="form-control form__input" name="website" required
-                                                   placeholder="الموقع الإلكتروني للشركة"
-                                                   aria-label="الموقع الإلكتروني للشركة">
-                                        </div>
-                                    </div>
-                                    <!-- End Input -->
-
-                                    <!-- Company Size - Input -->
-                                    <div class="js-form-message mb-3">
-                                        <div class="js-focus-state input-group input-group form">
-                                            <select type="phone" class="form-control form__input" name="size" required
-                                                    placeholder="حجم الشركة"
-                                                    aria-label="حجم الشركة">
-                                                <option disabled selected>حجم الشركة</option>
-                                                <option value="1">أعمل لوحدي</option>
-                                                <option value="2 - 10">من 2 - 10</option>
-                                                <option value="11 - 50">من 11 - 50</option>
-                                                <option value="51 - 100">من 51 - 100</option>
-                                                <option value="+ 100">أكثر من 100</option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                    <!-- End Input -->
-
-                                    <button id="orderNow" type="submit" class="btn btn-block btn-primary">قدم طلبك الآن</button>
-                                </form>
-                            </div>
-                            <!-- End Signup Form -->
-                        </div>
+                  		<iframe id="iframeID1" src="https://exacall.com/registration/?page_id=39&lang=ar" frameborder="0" scrolling="no" width="180px" height="512" align="left">
+    </iframe>
 
                     </div>
                 </div>
