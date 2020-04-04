@@ -41,7 +41,7 @@
                         <div class="w-md-80 w-lg-60 text-center mx-auto">
                             <!-- Title -->
                             <div class="mb-9">
-                                <h1 class="display-4 text-white">الأسعار والباقات</h1>
+                                <h1 class="display-4 text-white">الأسعار والباقاات</h1>
                                 <p class="lead text-white">لاتفوت الفرصة .. احصل على <b>( شهر مجانا )</b> عندك اشتراكك لمدة سنة</p>
 								<h3 class="display-4 text-white" style ="position: relative; top: 80px; font-size: 40px;">باقات السنترال السحابي</h3>
                             </div>
