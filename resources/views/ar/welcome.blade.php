@@ -550,7 +550,7 @@
                             <p class="lead text-white mb-5">تعلم الكثير من النصائح والأفكار لتحسين مستوى خدمة العملاء لديك وإدارة مركز الاتصال الخاص بك</p>
                         </div>
                         <div class="col-lg-12">
-                            <form method="post" action="web.php" class="form-inline d-flex justify-content-center">
+                            <form method="post" action="https://exacall.us18.list-manage.com/subscribe/post" class="form-inline d-flex justify-content-center">
                                 <input type="hidden" name="u" value="c631c0419954e2c52b478dede">
                                 <input type="hidden" name="id" value="3b3a65a8df">
                                 <div class="form-group mx-sm-3 mb-2">
